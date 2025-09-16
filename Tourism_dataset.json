@@ -1,0 +1,509 @@
+[
+    {
+      "id": 1,
+      "location_name": "Hunza Valley",
+      "province_or_region": "Gilgit-Baltistan",
+      "district_or_nearby": "Hunza District",
+      "category": "Tourist Destination",
+      "text_summary": "Hunza Valley is a breathtaking mountain region in northern Pakistan. Surrounded by snow-covered peaks and ancient forts, it attracts travellers for its views, trekking routes and warm-hearted people.",
+  
+      "best_time_to_visit": "April to October (pleasant weather, green valleys, fruit season)",
+  
+      "typical_temperature": {
+        "spring": {"min_c": 5, "max_c": 20},
+        "summer": {"min_c": 15, "max_c": 30},
+        "autumn": {"min_c": 0, "max_c": 18},
+        "winter": {"min_c": -5, "max_c": 5}
+      },
+  
+      "how_to_reach": {
+        "by_air": "Take a flight from Islamabad to Gilgit and then travel about 2–3 hours by road to Hunza.",
+        "by_road": "From Islamabad drive via Abbottabad and Chilas on the Karakoram Highway to Gilgit and onwards to Hunza. The road is scenic but can be blocked in winter."
+      },
+  
+      "cost_estimate": {
+        "budget_traveller": "Around Rs 8,000–12,000 per day (simple guesthouse, local food, shared transport)",
+        "mid_range": "Around Rs 15,000–25,000 per day (comfortable hotel, private car, more meals)",
+        "luxury": "Above Rs 40,000 per day (high-end resort, private jeep, guided treks)"
+      },
+  
+      "hotels": [
+        {
+          "name": "Hunza Serena Inn",
+          "category": "Luxury",
+          "approx_price_pkr": "From Rs 45,000 per night",
+          "location": "Karimabad",
+          "features": ["Mountain view", "Spa", "Hot water", "Guided treks"]
+        },
+        {
+          "name": "Eagle’s Nest Hotel",
+          "category": "Mid-range",
+          "approx_price_pkr": "From Rs 15,000 per night",
+          "location": "Karimabad",
+          "features": ["Panoramic view", "Wi-Fi", "Restaurant", "Bonfire"]
+        },
+        {
+          "name": "Budget Guesthouse Hunza",
+          "category": "Budget",
+          "approx_price_pkr": "From Rs 4,500 per night",
+          "location": "Altit",
+          "features": ["Shared bathroom", "Home cooking", "Local host", "Basic heating"]
+        }
+      ],
+  
+      "cuisine_and_food": {
+        "local_dishes": ["Chapshuro (meat pie)", "Yak meat stew", "Apricot soup", "Hunza bread"],
+        "vegetarian_options": ["Lentil curry", "Mixed vegetables", "Fresh apricots and nuts"],
+        "recommended_restaurants": ["Cafe de Hunza", "Panorama Restaurant", "Ali’s Eatery"]
+      },
+  
+      "stories_and_cultural_notes": [
+        "Hunza is surrounded by peaks like Rakaposhi, Ultar and Ladyfinger. Locals say these mountains are guardians of the valley.",
+        "Baltit Fort is believed to be over 700 years old and was once the seat of the Mir of Hunza.",
+        "Many visitors notice the healthy lifestyle of Hunza residents, who eat plenty of apricots, nuts and organic food."
+      ],
+  
+      "what_to_pack": [
+        "Warm clothes and layers (mornings and evenings are cold even in summer)",
+        "Comfortable shoes for walking and hiking",
+        "Sunhat and sunglasses",
+        "Rain jacket in spring/autumn",
+        "A warm shawl or light blanket if you plan to stay in basic guesthouses"
+      ],
+  
+      "history": {
+        "early_settlement": "Hunza lay on the old Silk Route connecting Central Asia with the Indian subcontinent.",
+        "forts_and_rulers": "Baltit and Altit Forts reflect the valley’s long history of local rulers (Mirs). Hunza retained semi-autonomous status until the mid-20th century.",
+        "modern_changes": "Better roads and guesthouses now bring many local and foreign visitors, though the valley still keeps much of its old charm."
+      },
+  
+      "source_urls": [
+        "https://www.visitgilgitbaltistan.gov.pk/district/id/8",
+        "https://en.wikipedia.org/wiki/Hunza_Valley"
+      ]
+    },
+  
+    {
+      "id": 2,
+      "location_name": "Swat Valley",
+      "province_or_region": "Khyber Pakhtunkhwa (KPK)",
+      "district_or_nearby": "Swat District",
+      "category": "Tourist Destination",
+      "text_summary": "Swat Valley, often called the 'Switzerland of Pakistan', is a lush green valley in northern Khyber Pakhtunkhwa. It is famous for its rivers, snow-capped peaks, forests and archaeological sites. Popular towns include Mingora, Malam Jabba, Bahrain and Kalam.",
+  
+      "best_time_to_visit": "April to October (greenery and pleasant weather) and December to February (snow at Malam Jabba)",
+  
+      "typical_temperature": {
+        "spring": {"min_c": 10, "max_c": 22},
+        "summer": {"min_c": 15, "max_c": 28},
+        "autumn": {"min_c": 7, "max_c": 20},
+        "winter": {"min_c": -2, "max_c": 8}
+      },
+  
+      "how_to_reach": {
+        "by_road": "Swat Valley can be reached by car or bus from Islamabad (approx. 4–5 hours) via M1 Motorway and Swat Expressway. Mingora is the main city.",
+        "by_air": "Saidu Sharif Airport near Mingora has limited domestic flights from Islamabad, depending on season and weather."
+      },
+  
+      "cost_estimate": {
+        "budget_traveller": "Around Rs 5,000–9,000 per day (guesthouse, local food, public transport)",
+        "mid_range": "Around Rs 12,000–20,000 per day (comfortable hotel, guided tours, private car hire)",
+        "luxury": "Above Rs 30,000 per day (resort accommodation, private 4x4 transport, special activities like skiing)"
+      },
+  
+      "hotels": [
+        {
+          "name": "Serena Hotel Swat",
+          "category": "Luxury",
+          "approx_price_pkr": "From Rs 35,000 per night",
+          "location": "Saidu Sharif",
+          "features": ["Spacious rooms", "Swimming pool", "Conference hall", "Garden view"]
+        },
+        {
+          "name": "Hotel White Palace",
+          "category": "Mid-range",
+          "approx_price_pkr": "From Rs 9,000 per night",
+          "location": "Marghazar",
+          "features": ["Historic building", "Mountain view", "Restaurant", "Wi-Fi"]
+        },
+        {
+          "name": "Budget Guesthouse Kalam",
+          "category": "Budget",
+          "approx_price_pkr": "From Rs 3,500 per night",
+          "location": "Kalam",
+          "features": ["Basic room", "Local food", "Hot water on request"]
+        }
+      ],
+  
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli Kebab", "Peshawari Karahi", "Charsi Tikka", "Kabuli Pulao"],
+        "snacks": ["Pakoras", "Local honey", "Fresh trout fish from rivers"],
+        "recommended_restaurants": ["River View Restaurant Kalam", "White Palace Restaurant", "Saidu Sharif Trout Farm"]
+      },
+  
+      "stories_and_cultural_notes": [
+        "Swat was once a center of the ancient Gandhara civilization; many Buddhist stupas and monasteries still exist.",
+        "It was a princely state until 1969 before merging into Pakistan.",
+        "Malam Jabba is Pakistan’s premier ski resort, developed initially with Austrian help in the 1980s."
+      ],
+  
+      "what_to_pack": [
+        "Light clothes for summer but carry a warm jacket for evenings",
+        "Hiking shoes for trails",
+        "Warm clothing and possibly a blanket or sleeping bag if visiting in winter or staying in basic guesthouses",
+        "Umbrella or raincoat during monsoon"
+      ],
+  
+      "history": {
+        "ancient": "Swat was an important center of Buddhism and the Gandhara Kingdom from around the 2nd century BCE. Many stupas and archaeological sites remain.",
+        "medieval": "Later became home to Pashtun tribes. Served as a route for various invaders including Alexander the Great’s army.",
+        "modern": "Swat was a princely state ruled by Wali of Swat until its merger into Pakistan in 1969. In recent years, tourism infrastructure has been rebuilt and improved."
+      },
+  
+      "source_urls": [
+        "https://kptourism.com/destination/swat-valley",
+        "https://en.wikipedia.org/wiki/Swat_District"
+      ]
+    },
+    {
+        "id": 3,
+        "location_name": "Abbottabad",
+        "province_or_region": "Khyber Pakhtunkhwa (KPK)",
+        "district_or_nearby": "Abbottabad District",
+        "category": "Tourist City",
+        "text_summary": "Abbottabad is a scenic city located in the foothills of northern Pakistan. It is known for its pleasant summers, lush greenery, historical sites and its role as a gateway to hill stations in Galyat and areas further north.",
+      
+        "best_time_to_visit": "March to May (spring) and September to November (autumn) for comfortable weather and fewer crowds",
+      
+        "typical_temperature": {
+          "spring": {"min_c": 12, "max_c": 25},
+          "summer": {"min_c": 18, "max_c": 32},
+          "autumn": {"min_c": 8, "max_c": 20},
+          "winter": {"min_c": -5, "max_c": 12}
+        },
+      
+        "how_to_reach": {
+          "by_road": "Drive from Islamabad (about 110-120 km) via the Grand Trunk Road and Hazara Expressway or via Murree & Abbottabad route. The road is well paved and scenic.",
+          "by_air": "Nearest large airport is Islamabad International. From there, road travel of about 2-3 hours to Abbottabad by car or bus."
+        },
+      
+        "cost_estimate": {
+          "budget_traveller": "Around Rs 3,000-6,000 per day (guesthouse, local food, local transport)",
+          "mid_range": "Around Rs 8,000-15,000 per day (better hotel, multiple meals, some guided tours)",
+          "luxury": "Above Rs 25,000 per day (nice hotel, private transport, sightseeing, guided hiking trips)"
+        },
+      
+        "hotels": [
+          {
+            "name": "Hotel One Abbottabad",
+            "category": "Mid-range",
+            "approx_price_pkr": "From Rs 10,000-15,000 per night",
+            "location": "Near Karakoram Highway / city centre",
+            "features": ["Comfortable rooms", "Wi-Fi", "Breakfast included", "Good access to major roads"]
+          },
+          {
+            "name": "Stargaze Hotel Abbottabad",
+            "category": "Mid-range / Boutique",
+            "approx_price_pkr": "From Rs 12,000-18,000 per night",
+            "location": "Closer to hills overlooking Abbottabad city",
+            "features": ["Scenic views", "Restaurant", "Modern décor", "Parking available"]
+          },
+          {
+            "name": "Pak Palace Guest House",
+            "category": "Budget",
+            "approx_price_pkr": "From Rs 4,000-7,000 per night",
+            "location": "Within city area",
+            "features": ["Basic amenities", "Clean rooms", "Local food", "Helpful staff"]
+          }
+        ],
+      
+        "cuisine_and_food": {
+          "local_dishes": ["Karahi", "Pulao", "Nihari", "Chapli kebab"],
+          "snacks_and_street_food": ["Pakoras near Ilyasi Masjid", "Tandoori chai", "Paratha shops in Main Bazaar"],
+          "recommended_restaurants": ["Hidden Hills Restaurant", "Red Onion", "Mir-Bakery cafés"]
+        },
+      
+        "stories_and_cultural_notes": [
+          "Abbottabad was founded in 1853 by Major James Abbott during the colonial period and named after him.",
+          "The city is famous for its educational institutions and military academy in Kakul, giving it a reputation for discipline and greenery.",
+          "Lady Garden Park, established during British rule, was originally laid out for the wives of European officers. Today it’s a peaceful green spot in the city."
+        ],
+      
+        "what_to_pack": [
+          "Light clothes for daytime especially in summer",
+          "Warm jacket for evenings and winter nights",
+          "Raincoat or umbrella during monsoon (July-August)",
+          "Comfortable walking shoes and sun protection",
+          "Layers if planning to go up to hills or nearby Galyat"
+        ],
+      
+        "history": {
+          "founding": "Abbottabad was established in 1853 by Major James Abbott under British colonial administration. It became a military cantonment and administrative centre.",
+          "colonial_influence": "Various colonial buildings like Lady Garden Park and Old Lockhart House reflect the architectural footprint of the British era.",
+          "modern_development": "Post-independence, Abbottabad has grown in education, health and tourism infrastructure. It serves as a gateway to popular hill stations in the Galyat region."
+        },
+      
+        "famous_places": [
+          {
+            "name": "Ilyasi Masjid",
+            "type": "Mosque / Religious Site",
+            "description": "Mosque built in 1932 over a natural spring. One of the oldest and largest in Abbottabad.",
+            "visiting_time": "Any time; best in early morning or after prayer times to avoid crowds"
+          },
+          {
+            "name": "Ayubia National Park",
+            "type": "Nature Park / Hill Station",
+            "description": "A cool forested national park at about 8,000 ft elevation; great views, walking trails and summer resort vibe.",
+            "visiting_time": "Summer months (May-August) or early autumn for best colours"
+          },
+          {
+            "name": "Sajikot Waterfall",
+            "type": "Waterfall / Picnic Spot",
+            "description": "Located roughly 40 km from Abbottabad; beautiful waterfall that’s popular in summer.",
+            "visiting_time": "Summer and early autumn; avoid rainy season heavy flows"
+          },
+          {
+            "name": "Old Lockhart House",
+            "type": "Historical Building",
+            "description": "Home of General Sir William Lockhart during the British era. A relic, now part of public memory.",
+            "visiting_time": "Daytime; check access as it may be under private/public ownership or restricted property"
+          },
+          {
+            "name": "Lady Garden Park",
+            "type": "Public Park",
+            "description": "Green park in the heart of Abbottabad with old trees and quiet pathways. Great for evening walks.",
+            "visiting_time": "Afternoon-evening especially in summer; mornings in winter"
+          }
+        ],
+      
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Abbottabad",
+          "https://dedestination.com/abbottabad-travel-guide-discover-scenic-beauty-culture-heritage-in-northern-pakistan",
+          "https://en.wikipedia.org/wiki/Ilyasi_Masjid",
+          "https://en.wikipedia.org/wiki/Ayubia_National_Park",
+          "https://en.wikipedia.org/wiki/Sajikot_Waterfall"
+        ]
+      },
+      {
+        "id": 4,
+        "location_name": "Lower Dir",
+        "province_or_region": "Khyber Pakhtunkhwa (KPK)",
+        "district_or_nearby": "Lower Dir District",
+        "category": "Tourist Region",
+        "text_summary": "Lower Dir is a mountainous district in northern Pakistan, known for its green valleys, flowing rivers, and scenic hill-tops like Laram Top. It offers nature, culture and trails for travelers wanting to explore off the beaten path.",
+      
+        "best_time_to_visit": "May to September for lush greenery and mild weather; late autumn also pleasant; winters are cold in higher elevations",
+      
+        "typical_temperature": {
+          "spring": {"min_c": 10, "max_c": 25},
+          "summer": {"min_c": 20, "max_c": 35},
+          "autumn": {"min_c": 10, "max_c": 25},
+          "winter": {"min_c": -2, "max_c": 12}
+        },
+      
+        "how_to_reach": {
+          "by_road": "Travel by bus or car from Peshawar via Malakand Pass or via Timergara. The roads are winding but offer beautiful views.",
+          "by_air": "Nearest major airport is Peshawar. From there you travel by road to Lower Dir (Timergara) via local transport or private car."
+        },
+      
+        "cost_estimate": {
+          "budget_traveller": "Around Rs 3,000-7,000 per day (guesthouse, local food, shared transport)",
+          "mid_range": "Around Rs 10,000-18,000 per day (comfortable guesthouse or hotel, better meals, some side trips)",
+          "luxury": "Rs 25,000+ per day (hotel with extra comfort, private transport, guided tours, scenic stays)"
+        },
+      
+        "hotels": [
+          {
+            "name": "Dir View Hotel",
+            "category": "Mid-range",
+            "approx_price_pkr": "From Rs 12,000-16,000 per night",
+            "location": "Timergara",
+            "features": ["Mountain views", "Restaurant", "Private rooms", "Wi-Fi"]
+          },
+          {
+            "name": "Green Valley Guest House",
+            "category": "Budget to Mid-range",
+            "approx_price_pkr": "From Rs 7,000-10,000 per night",
+            "location": "Lower Dir main towns",
+            "features": ["Clean rooms", "Local food", "Helpful host", "Basic amenities"]
+          },
+          {
+            "name": "Laram Top Lodge",
+            "category": "Economy / View Point Stay",
+            "approx_price_pkr": "From Rs 8,000-12,000 per night",
+            "location": "Laram Top area, Lower Dir",
+            "features": ["High altitude views", "Cool air", "Basic lodging", "Good access to hiking paths"]
+          }
+        ],
+      
+        "cuisine_and_food": {
+          "local_dishes": ["Chapli kebab", "Chicken karahi", "Pulao", "Trout from rivers"],
+          "snacks_and_street_food": ["Pakoras from roadside stalls", "Tea in local dhabas", "Fresh fruit from valley carts"],
+          "recommended_restaurants": ["Timergara bazaar eateries", "Local guesthouse food", "Small family-run dhabas"]
+        },
+      
+        "stories_and_cultural_notes": [
+          "Lower Dir was part of the princely state of Dir. The cultural traditions remain strong, especially in crafts, dress and hospitality.",
+          "Laram Top is a favorite for locals and travelers alike because of its elevation and views. At its top are communication installations but also wide views of valleys.",
+          "Timergara town is the commercial and administrative heart, where people from smaller valleys come for markets and education."
+        ],
+      
+        "what_to_pack": [
+          "Layered clothes for higher elevations and cold nights",
+          "Good walking shoes, especially if going to hill-tops or trails",
+          "Rain gear during monsoon season",
+          "Sun protection (hat, sunscreen) for sunny afternoons",
+          "Warm jacket for winter, especially if staying in hills"
+        ],
+      
+        "history": {
+          "early_history": "The region shares in the old history of the greater Dir State, with influences from ancient routes and local tribal systems.",
+          "princely_period": "Dir was ruled by Nawabs until 1969, when it joined Pakistan fully. The administrative district of Lower Dir was created in 1996 when Dir was split.",
+          "modern_development": "Tourism is growing, roads improved, more guesthouses appearing. Some remote areas still lack ease of access, but interest is increasing."
+        },
+      
+        "famous_places": [
+          {
+            "name": "Laram Top",
+            "type": "Hill station / View Point",
+            "description": "Hill-top with panoramic views, especially good at sunrise and sunset.",
+            "visiting_time": "Summer and early autumn; limit visits in winter or when road snowed"
+          },
+          {
+            "name": "Dir Museum (Chakdara Museum)",
+            "type": "Museum / Cultural Site",
+            "description": "Museum showing Gandharan art and regional artifacts.",
+            "visiting_time": "Daytime throughout, mornings cooler"
+          },
+          {
+            "name": "Ouch Town",
+            "type": "Town / Craft & Culture",
+            "description": "Known for traditional shoe making and goldsmith work; craft markets and local trading hub.",
+            "visiting_time": "Afternoon for markets; avoid late evening"
+          }
+        ],
+      
+        "source_urls": [
+          "https://kptourism.com/destinations/5/?slug=lower-dir-xkkpq",
+          "https://en.wikipedia.org/wiki/Lower_Dir_District",
+          "https://www.trip.com/travel-guide/destination/lower-dir-1921680/",
+          "https://en.wikipedia.org/wiki/Laram_Top",
+          "https://en.wikipedia.org/wiki/Dir_Museum"
+        ]
+      },
+      {
+        "id": 5,
+        "location_name": "Upper Dir",
+        "province_or_region": "Khyber Pakhtunkhwa (KPK)",
+        "district_or_nearby": "Upper Dir District",
+        "category": "Tourist Region",
+        "text_summary": "Upper Dir is a mountainous district in northern KPK, rich in forests, rivers and meadows. It’s famous for spots like Kumrat Valley, Jahaz Banda, Lowari Pass and panoramic landscapes that attract travellers seeking nature, hiking and adventure.",
+      
+        "best_time_to_visit": "May to September for the best landscape and weather; late spring and early autumn bring pleasant temperatures and fewer crowds",
+      
+        "typical_temperature": {
+          "spring": {"min_c": 8, "max_c": 22},
+          "summer": {"min_c": 15, "max_c": 28},
+          "autumn": {"min_c": 5, "max_c": 20},
+          "winter": {"min_c": -5, "max_c": 10}
+        },
+      
+        "how_to_reach": {
+          "by_road": "You can reach Upper Dir by road from Islamabad via M1, then N45 passing through Lower Dir and Timergara. The route along the Panjkora River is scenic, though parts may be winding or rough.",
+          "by_air": "There is no major airport in Upper Dir; nearest airports are in Peshawar or Islamabad, then travel by road."
+        },
+      
+        "cost_estimate": {
+          "budget_traveller": "Around Rs 4,000-8,000 per day (simple guesthouses, local food, shared transport)",
+          "mid_range": "Around Rs 12,000-20,000 per day (hotels or lodges, guide, more meals, travel within valleys)",
+          "luxury": "Above Rs 30,000 per day (resort stays, private transport, premium services, guided hikes)"
+        },
+      
+        "hotels_and_lodging": [
+          {
+            "name": "Panjkora Hotel & Resort Kumrat",
+            "category": "Mid-range to Luxury",
+            "approx_price_pkr": "From Rs 18,000-25,000 per night",
+            "location": "Kumrat Valley",
+            "features": ["Valley views", "River proximity", "Modern amenities", "On-site restaurant"]
+          },
+          {
+            "name": "Dhaleez Resort Kumrat",
+            "category": "Mid-range",
+            "approx_price_pkr": "From Rs 10,000-15,000 per night",
+            "location": "Kumrat Valley",
+            "features": ["Rustic charm", "Meadows", "Camp-style lodging with comfort", "Good access to hikes"]
+          },
+          {
+            "name": "Small guesthouse / camp-hut in Jahaz Banda",
+            "category": "Budget / Adventure Stay",
+            "approx_price_pkr": "From Rs 2,000-5,000 per night",
+            "location": "Jahaz Banda meadow",
+            "features": ["Basic lodging", "Scenic views", "Shared bathrooms", "Close to hiking trails"]
+          }
+        ],
+      
+        "cuisine_and_food": {
+          "local_dishes": ["Trout fish", "Barbecue", "Chapli kebab", "Pulao"],
+          "snacks_and_street_food": ["Pakoras", "Fresh fruit by river", "Dal & bread in meadows", "Chai stalls in small villages"],
+          "recommended_restaurants_or_spots": ["Local dhabas near Kumrat", "Riverside eateries in Panjkora Valley"]
+        },
+      
+        "stories_and_cultural_notes": [
+          "Upper Dir was once part of the princely State of Dir, and is known for its tribal communities, traditional Pashtun culture, wooden houses in villages and strong hospitality.",
+          "Lowari Pass is an important route to Chitral from Upper Dir; during winters the pass may be closed by snow.",
+          "Kumrat Valley has developed steadily as a weekend destination for nature lovers; its meadows, river views and hilly terrain make it very popular."
+        ],
+      
+        "what_to_pack": [
+          "Warm clothes for nights, especially at higher elevations",
+          "Rain gear (spring and summer can bring rain)",
+          "Good hiking shoes or boots",
+          "Sun protection (hat, sunscreen, sunglasses)",
+          "Layered clothing to adjust with temperature changes"
+        ],
+      
+        "history": {
+          "origins": "Dir was a princely state before the partition of Pakistan. In 1996 the large Dir District was split into Upper Dir and Lower Dir.",
+          "old_routes": "Historically, Dir served as a connecting region between valleys and passes, including travel to Chitral via Lowari Pass.",
+          "recent_development": "More roads being improved (for example road to Saidgai Lake), growing interest in tourism in meadows like Jahaz Banda, and government initiatives to improve infrastructure."
+        },
+      
+        "famous_places": [
+          {
+            "name": "Kumrat Valley",
+            "type": "Valley / Nature",
+            "description": "Lush meadows, river panoramas, dense forest areas, popular for camping, hiking and photography.",
+            "visiting_time": "Summer and early autumn; avoid winter as snowfall blocks roads"
+          },
+          {
+            "name": "Jahaz Banda & Kund Banda",
+            "type": "Meadow / Trekking Spot",
+            "description": "Remote meadows reachable by off-road vehicle then hike; simple camps and small huts are present.",
+            "visiting_time": "Summer to early autumn"
+          },
+          {
+            "name": "Lowari Pass / Lowari Top",
+            "type": "Mountain Pass / Scenic Road",
+            "description": "High mountain road connecting Upper Dir to Chitral; dramatic hairpin bends and panoramic mountain views.",
+            "visiting_time": "Late spring to early autumn; some sections may be closed in heavy snow"
+          },
+          {
+            "name": "Saidgai Lake (Ushirai Dara)",
+            "type": "Glacial Lake",
+            "description": "Cold glacial lake in Ushirai region; very scenic, often visited from nearby villages and meadows.",
+            "visiting_time": "Summer months when the path is accessible, usually June-August"
+          }
+        ],
+      
+        "source_urls": [
+          "https://dirupper.kp.gov.pk/", 
+          "https://kpboit.gov.pk/upper-dir-district/", 
+          "https://www.viralreview.pk/2021/06/upper-dir-khyber-pakhtunkhwa-pakistan.html", 
+          "https://themadhatters.pk/destinations/upper-dir/", 
+          "https://en.wikipedia.org/wiki/Saidgai_Lake", 
+          "https://en.wikipedia.org/wiki/Badgoi_Pass"
+        ]
+      }
+]
+  
