@@ -1364,6 +1364,134 @@
 "https://paktourismportal.com/chitral-national-park",
 "https://aboutkp.kp.gov.pk/page/climate"
 ]
+},
+{
+  "id": 10,
+  "location_name": "Gilgit",
+  "province_or_region": "Gilgit-Baltistan",
+  "district_or_nearby": "Gilgit District",
+  "category": "Tourist Hub / Gateway",
+  "text_summary": "Gilgit is the administrative capital of Gilgit-Baltistan and serves as a key hub for tourism in Pakistan’s north. Nestled at the confluence of the Gilgit and Hunza rivers, it offers a mix of cultural, historical and natural attractions, plus serves as a starting point for treks, mountain expeditions, valley tours, lakes and passes in the Karakoram, Himalaya and Hindu Kush ranges.",
+  
+  "best_time_to_visit": "June to September when weather is milder and roads are open; late spring (May) and early autumn (September) are good for fewer crowds and clearer skies; winters can be harsh with snow and cold, so travel may be difficult in many areas.",
+  
+  "typical_temperature": {
+    "spring": {"min_c": 5, "max_c": 20},
+    "summer": {"min_c": 15, "max_c": 30},
+    "autumn": {"min_c": 10, "max_c": 25},
+    "winter": {"min_c": -5, "max_c": 10}
+  },
+  
+  "how_to_reach": {
+    "by_road": "Drive from Islamabad via the Karakoram Highway (KKH). The route passes through Abbottabad, Mansehra, Besham, Chilas, then on to Gilgit. Road journey can take ~18-24 hours depending on stops, road conditions, and weather.",
+    "by_air": "Gilgit has a small airport with flights from Islamabad (weather permitting). Flights are subject to cancellation in bad weather. From the airport, local transport (taxi, jeep) can be used to reach city or onward valley destinations."
+  },
+  
+  "cost_estimate": {
+    "budget_traveller": "Around Rs 4,000-8,000 per day (basic guesthouse or hostel, simple meals, public or shared transport within close valleys).",
+    "mid_range": "Around Rs 12,000-20,000 per day (3-star hotels, meals at decent restaurants, day tours, guide for treks etc.).",
+    "luxury": "Above Rs 30,000 per day (4-5 star lodging or boutique hotels, private guides, premium experiences, luxury transport)."
+  },
+  
+  "hotels": [
+    {
+      "name": "Mid-range 3-star hotel in Gilgit City",
+      "category": "Mid-range",
+      "approx_price_pkr": "PKR ~10,000-15,000 per night (3-star) depending on season",
+      "location": "Central Gilgit / Jutial area",
+      "features": ["Comfortable rooms", "WiFi", "Restaurant", "Accessible to markets"]
+    },
+    {
+      "name": "Gilgit 4-star hotel or upscale lodge",
+      "category": "Upper mid-range",
+      "approx_price_pkr": "PKR ~15,000-25,000 per night for a better hotel with more amenities",
+      "location": "Near main road or scenic overlook in or near city",
+      "features": ["Views of mountains / river", "Hotel facilities", "Good service", "Transport access"]
+    },
+    {
+      "name": "Budget guesthouse / hostel",
+      "category": "Budget",
+      "approx_price_pkr": "PKR ~3,000-7,000 per night for basic lodging",
+      "location": "Inner city / outskirts",
+      "features": ["Shared bathrooms", "Local food", "Friendly hosts", "Lower cost"]
+    }
+  ],
+  
+  "cuisine_and_food": {
+    "local_dishes": ["Trout from local rivers", "Shina / Kashmiri style dishes", "Rice and meat stews / kebabs", "Local breads"],
+    "snacks_and_street_food": ["Tea stalls", "Pakoras", "Samosas","Fresh fruit", "Roadside cafés serving simple meals"],
+    "recommended_restaurants_or_spots": ["Restaurants in Jutial area", "Chinar Bagh” green area cafés", "eateries near the Gilgit River", "small dhabas along roads to Naltar or Hunza"]
+  },
+  
+  "stories_and_cultural_notes": [
+    "Gilgit has historically been part of the Silk Route, and thus it has been a meeting point of cultures, traders and travelers for centuries.",
+    "The city functions as a cultural crossroads among different ethnic groups (Shina, Balti, Wakhi etc.), and local handicrafts, woodwork, music reflect this diversity.",
+    "Gilgit has a significant role in mountaineering history; expeditions to major peaks often stage via Gilgit. Also, local festivals and bazaars are vivid, especially in summer."
+  ],
+  
+  "what_to_pack": [
+    "Layered clothing: mornings and evenings can be cold even in summer",
+    "Good hiking / walking shoes",
+    "Rain jacket / wind-breaker",
+    "Sun protection (hat, sunglasses, sunscreen)",
+    "Warm gloves and hat (if going higher up or in winter)",
+    "Basic medication and first aid",
+    "Cash, since many remote areas / small shops may not accept cards",
+    "Backpack for day trips"
+  ],
+  
+  "history": {
+    "origins": "Gilgit has ancient roots, with evidence of Buddhist presence (e.g. rock carvings, stupa ruins) and served as a key point on trade and pilgrimage routes over centuries.",
+    "tourism_development": "Over time Gilgit has grown infrastructure (hotels, roads, airport) to support incoming tourists; it’s the gateway to many famous valleys and peaks, which draws steady tourism especially in summer.",
+    "challenges": "Weather can disrupt both road and air access; infrastructure in remote valleys is still limited; environmental issues like glacier retreat, landslides, rockfall; ensuring sustainable tourism and preservation of local culture are ongoing concerns."
+  },
+  
+  "famous_places": [
+    {
+      "name": "Naltar Valley",
+      "type": "Valley / Alpine Forests & Lakes",
+      "description": "Beautiful valleys a couple of hours from Gilgit; known for pine forests, alpine meadows and lakes; skiing in winters; popular for day trips.",
+      "visiting_time": "Summer through early autumn."
+    },
+    {
+      "name": "Kargah Buddha / Buddhist rock carvings",
+      "type": "Historical / Archaeological Site",
+      "description": "Ancient Buddhist carvings / relics near Gilgit city; evidence of the region’s pre-Islamic past.",
+      "visiting_time": "All year when accessible; summers easier."
+    },
+    {
+      "name": "Bagrot Valley",
+      "type": "Valley / Trekking Spot",
+      "description": "A scenic valley with pastures, glaciers, water streams; good for trekking, photography, nature walks from Gilgit.",
+      "visiting_time": "Summer / early autumn."
+    },
+    {
+      "name": "Heramosh Valley",
+      "type": "High Mountain Valley",
+      "description": "Remote, with more rugged terrain and glaciers; for experienced trekkers and adventurers wanting less crowded spots.",
+      "visiting_time": "Summer months only."
+    },
+    {
+      "name": "Danyore, Chinese Graveyard & Beranu Suspension Bridge",
+      "type": "Local / Scenic Villages & Landmarks",
+      "description": "Areas very near Gilgit town offering scenic views, local life, walks; Chinese Graveyard is a peculiar local landmark; Beranu Bridge spans valley; good short excursions.",
+      "visiting_time": "All accessible periods except worst weather / snow."
+    },
+    {
+      "name": "Hainzal Stupa ruins",
+      "type": "Archaeological / Historical",
+      "description": "Remains of Buddhist stupas and monasteries; going back to early centuries, showing the Buddhist influence in the region.",
+      "visiting_time": "Summer and autumn for easier access."
+    }
+  ],
+  
+  "source_urls": [
+    "https://visitgilgitbaltistan.gov.pk/pages/faqs",
+    "https://tourismdept.gbit.gov.pk/district/id/1",
+    "https://zameenlocator.com/blog-detail/explore-the-majestic-beauty-top-10-best-places-to-visit-in-gilgit-pakistan/331",
+    "https://skyscanner.pk/hotels/pakistan/gilgit-hotels/ci-27541839"
+  ]
 }
+
 ]
   
