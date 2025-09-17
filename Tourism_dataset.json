@@ -419,7 +419,7 @@
           "luxury": "Above Rs 30,000 per day (resort stays, private transport, premium services, guided hikes)"
         },
       
-        "hotels_and_lodging": [
+        "hotels": [
           {
             "name": "Panjkora Hotel & Resort Kumrat",
             "category": "Mid-range to Luxury",
@@ -504,6 +504,614 @@
           "https://en.wikipedia.org/wiki/Saidgai_Lake", 
           "https://en.wikipedia.org/wiki/Badgoi_Pass"
         ]
-      }
+      },
+      {
+  "id": 6,
+  "location_name": "Skardu",
+  "province_or_region": "Gilgit-Baltistan",
+  "district_or_nearby": "Skardu District",
+  "category": "Tourist City / Gateway",
+  "text_summary": "Skardu is a mountain town in northern Pakistan surrounded by rugged peaks, lakes, glaciers and rivers. It's the main base for treks like to Baltoro, K2, and other big mountains. Many travellers come here for nature, lakes, culture and adventure.",
+
+  "best_time_to_visit": "May to September for hiking, lakes and pleasant weather; early spring and autumn are also good; winters are very cold and roads may close",
+
+  "typical_temperature": {
+    "spring": {"min_c": 5, "max_c": 20},
+    "summer": {"min_c": 15, "max_c": 30},
+    "autumn": {"min_c": 5, "max_c": 20},
+    "winter": {"min_c": -10, "max_c": 5}
+  },
+
+  "how_to_reach": {
+    "by_road": "By road from Gilgit or Islamabad via the Karakoram Highway. The drive is long and scenic, with many mountain passes and curves.",
+    "by_air": "Skardu has an airport with seasonal flights from Islamabad and Gilgit. Weather can affect flights especially in winter."
+  },
+
+  "cost_estimate": {
+    "budget_traveller": "Around Rs 6,000-12,000 per day (simple guesthouse, local food, shared transport)",
+    "mid_range": "Around Rs 15,000-25,000 per day (comfortable hotel, more meals, guided tours or boat rides)",
+    "luxury": "Above Rs 35,000 per day (high-end resort, private lodges, guided expeditions, lake view rooms)"
+  },
+
+  "hotels": [
+    {
+      "name": "Shangrila Resort Skardu",
+      "category": "Luxury",
+      "approx_price_pkr": "From Rs 30,000-45,000 per night",
+      "location": "Lower Kachura Lake",
+      "features": ["Lake view", "Cottages", "Garden surroundings", "Boat rides, dining options"]
+    },
+    {
+      "name": "Hotel One Skardu",
+      "category": "Mid-range",
+      "approx_price_pkr": "From Rs 12,000-18,000 per night",
+      "location": "City centre",
+      "features": ["Clean rooms", "WiFi", "Restaurant", "Good access to market"]
+    },
+    {
+      "name": "Mashabrum Hotel",
+      "category": "Mid-range",
+      "approx_price_pkr": "From Rs 10,000-15,000 per night",
+      "location": "Near Skardu Bazaar",
+      "features": ["Comfortable rooms", "Local décor", "Hot water", "Helpful staff"]
+    }
+  ],
+
+  "cuisine_and_food": {
+    "local_dishes": ["Skardu trout", "Chapshoro (meat pie)", "Mantu (dumplings)", "Apricot jam"],
+    "snacks_and_street_food": ["Balti chai (tea)", "Skew noodle soup", "Phini (sweet pastry)"],
+    "recommended_restaurants_or_spots": ["Shangrila Resort restaurants", "Pagoda Restaurant", "Local eateries in Skardu Bazaar"]
+  },
+
+  "stories_and_cultural_notes": [
+    "Skardu has ancient roots connecting to Buddhist history, visible in rock carvings and ruins in the region.",
+    "Lower Kachura Lake is also called Shangrila Lake. A resort there was built making use of an aircraft fuselage turned into a restaurant.",
+    "Deosai Plains near Skardu are called the 'Land of Giants' and are one of the highest plateaus in the world, with unique wildlife."
+  ],
+
+  "what_to_pack": [
+    "Warm layers and thermal clothes especially for nights and early morning",
+    "Rain and snow-proof outerwear if visiting in early or late season",
+    "Strong walking/hiking shoes since many trails are rocky",
+    "Sun protection (hat, sunscreen, sunglasses)",
+    "Camera / binoculars – views are amazing"
+  ],
+
+  "history": {
+    "origins": "Skardu has long been inhabited by Balti people and has been an important stop on ancient trade and pilgrimage routes.",
+    "heritage_sites": "Skardu Fort (Kharpocho Fort) overlooks the town. There are also Buddhist rock carvings and monasteries around.",
+    "modern_development": "Over time, Skardu has developed more hotels, lodges and better roads. Tourism has grown, especially for trekkers and adventure travellers."
+  },
+
+  "famous_places": [
+    {
+      "name": "Shangrila / Lower Kachura Lake",
+      "type": "Lake / Resort",
+      "description": "Beautiful lake surrounded by mountains with gardens, boating and chalets.",
+      "visiting_time": "Summer and early autumn"
+    },
+    {
+      "name": "Satpara Lake",
+      "type": "Freshwater Lake",
+      "description": "Lake near Skardu supplying water, with boating and trout fishing.",
+      "visiting_time": "Summer"
+    },
+    {
+      "name": "Upper Kachura Lake",
+      "type": "Lake / Nature Spot",
+      "description": "Quieter lake than Lower Kachura; more natural scenery, less crowded.",
+      "visiting_time": "Summer and autumn"
+    },
+    {
+      "name": "Deosai National Park",
+      "type": "Plateau / Wildlife",
+      "description": "High-altitude plains, wildflowers, wildlife, including brown bears, open only in summer when snow melts.",
+      "visiting_time": "Summer months, especially July and August"
+    },
+    {
+      "name": "Manthokha Waterfall",
+      "type": "Waterfall / Nature Spot",
+      "description": "Waterfall in Kharmang Valley, about 80-100 km from Skardu; beautiful spot with picnic areas.",
+      "visiting_time": "Summer"
+    }
+  ],
+
+  "source_urls": [
+    "https://wikipedia.org/wiki/Skardu",
+    "https://wikipedia.org/wiki/Lower_Kachura_Lake",
+    "https://wikipedia.org/wiki/Manthokha_Waterfall",
+    "https://pakvoyager.com/news/discover-skardu-the-ultimate-travel-guide-to-an-unforgettable-adventure",
+    "https://realpakistan.com.pk/best-hotels-in-skardu/"
+  ]
+},
+{
+  "id": 6,
+  "location_name": "Skardu",
+  "province_or_region": "Gilgit-Baltistan",
+  "district_or_nearby": "Skardu District",
+  "category": "Tourist City / Gateway",
+  "text_summary": "Skardu is a mountain town in northern Pakistan surrounded by rugged peaks, lakes, glaciers and rivers. It's the main base for treks like to Baltoro, K2, and other big mountains. Many travellers come here for nature, lakes, culture and adventure.",
+
+  "best_time_to_visit": "May to September for hiking, lakes and pleasant weather; early spring and autumn are also good; winters are very cold and roads may close",
+
+  "typical_temperature": {
+    "spring": {"min_c": 5, "max_c": 20},
+    "summer": {"min_c": 15, "max_c": 30},
+    "autumn": {"min_c": 5, "max_c": 20},
+    "winter": {"min_c": -10, "max_c": 5}
+  },
+
+  "how_to_reach": {
+    "by_road": "By road from Gilgit or Islamabad via the Karakoram Highway. The drive is long and scenic, with many mountain passes and curves.",
+    "by_air": "Skardu has an airport with seasonal flights from Islamabad and Gilgit. Weather can affect flights especially in winter."
+  },
+
+  "cost_estimate": {
+    "budget_traveller": "Around Rs 6,000-12,000 per day (simple guesthouse, local food, shared transport)",
+    "mid_range": "Around Rs 15,000-25,000 per day (comfortable hotel, more meals, guided tours or boat rides)",
+    "luxury": "Above Rs 35,000 per day (high-end resort, private lodges, guided expeditions, lake view rooms)"
+  },
+
+  "hotels": [
+    {
+      "name": "Shangrila Resort Skardu",
+      "category": "Luxury",
+      "approx_price_pkr": "From Rs 30,000-45,000 per night",
+      "location": "Lower Kachura Lake",
+      "features": ["Lake view", "Cottages", "Garden surroundings", "Boat rides, dining options"]
+    },
+    {
+      "name": "Hotel One Skardu",
+      "category": "Mid-range",
+      "approx_price_pkr": "From Rs 12,000-18,000 per night",
+      "location": "City centre",
+      "features": ["Clean rooms", "WiFi", "Restaurant", "Good access to market"]
+    },
+    {
+      "name": "Mashabrum Hotel",
+      "category": "Mid-range",
+      "approx_price_pkr": "From Rs 10,000-15,000 per night",
+      "location": "Near Skardu Bazaar",
+      "features": ["Comfortable rooms", "Local décor", "Hot water", "Helpful staff"]
+    }
+  ],
+
+  "cuisine_and_food": {
+    "local_dishes": ["Skardu trout", "Chapshoro (meat pie)", "Mantu (dumplings)", "Apricot jam"],
+    "snacks_and_street_food": ["Balti chai (tea)", "Skew noodle soup", "Phini (sweet pastry)"],
+    "recommended_restaurants_or_spots": ["Shangrila Resort restaurants", "Pagoda Restaurant", "Local eateries in Skardu Bazaar"]
+  },
+
+  "stories_and_cultural_notes": [
+    "Skardu has ancient roots connecting to Buddhist history, visible in rock carvings and ruins in the region.",
+    "Lower Kachura Lake is also called Shangrila Lake. A resort there was built making use of an aircraft fuselage turned into a restaurant.",
+    "Deosai Plains near Skardu are called the 'Land of Giants' and are one of the highest plateaus in the world, with unique wildlife."
+  ],
+
+  "what_to_pack": [
+    "Warm layers and thermal clothes especially for nights and early morning",
+    "Rain and snow-proof outerwear if visiting in early or late season",
+    "Strong walking/hiking shoes since many trails are rocky",
+    "Sun protection (hat, sunscreen, sunglasses)",
+    "Camera / binoculars – views are amazing"
+  ],
+
+  "history": {
+    "origins": "Skardu has long been inhabited by Balti people and has been an important stop on ancient trade and pilgrimage routes.",
+    "heritage_sites": "Skardu Fort (Kharpocho Fort) overlooks the town. There are also Buddhist rock carvings and monasteries around.",
+    "modern_development": "Over time, Skardu has developed more hotels, lodges and better roads. Tourism has grown, especially for trekkers and adventure travellers."
+  },
+
+  "famous_places": [
+    {
+      "name": "Shangrila / Lower Kachura Lake",
+      "type": "Lake / Resort",
+      "description": "Beautiful lake surrounded by mountains with gardens, boating and chalets.",
+      "visiting_time": "Summer and early autumn"
+    },
+    {
+      "name": "Satpara Lake",
+      "type": "Freshwater Lake",
+      "description": "Lake near Skardu supplying water, with boating and trout fishing.",
+      "visiting_time": "Summer"
+    },
+    {
+      "name": "Upper Kachura Lake",
+      "type": "Lake / Nature Spot",
+      "description": "Quieter lake than Lower Kachura; more natural scenery, less crowded.",
+      "visiting_time": "Summer and autumn"
+    },
+    {
+      "name": "Deosai National Park",
+      "type": "Plateau / Wildlife",
+      "description": "High-altitude plains, wildflowers, wildlife, including brown bears, open only in summer when snow melts.",
+      "visiting_time": "Summer months, especially July and August"
+    },
+    {
+      "name": "Manthokha Waterfall",
+      "type": "Waterfall / Nature Spot",
+      "description": "Waterfall in Kharmang Valley, about 80-100 km from Skardu; beautiful spot with picnic areas.",
+      "visiting_time": "Summer"
+    }
+  ],
+
+  "source_urls": [
+    "https://wikipedia.org/wiki/Skardu",
+    "https://wikipedia.org/wiki/Lower_Kachura_Lake",
+    "https://wikipedia.org/wiki/Manthokha_Waterfall",
+    "https://pakvoyager.com/news/discover-skardu-the-ultimate-travel-guide-to-an-unforgettable-adventure",
+    "https://realpakistan.com.pk/best-hotels-in-skardu/"
+  ]
+},
+{
+  "id": 7,
+  "location_name": "Kaghan Valley",
+  "province_or_region": "Khyber Pakhtunkhwa (KPK)",
+  "district_or_nearby": "Mansehra District",
+  "category": "Tourist Valley",
+  "text_summary": "Kaghan Valley is a beautiful alpine valley in northern Pakistan, known for its rivers, lakes, snow-clad peaks and lush meadows. It’s popular for summer vacations, trout fishing, jeep rides and exploring nature.",
+
+  "best_time_to_visit": "May to September when roads are open, weather is pleasant; some parts are closed in winter due to snow",
+
+  "typical_temperature": {
+    "spring": {"min_c": 3, "max_c": 15},
+    "summer": {"min_c": 10, "max_c": 25},
+    "autumn": {"min_c": 5, "max_c": 20},
+    "winter": {"min_c": -10, "max_c": 5}
+  },
+
+  "how_to_reach": {
+    "by_road": "Drive from Islamabad/Rawalpindi → Abbottabad → Mansehra → Balakot → Kaghan Valley. The road up to Naran is paved; beyond that jeeps are needed for higher paths.",
+    "by_air": "Nearest airports are Islamabad or Peshawar. Then by road transport to Balakot and onwards to Kaghan/Naran."
+  },
+
+  "cost_estimate": {
+    "budget_traveller": "Around Rs 4,000-8,000 per day (guesthouse, simple food, shared transport)",
+    "mid_range": "Around Rs 12,000-20,000 per day (hotels, more meals, guided tours, jeep rides)",
+    "luxury": "Above Rs 30,000 per day (luxury hotel, private transport, premium experiences, scenic lodging)"
+  },
+
+  "hotels": [
+    {
+      "name": "PTDC Motel Naran",
+      "category": "Mid-range",
+      "approx_price_pkr": "From Rs 10,000-15,000 per night",
+      "location": "Naran Bazaar",
+      "features": ["River view", "Good restaurant", "Clean rooms", "Basic comforts"]
+    },
+    {
+      "name": "Hotel One Naran",
+      "category": "Mid-range",
+      "approx_price_pkr": "From Rs 8,000-13,000 per night",
+      "location": "Near main Naran bazaar",
+      "features": ["WiFi", "Hot water", "Warm rooms", "Easy access to shops"]
+    },
+    {
+      "name": "Budget Guesthouse Kaghan town",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 3,000-6,000 per night",
+      "location": "Kaghan-Balakot road",
+      "features": ["Simple lodging", "Local meals", "Shared facilities", "Good value"]
+    }
+  ],
+
+  "cuisine_and_food": {
+    "local_dishes": ["Trout with local spices", "Pulao", "Chapli kebab", "Mantu (dumplings)"],
+    "snacks_and_street_food": ["Pakoras", "Chai by riverside shops", "Fresh fruit carts", "Paratha shops in bazaars"],
+    "recommended_restaurants_or_spots": ["Restaurants at Naran bazaar", "Shops near PTDC Motel", "Local dhabas along Kunhar River"]
+  },
+
+  "stories_and_cultural_notes": [
+    "Legend says Lake Saiful Muluk, high in upper Kaghan, has a fairy tale about a prince and a fairy.",
+    "Nomads move their cattle to higher pastures in spring, then return in autumn — this tradition goes back many generations.",
+    "The Kunhar river is famous not just for its sight but for its trout fishing."
+  ],
+
+  "what_to_pack": [
+    "Warm clothes especially for nights and early mornings",
+    "Rain jacket (monsoon and unpredictable weather)",
+    "Good hiking shoes or sturdy footwear",
+    "Sun protection (hat, sunscreen, sunglasses)",
+    "Camper gear or sleeping bag if staying in camps or meadows"
+  ],
+
+  "history": {
+    "origins": "Kaghan has been inhabited by hill folk for centuries, with culture shaped by mountain life and seasonal migrations.",
+    "tourism_development": "Over the years roads, motels and basic services developed, especially around Naran, to support growing number of visitors.",
+    "challenges": "Winter road closures, landslides, snow blockages and seasonal infrastructure strain are recurring issues, but local authorities work on improvements."
+  },
+
+  "famous_places": [
+    {
+      "name": "Saiful Muluk Lake",
+      "type": "Lake",
+      "description": "High altitude lake near Naran, very scenic, surrounded by peaks. Accessible by jeep or trek.",
+      "visiting_time": "Summer months; early morning best for reflections"
+    },
+    {
+      "name": "Lulusar Lake",
+      "type": "Lake",
+      "description": "One of the larger highland lakes; its water feeds Kunhar River.",
+      "visiting_time": "Summer and early autumn"
+    },
+    {
+      "name": "Babusar Pass / Babusar Top",
+      "type": "Mountain Pass / Scenic Drive",
+      "description": "High pass connecting Kaghan Valley with Gilgit-Baltistan in summer; dramatic views and sharp elevation changes.",
+      "visiting_time": "Mid summer to early autumn (when roads are open)"
+    },
+    {
+      "name": "Dudipatsar Lake",
+      "type": "Glacial Lake",
+      "description": "Remote lake in Lulusar-Dudipatsar National Park; very cold and pristine, good for adventure travellers.",
+      "visiting_time": "Summer months; trek or jeep may be needed"
+    },
+    {
+      "name": "Shogran & Siri Payee",
+      "type": "Plateau / Meadow / Trekking Spot",
+      "description": "Meadows and forested plateaus, cooler weather, good view points. Siri Payee up top is popular for sunset/sunrise views.",
+      "visiting_time": "Summer; early mornings or evenings are chilly"
+    }
+  ],
+
+  "source_urls": [
+    "https://aboutkp.kp.gov.pk/page/kaghan_valley",
+    "https://en.wikipedia.org/wiki/Kaghan_Valley",
+    "https://pakistanpaedia.com/land/kaghan/valleys-of-pakistan_kaghan.html",
+    "https://theglobevista.com/kaghan-valley-beautiful-destination-in-pakistan"
+  ]
+},
+{
+  "id": 8,
+  "location_name": "Neelum Valley",
+  "province_or_region": "Azad Jammu & Kashmir (AJK)",
+  "district_or_nearby": "Muzaffarabad District and Neelum District",
+  "category": "Tourist Valley",
+  "text_summary": "Neelum Valley is a lush, scenic alpine valley in northern Pakistan’s Azad Kashmir region, known for its winding Neelum River, verdant forests, high altitude lakes, waterfalls, villages, and rich Kashmiri culture. Popular for trekking, nature walks, river-side stays, and remote alpine lake visits.",
+
+  "best_time_to_visit": "May to September for access, greenery and lakes; October to November for autumn colours; winter (December-February) for snowfall lovers but many roads may be snowblocked or difficult.",
+
+  "typical_temperature": {
+    "spring": {"min_c": 5, "max_c": 18},
+    "summer": {"min_c": 15, "max_c": 28},
+    "autumn": {"min_c": 8, "max_c": 20},
+    "winter": {"min_c": -5, "max_c": 10}
+  },
+
+  "how_to_reach": {
+    "by_road": "Drive from Islamabad → Murree → Kohala → Muzaffarabad → follow Neelum Valley road. Many points accessible by paved road up to Kel; beyond some parts require jeep or trekking. Public buses/minibuses ply from Muzaffarabad into the valley. Approx. 7-8 hours from Islamabad.",
+    "by_air": "Nearest major airport is Islamabad. From there by road to Muzaffarabad then along Neelum Valley. No commercial airport inside the valley."
+  },
+
+  "cost_estimate": {
+    "budget_traveller": "Around Rs 4,000-8,000 per day (guesthouse or homestay, simple food, shared transport) depending on how remote you go.",
+    "mid_range": "Around Rs 12,000-20,000 per day (better guesthouses or small hotels, more meals, some guided activities or jeep rides).",
+    "luxury": "Above Rs 30,000 per day (resorts or high end lodges, private transport, premium views, special guides)."
+  },
+
+  "hotels": [
+    {
+      "name": "Kel Riverside Inn",
+      "category": "Mid-range",
+      "approx_price_pkr": "PKR 6,500-10,500 per night depending on room type and view",
+      "location": "Kel village, Neelum Valley",
+      "features": ["River view balconies", "Hot water", "WiFi", "Good meals"]
+    },
+    {
+      "name": "Taobat Lodge",
+      "category": "Mid-range / Lodge",
+      "approx_price_pkr": "PKR 5,000-12,000 per night depending on cottage or standard room",
+      "location": "Taobat village, at end of road in valley",
+      "features": ["Wooden cottages", "Remote location", "Peace & quiet", "Natural surroundings"]
+    },
+    {
+      "name": "Guesthouse / Homestay in Keran",
+      "category": "Budget to Mid-range",
+      "approx_price_pkr": "PKR 4,000-9,000 per night depending on facilities and river-view",
+      "location": "Keran, Neelum Valley",
+      "features": ["Riverside location", "Local meals", "Warm hostels", "Scenic views"]
+    }
+  ],
+
+  "cuisine_and_food": {
+    "local_dishes": ["Kashmiri Kahwa (tea)", "Local trout fish", "Rice-based dishes with local herbs", "Wazwan style dishes in bigger villages"],
+    "snacks_and_street_food": ["Pakoras", "Grilled corn", "Fresh fruit (apples, apricots)", "Tea stalls by riverbanks", "Local bakery items in Sharda / Muzaffarabad bazaars"],
+    "recommended_restaurants_or_spots": ["Guesthouses in Kel & Keran", "Small restaurants in Sharda", "Riverside dhabas", "Eateries in Muzaffarabad before entering the valley"]
+  },
+
+  "stories_and_cultural_notes": [
+    "Sharda Peeth is an ancient temple and site of learning, historically significant.",
+    "Many local wooden houses, terraced farms, orchards of apples, apricots and walnuts are part of everyday life; people practise subsistence farming in higher villages.",
+    "Culture is Kashmiri with local dialects, handicrafts, traditional dresses, warm hospitality in small communities. Many villages are relatively remote; winter isolation is common."
+  ],
+
+  "what_to_pack": [
+    "Warm layers especially for nights and mornings",
+    "Rain-proof jacket / windbreaker",
+    "Sturdy hiking shoes or boots",
+    "Sun protection (hat, sunscreen, sunglasses)",
+    "Some high altitude gear if going to lakes above 3,000-4,000m (e.g. Ratti Gali, Chitta Katha)",
+    "Backpack, water purification / filter, first aid supplies",
+    "Cash, since remote areas may not take cards or have ATM coverage"
+  ],
+
+  "history": {
+    "origins": "Neelum Valley has been inhabited by various Kashmiri tribes for centuries; its name comes from the Neelum River. The valley also contains ancient sites like Sharda Peeth.",
+    "tourism_development": "Over recent decades, improved road access, guesthouses, lodges, and infrastructure (though uneven) have enabled tourism growth. Villages like Kel, Keran, Sharda see more facilities in summer.",
+    "challenges": "Roads get blocked or damaged due to landslides, monsoon rain, snow; mobile network coverage is patchy; remote areas lack healthcare facilities; conflict or security issues near border sometimes affect tourism."
+  },
+
+  "famous_places": [
+    {
+      "name": "Ratti Gali Lake",
+      "type": "Alpine / Glacial Lake",
+      "description": "A high altitude glacial lake with crystal clear water and wildflower meadows around; requires jeep or trek from Dowarian. Elevation ~3,683m.",
+      "visiting_time": "July to September when trails are open; mornings are best."
+    },
+    {
+      "name": "Shounter Lake",
+      "type": "Alpine Lake",
+      "description": "Lake in Shounter Valley, a sub-valley of Neelum. Surrounded by snow-capped peaks, lush meadows, accessible via jeep track.",
+      "visiting_time": "Summer months; mid-summer when snow melts enough."
+    },
+    {
+      "name": "Arang Kel",
+      "type": "Village / Plateau / Trekking Spot",
+      "description": "A picturesque village perched above Kel; reachable by hike or chairlift; panoramic views of valley, forests and meadows.",
+      "visiting_time": "Summer; early morning/evening for best views."
+    },
+    {
+      "name": "Sharda and Sharda Peeth",
+      "type": "Historical / Scenic Village",
+      "description": "Village of Sharda has ancient ruins of Sharda University / Sharda Peeth; wooden lodges; riverside beauty.",
+      "visiting_time": "Summer and autumn; avoid heavy snow in winter."
+    },
+    {
+      "name": "Keran",
+      "type": "Village / River-side Spot",
+      "description": "A quiet riverside village; beautiful lush surroundings; good base for exploring upper Neelum and calm stays.",
+      "visiting_time": "Summer; mornings or just before sunset are especially scenic."
+    },
+    {
+      "name": "Dhani Noseri Waterfall",
+      "type": "Waterfall",
+      "description": "Largest waterfall in Neelum Valley; a dramatic drop ≈15m; scenic especially when river flow is high (spring to early summer). Accessible from Muzaffarabad side.",
+      "visiting_time": "March to June for best water volume; quieter in late summer."
+    }
+  ],
+
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Neelum_Valley",
+    "https://en.wikipedia.org/wiki/Ratti_Gali_Lake",
+    "https://en.wikipedia.org/wiki/Shounter_Lake",
+    "https://en.wikipedia.org/wiki/Sharada_Peeth"
+  ]
+},
+{
+"id": 9,
+"location_name": "Chitral Valley",
+"province_or_region": "Khyber Pakhtunkhwa (KP)",
+"district_or_nearby": "Chitral District",
+"category": "Tourist Valley / Mountain Region",
+"text_summary": "Chitral is a rugged and majestic mountainous region in northern Khyber Pakhtunkhwa, Pakistan. It is defined by high peaks (including Tirich Mir), diverse cultures (notably the Kalash people), wildlife-rich national parks, hot springs, and dramatic landscapes. Chitral offers adventure, cultural immersion, and scenic beauty.",
+
+"best_time_to_visit": "April to September when weather is milder, roads are open, hills are green, cultural festivals are active. Early summer for Kalash festivals; autumn for clearer views. Winter offers snow but many areas are less accessible.",
+
+"typical_temperature": {
+"spring": {"min_c": 5, "max_c": 20},
+"summer": {"min_c": 15, "max_c": 35},
+"autumn": {"min_c": 0, "max_c": 25},
+"winter": {"min_c": -10, "max_c": 12}
+},
+
+"how_to_reach": {
+"by_road": "From Islamabad → Swat Expressway / M-1 to Chakdara → Dir → through Lowari Tunnel (open year-round) → Chitral. The road journey takes around 8-10 hours depending on conditions. Via Lowari Pass when tunnel closed historically, but tunnel reduces travel challenges.",
+"by_air": "There are small aircraft flights from Islamabad and Peshawar to Chitral, approximately 45-60 minutes, though flights may be subject to weather disruptions."
+},
+
+"cost_estimate": {
+"budget_traveller": "Around Rs 5,000-10,000 per day (homestay / basic guesthouse, simple food, shared transport)",
+"mid_range": "Around Rs 15,000-25,000 per day (nicer hotels, more meals, local guides, visits to remote valleys)",
+"luxury": "Above Rs 30,000-40,000 per day (premium lodges, private transport, more exclusive experiences in remote high valleys)"
+},
+
+"hotels": [
+{
+"name": "Hindukush Heights",
+"category": "Mid-range / Upper Mid",
+"approx_price_pkr": "PKR ~10,000-20,000 per night (depending on room & season)",
+"location": "Chitral Town",
+"features": ["Good view of surroundings", "Comfortable rooms", "Restaurant on site", "Decent amenities"]
+},
+{
+"name": "Ayun Fort Inn",
+"category": "Mid-range",
+"approx_price_pkr": "PKR ~8,000-15,000 per night",
+"location": "Ayun Village (short drive from Chitral town)",
+"features": ["Scenic location", "Cottages", "Traditional design", "Quiet setting"]
+},
+{
+"name": "Budget Guesthouse / Local Stay in Chitral Town",
+"category": "Budget",
+"approx_price_pkr": "PKR ~3,000-7,000 per night",
+"location": "Chitral Town centre or nearby villages",
+"features": ["Basic lodging", "Local food", "Simple amenities", "Close to bazaars"]
+}
+],
+
+"cuisine_and_food": {
+"local_dishes": ["Local trout", "Apricot & walnut based dishes", "Chitrali palau", "Dumplings in broth", "Traditional breads (like sheermal etc.)"],
+"snacks_and_street_food": ["Tea stalls (Kashmiri style chai)", "Samosas, pakoras", "Fruit stalls (apricots, apples)", "Grilled corn", "Bread from local bakeries"],
+"recommended_restaurants_or_spots": ["Restaurants in Chitral Town", "guesthouses in Kalash Valleys", "dhabas along roads to Garam Chashma and Ayun"]
+},
+
+"stories_and_cultural_notes": [
+"The Kalash people (in Bumburet, Birir, Rumbur) have a distinct pagan culture, colorful festivals, unique clothing and lifestyle.",
+"Chitral was a princely state until 1969 under the Mehtar and has its own royal forts, heritage and history.",
+"Music, folklore, wood carving, and traditional embroidery are strong in Chitrali culture; the region’s isolation helped preserve many old traditions."
+],
+
+"what_to_pack": [
+"Warm clothes especially for nights and higher altitude valleys",
+"Layered clothing (temperatures vary widely between valley bottom and high peaks)",
+"Rain / snow gear depending on season",
+"Sturdy hiking boots",
+"Sun protection (hat, sunscreen, sunglasses)",
+"Altitude gear if going to high valleys or trekking",
+"Cash, since remote areas may not have banking or card facilities",
+"Basic first aid supplies, water purification"
+],
+
+"history": {
+"origins": "Chitral has ancient roots; its strategic location between Central Asia, Afghanistan and South Asia meant it saw many influences. The princely state of Chitral had its own Mehtars (rulers) and maintained autonomy until merging with Pakistan in 1969.",
+"tourism_development": "Over time, roads, hotels and infrastructure have improved; Lowari Tunnel being a major project making road access easier; growth of eco-tourism, festival tourism (Shandur Polo, Kalash festivals) has added visibility.",
+"challenges": "Harsh winters closing high passes; limited transport and flight reliability due to weather; remoteness of some valleys and poor roads; lack of consistent services in remote areas; environmental and cultural sustainability concerns."
+},
+
+"famous_places": [
+{
+"name": "Kalash Valleys (Bumburet, Birir, Rumbur)",
+"type": "Cultural / Valley",
+"description": "Home of the Kalash people, famous for their distinct culture, festivals, traditional dress, wooden homes and scenic valleys.",
+"visiting_time": "Late spring to summer (May-August) and early autumn; avoid winter when access is limited."
+},
+{
+"name": "Shandur Pass & Shandur Polo Ground",
+"type": "Mountain Pass / Festival Spot",
+"description": "High altitude pass (above 12,000 ft) known for hosting the annual polo festival between Chitral and Gilgit; dramatic vistas and grasslands.",
+"visiting_time": "July each year during the festival. Summer for views and accessibility."
+},
+{
+"name": "Chitral Gol (Chitral National Park)",
+"type": "Wildlife / Nature Park",
+"description": "Park protecting alpine forests, glaciers, wildlife like markhor, snow leopard, ibex etc.; forests and meadows; good for walks, photography and wildlife spotting.",
+"visiting_time": "Summer to early autumn; mornings and evenings chilly."
+},
+{
+"name": "Garam Chashma",
+"type": "Hot Spring Valley",
+"description": "Hot springs in high valley, trout fishing, pleasant valley scenery, snow-capped mountains; one of the higher habitations in the area.",
+"visiting_time": "Summer; when roads are open and snow is melted."
+},
+{
+"name": "Chitral Fort & Shahi Mosque",
+"type": "Historical / Cultural Spot",
+"description": "Ancient fort with heritage, residence of erstwhile Mehtar; adjacent to Shahi Mosque, architectural interest, part of town heritage.",
+"visiting_time": "Any time outside winter; evenings better for light & atmosphere."
+},
+{
+"name": "Tirich Mir Peak",
+"type": "Mountain Peak / Trekking / Viewpoint",
+"description": "Highest peak of the Hindu Kush (~7,700 m), visible from many parts of Chitral; base camps and trekking possible for experienced mountaineers.",
+"visiting_time": "Summer months; snow conditions permitting."
+}
+],
+
+"source_urls": [
+"https://visitchitralvalley.com",
+"https://paktourismportal.com/chitral-national-park",
+"https://aboutkp.kp.gov.pk/page/climate"
+]
+}
 ]
   
