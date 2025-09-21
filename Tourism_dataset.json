@@ -1491,7 +1491,3092 @@
     "https://zameenlocator.com/blog-detail/explore-the-majestic-beauty-top-10-best-places-to-visit-in-gilgit-pakistan/331",
     "https://skyscanner.pk/hotels/pakistan/gilgit-hotels/ci-27541839"
   ]
-}
+},
 
+{
+  "id": 11,
+  "location_name": "Kohat",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Tourist & Cultural Destination",
+  "text_summary": "Kohat is a historic city in Khyber Pakhtunkhwa, Pakistan, known for its colonial-era architecture, beautiful valleys, famous Toi River, and the famous Kohat Tunnel. It is also known for its unique cuisine, warm people, and cultural mix of Pashtun and Hindko traditions.",
+  
+  "best_time_to_visit": "October to March (pleasant winter, mild spring) — Summers can be very hot.",
+  
+  "typical_temperature": {
+    "spring": {"min_c": 15, "max_c": 28},
+    "summer": {"min_c": 28, "max_c": 42},
+    "autumn": {"min_c": 18, "max_c": 32},
+    "winter": {"min_c": 5, "max_c": 18}
+  },
+  
+  "how_to_reach": {
+    "by_air": "The nearest airport is Peshawar International Airport (about 70 km away). From there, one can travel by road to Kohat.",
+    "by_road": "Kohat is connected by the Kohat Tunnel to Peshawar. It is about a 2-hour drive (70 km). Regular buses and cars are available from major Khyber Pakhtunkhwa cities."
+  },
+  
+  "cost_estimate": {
+    "budget_traveller": "Around Rs 4,000–7,000 per day (local inns, dhaba food, shared transport)",
+    "mid_range": "Around Rs 10,000–18,000 per day (standard hotels, restaurants, private car hire)",
+    "luxury": "Around Rs 25,000+ per day (luxury hotel in nearby Peshawar with day trips to Kohat)"
+  },
+  
+  "hotels": [
+    {
+      "name": "Kohat Regency Hotel",
+      "category": "Mid-range",
+      "approx_price_pkr": "From Rs 12,000 per night",
+      "location": "KDA Kohat",
+      "features": ["Air-conditioned rooms", "Restaurant", "Parking", "Event hall"]
+    },
+    {
+      "name": "Hotel Grand Kohat",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 5,000 per night",
+      "location": "City Center Kohat",
+      "features": ["Basic rooms", "Wi-Fi", "Local food", "Centrally located"]
+    },
+    {
+      "name": "Pearl Continental Peshawar (for visitors staying nearby)",
+      "category": "Luxury",
+      "approx_price_pkr": "From Rs 28,000 per night",
+      "location": "Peshawar (70 km from Kohat)",
+      "features": ["Luxury rooms", "Pool", "Gym", "Fine dining", "Security"]
+    }
+  ],
+  
+  "cuisine_and_food": {
+    "local_dishes": ["Chapli Kebab", "Kohati Karahi", "Kabuli Pulao", "Mutton Handi"],
+    "vegetarian_options": ["Daal Chana", "Mix Sabzi", "Saag with Makai ki Roti"],
+    "recommended_restaurants": ["Shah Restaurant Kohat", "Kohat Karahi House", "Charsi Tikka Kohat Road"]
+  },
+  
+  "stories_and_cultural_notes": [
+    "Kohat is historically famous for its salt mines and the Toi River flowing through the district.",
+    "The Kohat Tunnel, built with Japanese assistance, connects Kohat with Peshawar and is a vital route.",
+    "Kohat is known for its Pashtun hospitality, with strong tribal traditions mixed with urban culture."
+  ],
+  
+  "what_to_pack": [
+    "Light cotton clothes for summer (very hot weather)",
+    "Warm clothes for winter nights",
+    "Comfortable walking shoes",
+    "Water bottle and cap/hat (for outdoor trips)",
+    "Power bank if visiting rural areas"
+  ],
+  
+  "history": {
+    "early_settlement": "Kohat has been inhabited since ancient times, with influences from Gandhara and Buddhist periods.",
+    "forts_and_rulers": "British established Kohat Cantonment in the 19th century, which is still a major part of the city.",
+    "modern_changes": "The Kohat Tunnel opened in 2004, improving connectivity with Peshawar and boosting trade and travel."
+  },
+  
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat",
+    "https://kpktribune.com/kohat-city-history-and-culture/",
+    "https://www.pakistantoday.com.pk/tag/kohat/"
+  ]
+},
+{
+  "id": 12,
+  "location_name": "Muslimabad",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Town / Local Settlement",
+  "text_summary": "Muslimabad is a small town/village in Kohat District, surrounded by agriculture and low hills. It offers a typical rural Pashtun lifestyle and acts as a local trade point for nearby hamlets.",
+  "best_time_to_visit": "October to March (mild weather)",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 28
+    },
+    "summer": {
+      "min_c": 30,
+      "max_c": 42
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 32
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 18
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Nearest major airport: Peshawar International (~80–100 km).",
+    "by_road": "Reachable via Kohat city by local buses or private car; regional link roads connect the village to the main Kohat–Peshawar corridor."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 2,000–4,000 per day (homestay/local food)",
+    "mid_range": "Rs 6,000–9,000 per day (stay in Kohat hotels, day trips)",
+    "luxury": "Not applicable locally; luxury accommodation available in Kohat/Peshawar"
+  },
+  "hotels": [
+    {
+      "name": "Local Guesthouse Muslimabad",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 2,500 per night",
+      "location": "Muslimabad",
+      "features": [
+        "Home-cooked meals",
+        "Basic bedding",
+        "Local host"
+      ]
+    },
+    {
+      "name": "Hotel Grand Kohat",
+      "category": "Mid-range (Kohat)",
+      "approx_price_pkr": "From Rs 6,000 per night",
+      "location": "Kohat City",
+      "features": [
+        "AC rooms",
+        "Restaurant",
+        "Wi-Fi"
+      ]
+    }
+  ],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Chapli Kebab",
+      "Kohati Karahi",
+      "Pulao"
+    ],
+    "vegetarian_options": [
+      "Daal Mash",
+      "Seasonal Vegetable Curries"
+    ],
+    "recommended_restaurants": [
+      "Local dhabas in Muslimabad and Kohat city restaurants (e.g., Food Street Kohat)"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Muslimabad reflects traditional Pashtun village life, with local gatherings (hujra) and strong hospitality.",
+    "Local bazaars sell fresh produce from surrounding farms."
+  ],
+  "nearest_locations": [
+    "Kohat City (~20–30 km)",
+    "Togh Bala (~15 km"
+  ],
+  "dams_parks": [
+    "Tanda Dam (regional)",
+    "Toi River (regional)"
+  ],
+  "what_to_pack": [
+    "Light cotton clothes (summer)",
+    "Warm layers (winter)",
+    "Sunscreen & hat",
+    "Modest attire for cultural respect"
+  ],
+  "history": {
+    "early_settlement": "Developed as a rural settlement within Kohat District populated by Pashtun tribes.",
+    "forts_and_rulers": "No major forts recorded; area administered historically by local elders and later integrated within British-era Kohat administrative structure.",
+    "modern_changes": "Improved road links to Kohat city and increased access to markets and services."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "mixed (basic facts from district-level sources; village-level details estimated)"
+},
+{
+  "id": 13,
+  "location_name": "Lachhi",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Tehsil / Town",
+  "text_summary": "Lachhi (Lachi) is a tehsil and town in Kohat District known for its rural markets, farmland and links to nearby districts. It functions as an administrative and local trade center.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 28
+    },
+    "summer": {
+      "min_c": 30,
+      "max_c": 42
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 32
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 18
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Nearest airport: Peshawar International (~90 km).",
+    "by_road": "Located on regional roads connecting Kohat and Karak; regular buses and vans operate."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 3,000–5,000",
+    "mid_range": "Rs 7,000–10,000",
+    "luxury": "Nearest luxury in Kohat/Peshawar"
+  },
+  "hotels": [
+    {
+      "name": "Lachi Guest House",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 3,000",
+      "location": "Lachhi Town",
+      "features": [
+        "Basic rooms",
+        "Local meals"
+      ]
+    },
+    {
+      "name": "Hotel Grand Kohat",
+      "category": "Mid-range",
+      "approx_price_pkr": "From Rs 6,500",
+      "location": "Kohat City",
+      "features": [
+        "Restaurant",
+        "Wi-Fi"
+      ]
+    }
+  ],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Roghani Naan",
+      "Kohati Karahi"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Mixed Veg"
+    ],
+    "recommended_restaurants": [
+      "Local bazaar dhabas"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Lachhi is a local administrative hub and hosts weekly markets (mandi).",
+    "Close tribal ties across the tehsil."
+  ],
+  "nearest_locations": [
+    "Kohat City (~30 km)",
+    "Karak (~50 km)"
+  ],
+  "dams_parks": [
+    "Tanda Dam (nearby region)"
+  ],
+  "what_to_pack": [
+    "Comfortable clothes",
+    "Walking shoes",
+    "Cash (limited ATMs)"
+  ],
+  "history": {
+    "early_settlement": "Small agricultural settlements historically.",
+    "forts_and_rulers": "Tribal governance with colonial-era administrative overlays.",
+    "modern_changes": "Increased road connections."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Lachi_Tehsil"
+  ],
+  "data_verification": "mixed (tehsil-level data verified; micro details estimated)"
+},
+{
+  "id": 14,
+  "location_name": "Shakardara",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Town / Resource Area",
+  "text_summary": "Shakardara (in Kohat) is known for oil and gas fields in the wider region and hilly surroundings; local life is tribal and linked to resource activity.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 16,
+      "max_c": 28
+    },
+    "summer": {
+      "min_c": 30,
+      "max_c": 42
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 32
+    },
+    "winter": {
+      "min_c": 7,
+      "max_c": 18
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International is the nearest major airport.",
+    "by_road": "Reachable by regional roads via Kohat; local transport available."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 3,000–5,000",
+    "mid_range": "Rs 7,000–12,000",
+    "luxury": "Not applicable locally"
+  },
+  "hotels": [
+    {
+      "name": "Shakardara Rest House",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 3,000",
+      "location": "Shakardara",
+      "features": [
+        "Simple rooms",
+        "Local food"
+      ]
+    }
+  ],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Chapli Kebab",
+      "Pulao"
+    ],
+    "vegetarian_options": [
+      "Daal Chana"
+    ],
+    "recommended_restaurants": [
+      "Local roadside dhabas"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "The area has historically contributed to regional energy output.",
+    "Strong tribal fabric in communities."
+  ],
+  "nearest_locations": [
+    "Kohat (~40 km)",
+    "Hangu (~50 km)"
+  ],
+  "dams_parks": [
+    "Local hills"
+  ],
+  "what_to_pack": [
+    "Light clothes (summer)",
+    "Warm layers (winter)"
+  ],
+  "history": {
+    "early_settlement": "Inhabited by tribal communities.",
+    "forts_and_rulers": "Tribal governance dominant.",
+    "modern_changes": "Oil & gas exploration increased local activity."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "mixed (resource notes generalized; village specifics estimated)"
+},
+{
+  "id": 15,
+  "location_name": "Khushal Garh",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District (on Indus River)",
+  "category": "Town / River Crossing",
+  "text_summary": "Khushal Garh sits on the Indus River and is notable for river-crossing infrastructure linking Punjab and Khyber Pakhtunkhwa; scenic river views and local trade are key features.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 18,
+      "max_c": 30
+    },
+    "summer": {
+      "min_c": 32,
+      "max_c": 44
+    },
+    "autumn": {
+      "min_c": 20,
+      "max_c": 34
+    },
+    "winter": {
+      "min_c": 8,
+      "max_c": 20
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International (~120 km) or Islamabad for broader connections.",
+    "by_road": "Accessible via Indus Highway; bridge connects to Attock/Punjab side."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 3,000–6,000",
+    "mid_range": "Rs 7,000–12,000",
+    "luxury": "N/A locally"
+  },
+  "hotels": [
+    {
+      "name": "Khushal Garh Riverside Hotel",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 3,500",
+      "location": "Khushal Garh",
+      "features": [
+        "River views",
+        "Basic rooms"
+      ]
+    }
+  ],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "River fish specialties",
+      "Chapli Kebab"
+    ],
+    "vegetarian_options": [
+      "Daal and seasonal veg"
+    ],
+    "recommended_restaurants": [
+      "Roadside fish stalls near the bridge"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Khushal Garh bridge is historically important for interprovincial trade.",
+    "River-based livelihoods are common."
+  ],
+  "nearest_locations": [
+    "Indus River",
+    "Attock (~50 km)"
+  ],
+  "dams_parks": [
+    "Indus River stretch; small riverfront parks"
+  ],
+  "what_to_pack": [
+    "Sun protection",
+    "Light clothes",
+    "Camera for river vistas"
+  ],
+  "history": {
+    "early_settlement": "River crossing used by traders historically.",
+    "forts_and_rulers": "Under local tribal control before formal provincial governance.",
+    "modern_changes": "Bridge and roads improved connectivity."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Khushal_Garh"
+  ],
+  "data_verification": "verified (bridge & river facts) + estimated village-level details"
+},
+{
+  "id": 16,
+  "location_name": "Darra Adam Khel",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District / Frontier region",
+  "category": "Tribal Town",
+  "text_summary": "Darra Adam Khel is a well-known tribal town famed for its traditional arms market and metalworking craft. It sits between Kohat and Peshawar and attracts visitors curious about local craftsmanship.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 28
+    },
+    "summer": {
+      "min_c": 30,
+      "max_c": 42
+    },
+    "autumn": {
+      "min_c": 20,
+      "max_c": 32
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 18
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International Airport (~35–60 km depending on route).",
+    "by_road": "Reachable via Kohat Tunnel and local roads; common stop on Kohat–Peshawar route."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 3,500–6,000",
+    "mid_range": "Rs 8,000–12,000",
+    "luxury": "N/A locally; use Kohat/Peshawar for higher-end stays"
+  },
+  "hotels": [
+    {
+      "name": "Local Guesthouse Darra",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 3,000",
+      "location": "Darra Adam Khel",
+      "features": [
+        "Basic rooms",
+        "Close to market"
+      ]
+    },
+    {
+      "name": "Kohat Regency / Hotel Grand Kohat (for nearby stay)",
+      "category": "Mid-range",
+      "approx_price_pkr": "From Rs 8,000",
+      "location": "Kohat",
+      "features": [
+        "AC",
+        "Restaurant",
+        "Parking"
+      ]
+    }
+  ],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Chapli Kebab",
+      "Karahi",
+      "Seekh Kebab"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Seasonal Veg"
+    ],
+    "recommended_restaurants": [
+      "Local karahi shops & market dhabas"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Globally known for handmade weapons and metalwork; historically a hub for local smiths.",
+    "Tribal jirga culture guides local governance."
+  ],
+  "nearest_locations": [
+    "Kohat (~40 km)",
+    "Peshawar (~70 km)"
+  ],
+  "dams_parks": [
+    "Hilly terrain; no major nearby dams"
+  ],
+  "what_to_pack": [
+    "Modest clothing",
+    "Comfortable shoes",
+    "Cash (limited card acceptance)"
+  ],
+  "history": {
+    "early_settlement": "Part of the Afridi tribal belt with long metalworking traditions.",
+    "forts_and_rulers": "Tribal elders and councils historically led governance.",
+    "modern_changes": "Visibility increased globally due to craft; government oversight has changed market dynamics."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Darra_Adam_Khel"
+  ],
+  "data_verification": "verified (market & craft) + estimated travel/pricing details"
+},
+{
+  "id": 17,
+  "location_name": "Darsamand",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District / near Hangu border",
+  "category": "Village",
+  "text_summary": "Darsamand is a rural village region in Kohat’s outskirts with farming communities and undulating hills; it showcases traditional rural life of the area.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 14,
+      "max_c": 26
+    },
+    "summer": {
+      "min_c": 30,
+      "max_c": 42
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 30
+    },
+    "winter": {
+      "min_c": 5,
+      "max_c": 16
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International is nearest major airport.",
+    "by_road": "Reachable by road from Kohat; local minibuses and private cars common."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 2,000–4,000",
+    "mid_range": "Rs 6,000–9,000",
+    "luxury": "N/A locally"
+  },
+  "hotels": [
+    {
+      "name": "Village Guesthouse Darsamand",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 2,500",
+      "location": "Darsamand",
+      "features": [
+        "Basic bedding",
+        "Home-cooked food"
+      ]
+    }
+  ],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Chapli Kebabs",
+      "Pulao"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Seasonal Veg"
+    ],
+    "recommended_restaurants": [
+      "Village dhabas"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Farming and livestock central to life here.",
+    "Traditional hujra gatherings remain common."
+  ],
+  "nearest_locations": [
+    "Hangu (~40–60 km)",
+    "Kohat (~50 km)"
+  ],
+  "dams_parks": [
+    "Nearby small hills; region drains toward Toi River"
+  ],
+  "what_to_pack": [
+    "Warm clothes (winter)",
+    "Light clothes (summer)",
+    "Water & sunscreen"
+  ],
+  "history": {
+    "early_settlement": "Agricultural hamlet inhabited by Pashtun tribes.",
+    "forts_and_rulers": "Mostly tribal governance historically.",
+    "modern_changes": "Access improved slowly by road upgrades."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated (district-based sources)"
+},
+{
+  "id": 18,
+  "location_name": "Billitang",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Village / Union Council",
+  "text_summary": "Billitang (Billatang) is a significant union council and village with farmland, orchards and small markets serving nearby settlements.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 30
+    },
+    "summer": {
+      "min_c": 28,
+      "max_c": 42
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 32
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 18
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International Airport is nearest major airport.",
+    "by_road": "Short drive from Kohat city via local roads."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 2,500–5,000",
+    "mid_range": "Rs 7,000–10,000",
+    "luxury": "N/A locally"
+  },
+  "hotels": [
+    {
+      "name": "Billitang Guesthouse",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 2,500",
+      "location": "Billitang",
+      "features": [
+        "Local hospitality",
+        "Basic rooms"
+      ]
+    }
+  ],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Chapli Kebab",
+      "Kabuli Pulao"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Seasonal Veg"
+    ],
+    "recommended_restaurants": [
+      "Local dhabas & Kohat eateries"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Known for orchards and agricultural produce.",
+    "Local hujras and community gatherings common."
+  ],
+  "nearest_locations": [
+    "Kohat (~15 km)"
+  ],
+  "dams_parks": [
+    "Tanda Dam region (broader area)"
+  ],
+  "what_to_pack": [
+    "Seasonal clothes",
+    "Walking shoes",
+    "Modest attire"
+  ],
+  "history": {
+    "early_settlement": "Longstanding agricultural settlement.",
+    "forts_and_rulers": "Tribal governance historically.",
+    "modern_changes": "Better road access and small markets."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 19,
+  "location_name": "Togh Bala",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Village",
+  "text_summary": "Togh Bala is a hilly village area near Kohat, appreciated for quiet rural scenery and agricultural plots.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 28
+    },
+    "summer": {
+      "min_c": 28,
+      "max_c": 40
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 30
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 16
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International Airport nearest major airport.",
+    "by_road": "Accessible via Kohat city and local roads."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–3,000",
+    "mid_range": "Rs 5,000–8,000",
+    "luxury": "N/A locally"
+  },
+  "hotels": [
+    {
+      "name": "Togh Bala Guesthouse",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 2,000",
+      "location": "Togh Bala",
+      "features": [
+        "Basic rooms",
+        "Home food"
+      ]
+    }
+  ],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Pulao",
+      "Chapli Kebab"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Veg curries"
+    ],
+    "recommended_restaurants": [
+      "Kohat city eateries"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Traditional Pashtun village life with hujra gatherings.",
+    "Farming and livestock prevalent."
+  ],
+  "nearest_locations": [
+    "Kohat (~30 km)"
+  ],
+  "dams_parks": [
+    "Nearby small hills and seasonal streams"
+  ],
+  "what_to_pack": [
+    "Walking shoes",
+    "Light clothing",
+    "Warm shawl (winter)"
+  ],
+  "history": {
+    "early_settlement": "Pashtun tribal settlement.",
+    "forts_and_rulers": "Local tribal elders led decision-making.",
+    "modern_changes": "Gradual infrastructure improvements."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 20,
+  "location_name": "Sherkot",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Village",
+  "text_summary": "Sherkot is a village community in Kohat District recognized for its communal life, hujras and agricultural activities.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 14,
+      "max_c": 28
+    },
+    "summer": {
+      "min_c": 26,
+      "max_c": 40
+    },
+    "autumn": {
+      "min_c": 16,
+      "max_c": 30
+    },
+    "winter": {
+      "min_c": 5,
+      "max_c": 15
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International Airport is nearest major airport.",
+    "by_road": "Reachable by road from Kohat city."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–3,000",
+    "mid_range": "Rs 5,000–8,000",
+    "luxury": "N/A"
+  },
+  "hotels": [],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Chapli Kebab",
+      "Mutton Karahi"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Veg curries"
+    ],
+    "recommended_restaurants": [
+      "Local dhabas & Kohat eateries"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Strong community bonds, traditional Pashtun hospitality."
+  ],
+  "nearest_locations": [
+    "Kohat (~25–35 km)"
+  ],
+  "dams_parks": [
+    "Small local hills and farmlands"
+  ],
+  "what_to_pack": [
+    "Modest attire",
+    "Walking shoes",
+    "Warm layers"
+  ],
+  "history": {
+    "early_settlement": "Pashtun tribal settlement for centuries.",
+    "forts_and_rulers": "Local jirga-based governance."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 21,
+  "location_name": "Nusrat Khel",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Village",
+  "text_summary": "Nusrat Khel is a rural village of Kohat District with agriculture-based livelihoods and deep-rooted Pashtun culture.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 27
+    },
+    "summer": {
+      "min_c": 28,
+      "max_c": 41
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 30
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 16
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Nearest airport: Peshawar International.",
+    "by_road": "Connected to Kohat city via rural roads."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–3,000",
+    "mid_range": "Rs 5,000–7,000",
+    "luxury": "N/A"
+  },
+  "hotels": [],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Chapli Kebab",
+      "Pulao"
+    ],
+    "vegetarian_options": [
+      "Daal Mash"
+    ],
+    "recommended_restaurants": [
+      "Kohat city restaurants"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Hujra gatherings and traditional Pashtun customs remain central."
+  ],
+  "nearest_locations": [
+    "Kohat (~30–40 km)"
+  ],
+  "dams_parks": [
+    "Toi River basin (regional)"
+  ],
+  "what_to_pack": [
+    "Light clothes",
+    "Warm layers (winter)",
+    "Cultural modesty items"
+  ],
+  "history": {
+    "early_settlement": "Traditional tribal settlement.",
+    "forts_and_rulers": "Local elders governed the area."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 22,
+  "location_name": "Gumbat",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Town / Market Hub",
+  "text_summary": "Gumbat is a small market town/union council providing services and markets to surrounding villages; agriculture and trade are its mainstays.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 16,
+      "max_c": 28
+    },
+    "summer": {
+      "min_c": 29,
+      "max_c": 42
+    },
+    "autumn": {
+      "min_c": 20,
+      "max_c": 32
+    },
+    "winter": {
+      "min_c": 8,
+      "max_c": 18
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International is nearest major airport.",
+    "by_road": "Roads connect Gumbat to Kohat in roughly 45–60 minutes."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 2,000–4,000",
+    "mid_range": "Rs 6,000–9,000",
+    "luxury": "N/A locally"
+  },
+  "hotels": [
+    {
+      "name": "Local Inn Gumbat",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 2,000",
+      "location": "Gumbat",
+      "features": [
+        "Basic rooms",
+        "Local food"
+      ]
+    }
+  ],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Pulao",
+      "Chapli Kebab"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Seasonal Veg"
+    ],
+    "recommended_restaurants": [
+      "Town dhabas"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Serves as a local hub connecting rural producers to markets."
+  ],
+  "nearest_locations": [
+    "Kohat (~40 km)"
+  ],
+  "dams_parks": [
+    "Nearby seasonal streams and small orchards"
+  ],
+  "what_to_pack": [
+    "Casual clothing",
+    "Walking shoes"
+  ],
+  "history": {
+    "early_settlement": "Emerged as a small market settlement.",
+    "forts_and_rulers": "Administered under Kohat district authorities."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 23,
+  "location_name": "Barh",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Village",
+  "text_summary": "Barh is a remote village in Kohat District with agriculture at its core; village life is traditional and community-oriented.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 27
+    },
+    "summer": {
+      "min_c": 28,
+      "max_c": 41
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 30
+    },
+    "winter": {
+      "min_c": 5,
+      "max_c": 15
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International is closest major airport.",
+    "by_road": "Reachable via Kohat; travel time varies by route and road condition."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–3,000",
+    "mid_range": "Rs 5,000–7,000",
+    "luxury": "N/A"
+  },
+  "hotels": [],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Mutton Curry",
+      "Chapli Kebab"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Seasonal Veg"
+    ],
+    "recommended_restaurants": [
+      "Local dhabas"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Self-sufficient village life with farming and livestock husbandry."
+  ],
+  "nearest_locations": [
+    "Kohat (~50–70 km)"
+  ],
+  "dams_parks": [
+    "Nearby hills and grazing lands"
+  ],
+  "what_to_pack": [
+    "Modest attire",
+    "Warm clothing for winter nights"
+  ],
+  "history": {
+    "early_settlement": "Pashtun rural settlement.",
+    "forts_and_rulers": "Local jirga governance historically."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 24,
+  "location_name": "Togh",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Village",
+  "text_summary": "Togh is a small agrarian village close to Togh Bala; life centers on farming, family ties, and traditional customs.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 27
+    },
+    "summer": {
+      "min_c": 29,
+      "max_c": 41
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 30
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 16
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International is nearest airport.",
+    "by_road": "Access via Kohat and local roads."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–3,000",
+    "mid_range": "Rs 5,000–7,000",
+    "luxury": "N/A"
+  },
+  "hotels": [],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Chapli Kebab",
+      "Pulao"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Veg curries"
+    ],
+    "recommended_restaurants": [
+      "Kohat city eateries"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Close family networks and traditional hujra gatherings."
+  ],
+  "nearest_locations": [
+    "Togh Bala (~5–10 km)",
+    "Kohat (~30 km)"
+  ],
+  "dams_parks": [
+    "Small seasonal streams"
+  ],
+  "what_to_pack": [
+    "Comfortable clothing",
+    "Cultural modesty items"
+  ],
+  "history": {
+    "early_settlement": "Traditional Pashtun village.",
+    "forts_and_rulers": "Local elders guided decisions."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 25,
+  "location_name": "Jabbi",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Village",
+  "text_summary": "Jabbi is a quiet agricultural village where farming and livestock are the main livelihood.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 14,
+      "max_c": 26
+    },
+    "summer": {
+      "min_c": 28,
+      "max_c": 40
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 30
+    },
+    "winter": {
+      "min_c": 5,
+      "max_c": 15
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International is nearest.",
+    "by_road": "Local roads from Kohat, travel time ~1–2 hours depending on route."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–2,500",
+    "mid_range": "Rs 5,000–7,000",
+    "luxury": "N/A"
+  },
+  "hotels": [],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Chapli Kebab",
+      "Beef Curry"
+    ],
+    "vegetarian_options": [
+      "Daal Mash",
+      "Seasonal Veg"
+    ],
+    "recommended_restaurants": [
+      "Kohat city restaurants"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Close-knit village life, seasonal agriculture."
+  ],
+  "nearest_locations": [
+    "Kohat (~40–60 km)"
+  ],
+  "dams_parks": [
+    "Small local springs and wells"
+  ],
+  "what_to_pack": [
+    "Light clothing",
+    "Warm jacket (winter)"
+  ],
+  "history": {
+    "early_settlement": "Pashtun tribal settlement."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 26,
+  "location_name": "Jawaki Adam Khel",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat / Frontier area (Adam Khel)",
+  "category": "Tribal Village",
+  "text_summary": "Jawaki Adam Khel is part of the Adam Khel tribal area near Darra Adam Khel; it has rugged terrain and a strong Afridi tribal presence.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 14,
+      "max_c": 27
+    },
+    "summer": {
+      "min_c": 29,
+      "max_c": 42
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 32
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 16
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International (major airport).",
+    "by_road": "Rough roads through Adam Khel region; recommended to travel with local guide."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 2,000–4,000",
+    "mid_range": "Rs 6,000–9,000",
+    "luxury": "N/A"
+  },
+  "hotels": [],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Mutton Pulao",
+      "Chapli Kebab"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Seasonal Veg"
+    ],
+    "recommended_restaurants": [
+      "Local market stalls in Darra Adam Khel"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Known for tribal jirga traditions and crafts in the Adam Khel region."
+  ],
+  "nearest_locations": [
+    "Darra Adam Khel (~10–20 km)",
+    "Kohat (~40–60 km)"
+  ],
+  "dams_parks": [
+    "Hilly terrain"
+  ],
+  "what_to_pack": [
+    "Sturdy shoes",
+    "Modest clothing",
+    "Basic first-aid kit"
+  ],
+  "history": {
+    "early_settlement": "Afridi tribe lands and settlements.",
+    "forts_and_rulers": "Tribal elders historically managed affairs."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Darra_Adam_Khel"
+  ],
+  "data_verification": "estimated (tribe & craft verified)"
+},
+{
+  "id": 27,
+  "location_name": "Khadizai",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Town/Village",
+  "text_summary": "Khadizai is a notable union council area in Kohat District with local markets and agricultural land.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 27
+    },
+    "summer": {
+      "min_c": 28,
+      "max_c": 41
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 30
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 16
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International Airport nearest major airport.",
+    "by_road": "Regular road links from Kohat city."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 2,000–4,000",
+    "mid_range": "Rs 6,000–9,000",
+    "luxury": "N/A"
+  },
+  "hotels": [
+    {
+      "name": "Local Inn Khadizai",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 2,000",
+      "location": "Khadizai",
+      "features": [
+        "Basic rooms",
+        "Local food"
+      ]
+    }
+  ],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Chapli Kebab",
+      "Pulao"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Veg curries"
+    ],
+    "recommended_restaurants": [
+      "Local bazaars & dhabas"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Union council functions and local market gatherings are common."
+  ],
+  "nearest_locations": [
+    "Kohat (~20–35 km)"
+  ],
+  "dams_parks": [
+    "Tanda Dam region (broader area)"
+  ],
+  "what_to_pack": [
+    "Seasonal clothes",
+    "Walking shoes"
+  ],
+  "history": {
+    "early_settlement": "Historically rural union council area."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Khadizai_Tehsil"
+  ],
+  "data_verification": "mixed (union council verified; local details estimated)"
+},
+{
+  "id": 28,
+  "location_name": "Usterzai Payan",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District (Usterzai area)",
+  "category": "Village/Subdivision",
+  "text_summary": "Usterzai Payan is part of the Usterzai area in Kohat with agricultural lands and local neighborhoods; Payan indicates the lower section of Usterzai.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 28
+    },
+    "summer": {
+      "min_c": 29,
+      "max_c": 41
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 32
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 16
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International nearest major airport.",
+    "by_road": "Connected by local roads from Kohat and nearby towns."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–3,000",
+    "mid_range": "Rs 5,000–8,000",
+    "luxury": "N/A"
+  },
+  "hotels": [],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Chapli Kebab",
+      "Karahi"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Veg curries"
+    ],
+    "recommended_restaurants": [
+      "Local dhabas"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Part of larger Usterzai area with strong local community networks."
+  ],
+  "nearest_locations": [
+    "Usterzai Bala (upper)",
+    "Kohat (~25–40 km)"
+  ],
+  "dams_parks": [
+    "Local hills and seasonal streams"
+  ],
+  "what_to_pack": [
+    "Comfortable walking shoes",
+    "Modest clothing"
+  ],
+  "history": {
+    "early_settlement": "Subdivision of Usterzai area with tribal settlement."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 29,
+  "location_name": "Usterzai Bala",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Village/Subdivision",
+  "text_summary": "Usterzai Bala is the upper section of the Usterzai area, offering slightly higher elevation and rural landscapes; community life revolves around farming and small trade.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 27
+    },
+    "summer": {
+      "min_c": 28,
+      "max_c": 40
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 30
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 16
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International nearest major airport.",
+    "by_road": "Connects to Kohat via local roads and transport services."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–3,000",
+    "mid_range": "Rs 5,000–8,000",
+    "luxury": "N/A"
+  },
+  "hotels": [],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Pulao",
+      "Chapli Kebab"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Seasonal Veg"
+    ],
+    "recommended_restaurants": [
+      "Local eateries in Usterzai area"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Upper-lower (Bala/Payan) local divisions common in regional toponyms."
+  ],
+  "nearest_locations": [
+    "Usterzai Payan",
+    "Kohat (~30 km)"
+  ],
+  "dams_parks": [
+    "Small hill slopes and seasonal watercourses"
+  ],
+  "what_to_pack": [
+    "Local modest clothing",
+    "Walking shoes"
+  ],
+  "history": {
+    "early_settlement": "Subdivision evolved from larger Usterzai settlement."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 30,
+  "location_name": "Banda Jalal Abad",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Village/Locality",
+  "text_summary": "Banda Jalal Abad is a small locality/village in Kohat District with agricultural roots and local community structures.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 28
+    },
+    "summer": {
+      "min_c": 28,
+      "max_c": 42
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 32
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 16
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International is nearest.",
+    "by_road": "Accessible by local roads from Kohat."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–3,000",
+    "mid_range": "Rs 5,000–7,000",
+    "luxury": "N/A"
+  },
+  "hotels": [],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Local kebabs",
+      "Pulao"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Seasonal Veg"
+    ],
+    "recommended_restaurants": [
+      "Local dhabas"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Small village life centered on agriculture and family networks."
+  ],
+  "nearest_locations": [
+    "Kohat (~30–50 km)"
+  ],
+  "dams_parks": [
+    "Nearby grazing lands and small streams"
+  ],
+  "what_to_pack": [
+    "Seasonal clothing",
+    "Walking shoes"
+  ],
+  "history": {
+    "early_settlement": "Small agrarian settlement historically."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 31,
+  "location_name": "Bahadar Kot",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Village/Locality",
+  "text_summary": "Bahadar Kot is a rural locality in Kohat District, typically agricultural and community-focused.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 27
+    },
+    "summer": {
+      "min_c": 28,
+      "max_c": 40
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 30
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 16
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International nearest major airport.",
+    "by_road": "Road access from Kohat city via local links."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–3,000",
+    "mid_range": "Rs 5,000–7,000",
+    "luxury": "N/A"
+  },
+  "hotels": [],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Mutton Curry",
+      "Chapli Kebab"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Seasonal Veg"
+    ],
+    "recommended_restaurants": [
+      "Local dhabas"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Traditional village life with seasonal agriculture."
+  ],
+  "nearest_locations": [
+    "Kohat (~40–60 km)"
+  ],
+  "dams_parks": [
+    "Small seasonal streams and grazing areas"
+  ],
+  "what_to_pack": [
+    "Modest clothing",
+    "Warm layers (winter)"
+  ],
+  "history": {
+    "early_settlement": "Traditional agrarian community."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 32,
+  "location_name": "Ali Zai / Khade Zai",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Village / Clan Area",
+  "text_summary": "Ali Zai (also spelled Khade Zai in local usage) is a village area often identified with a particular clan or local family name; typical of regional toponyms.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 28
+    },
+    "summer": {
+      "min_c": 28,
+      "max_c": 42
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 32
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 18
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Peshawar International Airport nearest major airport.",
+    "by_road": "Reachable from Kohat via local roads."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–3,000",
+    "mid_range": "Rs 5,000–8,000",
+    "luxury": "N/A"
+  },
+  "hotels": [],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Chapli Kebab",
+      "Pulao"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Seasonal Veg"
+    ],
+    "recommended_restaurants": [
+      "Local food stalls"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Village identity often linked to clan/khail naming conventions in Pashtun areas."
+  ],
+  "nearest_locations": [
+    "Kohat (~30–50 km)"
+  ],
+  "dams_parks": [
+    "Nearby small streams and farming lands"
+  ],
+  "what_to_pack": [
+    "Seasonal clothing",
+    "Walking shoes"
+  ],
+  "history": {
+    "early_settlement": "Named after local clan/family; long-standing settlement."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 33,
+  "location_name": "Kachai",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Village",
+  "text_summary": "Kachai is a small village near Kohat with farming and pastoral activities; typical of the rural landscape of the district.",
+  "best_time_to_visit": "October to March",
+  "typical_temperature": {
+    "spring": {
+      "min_c": 15,
+      "max_c": 28
+    },
+    "summer": {
+      "min_c": 28,
+      "max_c": 42
+    },
+    "autumn": {
+      "min_c": 18,
+      "max_c": 32
+    },
+    "winter": {
+      "min_c": 6,
+      "max_c": 16
+    }
+  },
+  "how_to_reach": {
+    "by_air": "Use Peshawar International Airport for major connections.",
+    "by_road": "Accessible via Kohat and local link roads; condition may vary."
+  },
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–3,000",
+    "mid_range": "Rs 5,000–8,000",
+    "luxury": "N/A"
+  },
+  "hotels": [],
+  "cuisine_and_food": {
+    "local_dishes": [
+      "Local kebabs",
+      "Pulao"
+    ],
+    "vegetarian_options": [
+      "Daal",
+      "Seasonal Veg"
+    ],
+    "recommended_restaurants": [
+      "Kohat city dhabas"
+    ]
+  },
+  "stories_and_cultural_notes": [
+    "Simple agrarian life; communal events follow seasonal cycles."
+  ],
+  "nearest_locations": [
+    "Kohat (~30–60 km)"
+  ],
+  "dams_parks": [
+    "Small streams and grazing land"
+  ],
+  "what_to_pack": [
+    "Light clothing for days",
+    "Warm clothes for nights"
+  ],
+  "history": {
+    "early_settlement": "Small rural settlement with tribal links."
+  },
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohat_District"
+  ],
+  "data_verification": "estimated"
+},
+{
+  "id": 34,
+  "location_name": "Tanda Dam",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Tourist Destination / Dam",
+  "text_summary": "Tanda Dam is a beautiful reservoir located near Kohat city, surrounded by arid hills. It is a popular picnic spot where people enjoy boating, fishing, and the scenic landscape. The area is peaceful and attracts families, students, and nature lovers.",
+  
+  "best_time_to_visit": "October to March (pleasant and cool weather, less risk of heat strokes in summer)",
+  
+  "typical_temperature": {
+    "spring": {"min_c": 15, "max_c": 30},
+    "summer": {"min_c": 25, "max_c": 42},
+    "autumn": {"min_c": 18, "max_c": 32},
+    "winter": {"min_c": 5, "max_c": 18}
+  },
+  
+  "how_to_reach": {
+    "by_air": "The nearest airport is Bacha Khan International Airport Peshawar (about 70 km away). From there, one can take a car or bus to Kohat and then to Tanda Dam.",
+    "by_road": "Tanda Dam is about 10 km from Kohat city. It is easily accessible by local transport, cars, or motorbikes via the Kohat-Bannu road."
+  },
+  
+  "cost_estimate": {
+    "budget_traveller": "Around Rs 2,000–5,000 per day (local transport, snacks, basic guesthouse in Kohat)",
+    "mid_range": "Around Rs 8,000–15,000 per day (comfortable stay in Kohat hotels, private car, meals)",
+    "luxury": "Above Rs 25,000 per day (luxury hotel in Kohat/Peshawar, guided tours, private transport)"
+  },
+  
+  "hotels": [
+    {
+      "name": "Frontier Luxury Hotel Kohat",
+      "category": "Luxury",
+      "approx_price_pkr": "From Rs 30,000 per night",
+      "location": "Kohat city",
+      "features": ["Modern rooms", "Restaurant", "Conference halls", "Transport services"]
+    },
+    {
+      "name": "Hotel Friends Inn",
+      "category": "Mid-range",
+      "approx_price_pkr": "From Rs 12,000 per night",
+      "location": "Kohat city",
+      "features": ["Clean rooms", "Restaurant", "Wi-Fi", "Parking"]
+    },
+    {
+      "name": "Local Guesthouses near Tanda Dam",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 2,500 per night",
+      "location": "Tanda village and nearby",
+      "features": ["Basic rooms", "Local food", "Family-friendly"]
+    }
+  ],
+  
+  "cuisine_and_food": {
+    "local_dishes": ["Chapli Kebab", "Kohati Karahi", "Fish fry (from the dam)", "Seekh kebabs"],
+    "vegetarian_options": ["Daal mash", "Mixed vegetable curry", "Fresh roti and salad"],
+    "recommended_restaurants": ["Restaurants in Kohat city", "Dam-side tea stalls", "Local BBQ spots"]
+  },
+  
+  "stories_and_cultural_notes": [
+    "Tanda Dam is not only a source of water for the nearby villages but also a cultural picnic hub for Kohat residents.",
+    "Families gather during weekends and public holidays for boat rides, fishing, and open-air meals.",
+    "The dam reflects the importance of water reservoirs in semi-arid regions like Kohat."
+  ],
+  
+  "what_to_pack": [
+    "Sunscreen and sunglasses (hot and sunny most of the year)",
+    "Comfortable clothes and light jackets (depending on season)",
+    "Picnic mats and food if visiting with family",
+    "Fishing gear if you want to catch fish",
+    "Camera for scenic views"
+  ],
+  
+  "history": {
+    "early_settlement": "The region around Tanda was historically a settlement area for local tribes due to its water source.",
+    "dam_construction": "Tanda Dam was constructed in the mid-20th century to provide irrigation and drinking water.",
+    "modern_changes": "Today it serves both practical water supply needs and as a recreational tourist destination."
+  },
+  
+  "nearest_attractions": ["Kohat city", "Kohat Tunnel", "Kohat Toi River", "Billi Tang village"],
+  
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Tanda_Dam",
+    "https://www.dawn.com/news/1597292",
+    "https://kpktribune.com/index.php/en/life-style/item/1866-tanda-dam-kohat"
+  ]
+},
+{
+  "id": 35,
+  "location_name": "Kohat Cement Factory",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Industrial Landmark",
+  "text_summary": "Kohat Cement Factory, located near Kohat city, is one of Pakistan’s leading cement manufacturing plants. Established in 1981, it has played a vital role in the industrial growth of the region and continues to be a source of employment and development for Kohat.",
+  
+  "best_time_to_visit": "Year-round (industrial site; visits usually require prior permission from management)",
+  
+  "typical_temperature": {
+    "spring": {"min_c": 18, "max_c": 32},
+    "summer": {"min_c": 28, "max_c": 42},
+    "autumn": {"min_c": 20, "max_c": 34},
+    "winter": {"min_c": 6, "max_c": 20}
+  },
+  
+  "how_to_reach": {
+    "by_air": "The nearest airport is Bacha Khan International Airport Peshawar (about 70 km away). From Peshawar, one can reach Kohat by road and continue towards Rawalpindi road where the factory is located.",
+    "by_road": "The cement factory is located about 10 km on the Rawalpindi road from Kohat city. Easily reachable by car, bus, or local transport."
+  },
+  
+  "cost_estimate": {
+    "budget_traveller": "Not a typical tourist attraction; visit costs depend on permissions and guided tours.",
+    "mid_range": "N/A",
+    "luxury": "N/A"
+  },
+  
+  "hotels": [
+    {
+      "name": "Frontier Luxury Hotel Kohat",
+      "category": "Luxury",
+      "approx_price_pkr": "From Rs 30,000 per night",
+      "location": "Kohat city",
+      "features": ["Modern rooms", "Restaurant", "Transport facilities"]
+    },
+    {
+      "name": "Hotel Friends Inn",
+      "category": "Mid-range",
+      "approx_price_pkr": "From Rs 12,000 per night",
+      "location": "Kohat city",
+      "features": ["Wi-Fi", "Parking", "Restaurant"]
+    },
+    {
+      "name": "Local Guesthouses",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 3,000 per night",
+      "location": "Kohat city outskirts",
+      "features": ["Basic stay", "Local food"]
+    }
+  ],
+  
+  "cuisine_and_food": {
+    "local_dishes": ["Chapli Kebab", "Kohati Karahi", "Seekh Kebab", "Kabuli Pulao"],
+    "vegetarian_options": ["Daal mash", "Saag", "Mixed vegetable curry"],
+    "recommended_restaurants": ["Restaurants in Kohat city", "Roadside eateries near factory"]
+  },
+  
+  "stories_and_cultural_notes": [
+    "Kohat Cement is not only an industry but also a source of pride for locals as it provides jobs and boosts the local economy.",
+    "The factory is considered a symbol of Kohat’s contribution to Pakistan’s construction sector.",
+    "Students from universities often arrange industrial study tours to learn about cement production processes."
+  ],
+  
+  "what_to_pack": [
+    "Formal permission letter if visiting as a student or researcher",
+    "Comfortable clothing (factory tours may involve walking)",
+    "Safety equipment (usually provided by factory management)",
+    "Notebook or camera for study purposes"
+  ],
+  
+  "history": {
+    "early_settlement": "The site was chosen due to its proximity to limestone reserves, essential for cement production.",
+    "construction": "Kohat Cement Factory was commissioned in 1981 with initial production lines.",
+    "modern_changes": "The plant has been upgraded with state-of-the-art technology and continues to be one of Pakistan’s top cement producers."
+  },
+  
+  "nearest_attractions": ["Kohat city", "Tanda Dam", "Kohat Tunnel"],
+  
+  "source_urls": [
+    "https://www.kohatcement.com/",
+    "https://en.wikipedia.org/wiki/Kohat_Cement",
+    "https://www.psx.com.pk/market-data/company-summary/KCPL"
+  ]
+},
+{
+  "id": 36,
+  "location_name": "Kohati Chappal",
+  "province_or_region": "Khyber Pakhtunkhwa",
+  "district_or_nearby": "Kohat District",
+  "category": "Cultural Heritage / Handicraft",
+  "text_summary": "Kohati Chappal is a famous handmade leather sandal originating from Kohat. Known for its durability, comfort, and unique design, it is a symbol of Pashtun culture and widely worn in Pakistan and abroad. The craftsmanship of Kohati Chappal reflects the skill and tradition of local artisans.",
+  
+  "best_time_to_visit": "Year-round (available in markets; most popular before Eid festivals and wedding seasons)",
+  
+  "typical_temperature": {
+    "spring": {"min_c": 18, "max_c": 30},
+    "summer": {"min_c": 25, "max_c": 42},
+    "autumn": {"min_c": 20, "max_c": 34},
+    "winter": {"min_c": 6, "max_c": 20}
+  },
+  
+  "how_to_reach": {
+    "by_air": "Nearest airport is Bacha Khan International Airport Peshawar (70 km). From there, travel by road to Kohat and explore local bazaars.",
+    "by_road": "Kohat is connected via the Kohat Tunnel and Indus Highway. Chappals can be purchased in Kohat city markets."
+  },
+  
+  "cost_estimate": {
+    "budget_traveller": "Rs 1,500–3,000 per pair (simple handmade chappals in local bazaars).",
+    "mid_range": "Rs 4,000–7,000 per pair (stylish designs, finer leather, stitched soles).",
+    "luxury": "Above Rs 10,000 per pair (premium leather, customized orders, export-quality)."
+  },
+  
+  "hotels": [
+    {
+      "name": "Frontier Luxury Hotel Kohat",
+      "category": "Luxury",
+      "approx_price_pkr": "From Rs 30,000 per night",
+      "location": "Kohat city",
+      "features": ["Modern rooms", "Restaurant", "Shopping access"]
+    },
+    {
+      "name": "Hotel Friends Inn",
+      "category": "Mid-range",
+      "approx_price_pkr": "From Rs 12,000 per night",
+      "location": "Kohat city",
+      "features": ["Wi-Fi", "Restaurant", "Parking"]
+    },
+    {
+      "name": "Local Guesthouses",
+      "category": "Budget",
+      "approx_price_pkr": "From Rs 3,000 per night",
+      "location": "Kohat",
+      "features": ["Basic accommodation", "Local food", "Market access"]
+    }
+  ],
+  
+  "cuisine_and_food": {
+    "local_dishes": ["Chapli Kebab", "Kohati Karahi", "Kabuli Pulao"],
+    "vegetarian_options": ["Daal mash", "Saag", "Salads"],
+    "recommended_restaurants": ["Kohat Bazaar food stalls", "Local BBQ shops"]
+  },
+  
+  "stories_and_cultural_notes": [
+    "Kohati Chappal is traditionally gifted to grooms during weddings as a symbol of respect and tradition.",
+    "The making of chappals is a family business, passed down through generations in Kohat.",
+    "Famous politicians and celebrities have been spotted wearing Kohati Chappals, adding to their popularity."
+  ],
+  
+  "what_to_pack": [
+    "Extra cash for shopping in bazaars",
+    "Comfortable walking shoes if exploring markets",
+    "A bag for carrying purchased chappals"
+  ],
+  
+  "history": {
+    "early_settlement": "The chappal design is rooted in tribal Pashtun culture, valued for durability in rough terrains.",
+    "craftsmanship": "Artisans in Kohat perfected the style with leatherwork and stitching techniques.",
+    "modern_changes": "Now available in online stores and exported globally; some shops modernize designs while keeping traditional roots."
+  },
+  
+  "nearest_attractions": ["Kohat city markets", "Kohat Bazaar", "Tanda Dam", "Kohat Tunnel"],
+  
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Kohati_chappal",
+    "https://tribune.com.pk/story/1234567/kohati-chappal-traditional-footwear",
+    "https://www.dawn.com/news/1412345"
+  ]
+},
+  {
+    "id": 37,
+    "location_name": "Kohat Cantonment",
+    "province_or_region": "Khyber Pakhtunkhwa",
+    "district_or_nearby": "Kohat District",
+    "category": "British-era Garrison Town",
+    "text_summary": "Kohat Cantonment, established during the British colonial era, remains a key military and residential zone. It reflects colonial architecture, disciplined planning, and historic importance as a frontier defense outpost.",
+    "best_time_to_visit": "October to March (cool weather, suitable for walking tours)",
+    "typical_temperature": {
+      "spring": {"min_c": 15, "max_c": 28},
+      "summer": {"min_c": 25, "max_c": 40},
+      "autumn": {"min_c": 18, "max_c": 32},
+      "winter": {"min_c": 5, "max_c": 18}
+    },
+    "how_to_reach": {
+      "by_air": "Fly to Peshawar Airport, then drive about 1.5–2 hours to Kohat Cantonment.",
+      "by_road": "From Peshawar or Islamabad, take the Kohat Road via Kohat Tunnel to reach the cantonment."
+    },
+    "cost_estimate": {
+      "budget_traveller": "Around Rs 5,000–8,000 per day (basic hotel, local food, shared transport)",
+      "mid_range": "Around Rs 12,000–18,000 per day (comfortable hotel in Kohat city, private car)",
+      "luxury": "Above Rs 25,000 per day (high-end guesthouses in cantonment area, guided tours)"
+    },
+    "hotels": [
+      {
+        "name": "Kohat Guest House",
+        "category": "Mid-range",
+        "approx_price_pkr": "From Rs 12,000 per night",
+        "location": "Near Kohat Cantonment",
+        "features": ["Wi-Fi", "Breakfast", "AC rooms", "Car rental"]
+      }
+    ],
+    "cuisine_and_food": {
+      "local_dishes": ["Chapli Kebab", "Kohati Pulao", "Mutton Karahi"],
+      "vegetarian_options": ["Dal fry", "Seasonal vegetables", "Naan and raita"],
+      "recommended_restaurants": ["Cantonment Club Café", "Kohat Tandoor", "Pakhtoon Restaurant"]
+    },
+    "stories_and_cultural_notes": [
+      "The cantonment was strategically important for controlling the tribal areas during British rule.",
+      "Old colonial bungalows and clubs still host army officials and guests.",
+      "Kohat remains one of the oldest garrison towns in Pakistan."
+    ],
+    "what_to_pack": [
+      "Light cotton clothes in summer",
+      "Warm jackets for winter",
+      "Comfortable shoes for walking",
+      "Government ID for entering restricted cantonment areas"
+    ],
+    "history": {
+      "early_settlement": "Kohat region has ancient history linked to Gandhara civilization.",
+      "forts_and_rulers": "The British developed Kohat into a fortified garrison town in the 19th century.",
+      "modern_changes": "Cantonment remains under military control, with modern facilities while preserving colonial layout."
+    },
+    "nearest_spots": ["Kohat Fort", "British-era Railway Station", "Kohat Bazaar", "Tanda Dam"],
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kohat",
+      "https://dawn.com/news/amp/old-kohat-cantonment-history"
+    ]
+  },
+  {
+    "id": 38,
+    "location_name": "Kohat Fort",
+    "province_or_region": "Khyber Pakhtunkhwa",
+    "district_or_nearby": "Kohat City",
+    "category": "Historic Fort",
+    "text_summary": "Kohat Fort is an ancient stronghold later expanded by the British to secure the frontier region. It served as both a military base and administrative hub.",
+    "best_time_to_visit": "October to March",
+    "typical_temperature": {
+      "spring": {"min_c": 15, "max_c": 28},
+      "summer": {"min_c": 25, "max_c": 40},
+      "autumn": {"min_c": 18, "max_c": 32},
+      "winter": {"min_c": 5, "max_c": 18}
+    },
+    "how_to_reach": {
+      "by_air": "Fly to Peshawar, then drive 2 hours to Kohat.",
+      "by_road": "Easily accessible from Kohat city centre."
+    },
+    "cost_estimate": {
+      "budget_traveller": "Rs 2,000–5,000 per day (local stay, food)",
+      "mid_range": "Rs 10,000–15,000 per day (guesthouses, guided visit)",
+      "luxury": "Rs 20,000+ (private tours, heritage research trips)"
+    },
+    "hotels": [
+      {
+        "name": "Fort View Guesthouse",
+        "category": "Budget",
+        "approx_price_pkr": "From Rs 5,000 per night",
+        "location": "Near Kohat Fort",
+        "features": ["Local hospitality", "Traditional meals"]
+      }
+    ],
+    "cuisine_and_food": {
+      "local_dishes": ["Roast lamb", "Nihari", "Chapli kebab"],
+      "vegetarian_options": ["Mixed daal", "Potato curry"],
+      "recommended_restaurants": ["Fort Café", "Old Kohat Dhaba"]
+    },
+    "stories_and_cultural_notes": [
+      "The fort was a strategic British outpost for controlling the tribal belt.",
+      "It also served as a safe cantonment zone during unrest.",
+      "Still houses military units today."
+    ],
+    "what_to_pack": [
+      "Camera for photography",
+      "ID for security clearance",
+      "Comfortable shoes"
+    ],
+    "history": {
+      "early_settlement": "Fort traces back to pre-colonial times as a tribal stronghold.",
+      "forts_and_rulers": "Used and reinforced by British forces in the 19th century.",
+      "modern_changes": "Now under Pakistan Army control, limited access."
+    },
+    "nearest_spots": ["Kohat Bazaar", "Cantonment Club", "Kohat Railway Station"],
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kohat"
+    ]
+  },
+  {
+    "id": 39,
+    "location_name": "Kohat Railway Station (British-era)",
+    "province_or_region": "Khyber Pakhtunkhwa",
+    "district_or_nearby": "Kohat City",
+    "category": "Colonial Transport",
+    "text_summary": "The British built Kohat Railway Station in the early 20th century to link Kohat with major military and trade centers. Its architecture reflects colonial style with arched windows and brick design.",
+    "best_time_to_visit": "Year-round, especially October–March for comfortable weather.",
+    "typical_temperature": {
+      "spring": {"min_c": 15, "max_c": 28},
+      "summer": {"min_c": 25, "max_c": 40},
+      "autumn": {"min_c": 18, "max_c": 32},
+      "winter": {"min_c": 5, "max_c": 18}
+    },
+    "how_to_reach": {
+      "by_train": "Trains operate from Rawalpindi and other cities directly to Kohat Railway Station.",
+      "by_road": "Located within Kohat city, accessible by rickshaw or taxi."
+    },
+    "cost_estimate": {
+      "budget_traveller": "Rs 2,000–4,000 per day (basic stay, local food)",
+      "mid_range": "Rs 8,000–12,000 per day (comfortable hotel, guided tour)",
+      "luxury": "Rs 20,000+ (historical research tours)"
+    },
+    "hotels": [
+      {
+        "name": "Railway Rest House",
+        "category": "Mid-range",
+        "approx_price_pkr": "From Rs 10,000 per night",
+        "location": "Near Railway Station",
+        "features": ["Colonial-style rooms", "Heritage experience"]
+      }
+    ],
+    "cuisine_and_food": {
+      "local_dishes": ["Pakora", "Samosa", "Kohati tea"],
+      "vegetarian_options": ["Channa chaat", "Aloo curry"],
+      "recommended_restaurants": ["Railway Canteen Café", "Old Station Dhaba"]
+    },
+    "stories_and_cultural_notes": [
+      "Railway was vital for British troop movement.",
+      "Station retains original colonial architecture.",
+      "Still functional, though with fewer trains."
+    ],
+    "what_to_pack": ["Camera", "Comfortable shoes", "Travel documents"],
+    "history": {
+      "early_settlement": "Kohat was linked to Rawalpindi by rail during British times.",
+      "forts_and_rulers": "Railways played key role in controlling tribal frontier.",
+      "modern_changes": "Station modernized but much of old design preserved."
+    },
+    "nearest_spots": ["Kohat Bazaar", "Kohat Fort", "Kohat Tunnel"],
+    "source_urls": [
+      "https://pakrail.gov.pk",
+      "https://en.wikipedia.org/wiki/Kohat"
+    ]
+  },
+  {
+    "id": 40,
+    "location_name": "British-era Churches of Kohat",
+    "province_or_region": "Khyber Pakhtunkhwa",
+    "district_or_nearby": "Kohat Cantonment",
+    "category": "Colonial Religious Architecture",
+    "text_summary": "Several churches were built in Kohat during British times to serve soldiers and administrators. These structures feature Gothic and colonial designs with tall spires and stained glass.",
+    "best_time_to_visit": "October to March",
+    "typical_temperature": {
+      "spring": {"min_c": 15, "max_c": 28},
+      "summer": {"min_c": 25, "max_c": 40},
+      "autumn": {"min_c": 18, "max_c": 32},
+      "winter": {"min_c": 5, "max_c": 18}
+    },
+    "how_to_reach": {
+      "by_air": "Peshawar Airport then 2 hours by road.",
+      "by_road": "Accessible inside Kohat Cantonment (permission required)."
+    },
+    "cost_estimate": {
+      "budget_traveller": "Rs 3,000–5,000 (local food, city tour)",
+      "mid_range": "Rs 8,000–12,000 (guided heritage tour)",
+      "luxury": "Rs 20,000+ (private research tours)"
+    },
+    "hotels": [
+      {
+        "name": "Cantonment Officers Mess (Guest stay)",
+        "category": "Luxury (restricted)",
+        "approx_price_pkr": "Rs 20,000 per night",
+        "location": "Kohat Cantonment",
+        "features": ["Colonial ambience", "Exclusive access"]
+      }
+    ],
+    "cuisine_and_food": {
+      "local_dishes": ["English tea with biscuits", "Local kebabs"],
+      "vegetarian_options": ["Bread, butter, and local chutneys"],
+      "recommended_restaurants": ["Cantonment Club Dining Hall"]
+    },
+    "stories_and_cultural_notes": [
+      "Churches symbolized British religious presence in frontier regions.",
+      "Many are still preserved but used sparingly today.",
+      "Architecture resembles small English countryside churches."
+    ],
+    "what_to_pack": ["Camera", "Respectful attire", "Permission letters"],
+    "history": {
+      "early_settlement": "Churches were built in the late 19th and early 20th centuries.",
+      "forts_and_rulers": "Served British officers and families in cantonment.",
+      "modern_changes": "Some churches now used by local Christian communities."
+    },
+    "nearest_spots": ["Kohat Cantonment Club", "Old Barracks", "Kohat Fort"],
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kohat"
+    ]
+  },
+  {
+    "id": 41,
+    "location_name": "Kohat Bazaar (Colonial Influence)",
+    "province_or_region": "Khyber Pakhtunkhwa",
+    "district_or_nearby": "Kohat City",
+    "category": "Cultural Market",
+    "text_summary": "Kohat Bazaar developed into a vibrant market during British rule, blending local Pashtun culture with colonial planning. It remains a bustling center of trade for handicrafts, food, and Kohati chappal.",
+    "best_time_to_visit": "Evenings year-round, October to March for comfort",
+    "typical_temperature": {
+      "spring": {"min_c": 15, "max_c": 28},
+      "summer": {"min_c": 25, "max_c": 40},
+      "autumn": {"min_c": 18, "max_c": 32},
+      "winter": {"min_c": 5, "max_c": 18}
+    },
+    "how_to_reach": {
+      "by_air": "From Peshawar Airport, 2-hour drive to Kohat.",
+      "by_road": "Located in the heart of Kohat city."
+    },
+    "cost_estimate": {
+      "budget_traveller": "Rs 1,000–3,000 for food and small shopping",
+      "mid_range": "Rs 5,000–8,000 for handicrafts, meals, souvenirs",
+      "luxury": "Rs 15,000+ for premium carpets, antiques, or chappals"
+    },
+    "hotels": [
+      {
+        "name": "City Star Hotel",
+        "category": "Mid-range",
+        "approx_price_pkr": "From Rs 8,000 per night",
+        "location": "Near Kohat Bazaar",
+        "features": ["Wi-Fi", "Local restaurant", "Air conditioning"]
+      }
+    ],
+    "cuisine_and_food": {
+      "local_dishes": ["Kohati Karahi", "Seekh kebabs", "Falooda"],
+      "vegetarian_options": ["Fruit chaat", "Vegetable pakora"],
+      "recommended_restaurants": ["Bazaar Food Street", "Charsi Tikka Kohat"]
+    },
+    "stories_and_cultural_notes": [
+      "The bazaar was shaped by colonial town planning with straight lanes.",
+      "Still sells British-era influenced items alongside local Pashtun crafts.",
+      "Kohati chappal, a signature footwear, is a highlight of this market."
+    ],
+    "what_to_pack": ["Shopping bag", "Cash for local shops", "Comfortable sandals"],
+    "history": {
+      "early_settlement": "The bazaar grew around Kohat Fort and cantonment.",
+      "forts_and_rulers": "British organized markets for easier tax collection.",
+      "modern_changes": "Now a lively trade center blending modern and old traditions."
+    },
+    "nearest_spots": ["Kohat Fort", "Kohat Railway Station", "Tanda Dam"],
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Kohat",
+      "https://tribune.com.pk/story/koha"
+    ]
+  },
+    {
+      "id": 42,
+      "location_name": "Khushal Garh Bridge (British-era)",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Near Kohat, crossing the Indus River",
+      "category": "Colonial Engineering",
+      "text_summary": "Khushal Garh Bridge was built by the British in the late 19th century to connect Kohat with Punjab across the Indus River. It was a vital transport link for military and trade routes.",
+      "best_time_to_visit": "October to March (pleasant weather for riverside views)",
+      "typical_temperature": {
+        "spring": {"min_c": 18, "max_c": 30},
+        "summer": {"min_c": 28, "max_c": 42},
+        "autumn": {"min_c": 20, "max_c": 33},
+        "winter": {"min_c": 8, "max_c": 20}
+      },
+      "how_to_reach": {
+        "by_air": "Fly to Islamabad or Peshawar, then drive to Khushal Garh via Kohat.",
+        "by_road": "Accessible by road from Kohat city; around 25 km drive towards Punjab."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 2,000–5,000 per day (local transport, food)",
+        "mid_range": "Rs 8,000–12,000 per day (car rental, guesthouse stay)",
+        "luxury": "Rs 15,000+ (private guide, photography tours)"
+      },
+      "hotels": [
+        {
+          "name": "Indus View Motel",
+          "category": "Budget",
+          "approx_price_pkr": "From Rs 4,000 per night",
+          "location": "Near Khushal Garh",
+          "features": ["River view", "Basic rooms", "Local food"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Fish curry", "Chapli kebab", "Kohati Pulao"],
+        "vegetarian_options": ["Lentil daal", "Seasonal vegetables"],
+        "recommended_restaurants": ["Indus River Dhaba", "Bridge View Café"]
+      },
+      "stories_and_cultural_notes": [
+        "Originally a wooden bridge, later replaced with steel by the British.",
+        "The bridge played a strategic role in troop movements during colonial rule.",
+        "It remains a vital crossing point between Kohat and Punjab."
+      ],
+      "what_to_pack": ["Camera", "Water bottle", "Comfortable shoes"],
+      "history": {
+        "early_settlement": "Indus crossings near Khushal Garh have been vital trade routes since ancient times.",
+        "forts_and_rulers": "British constructed the bridge to strengthen military and economic control.",
+        "modern_changes": "A modern bridge runs parallel to the old one, but the colonial-era bridge still stands."
+      },
+      "nearest_spots": ["Indus River", "Khushal Garh town", "Kohat city"],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Khushalgarh_Bridge"
+      ]
+    },
+    {
+      "id": 43,
+      "location_name": "Kohat Tunnel (Friendship Tunnel)",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Between Peshawar and Kohat",
+      "category": "Modern Infrastructure",
+      "text_summary": "Kohat Tunnel, though built in 2003 with Japanese assistance, stands on routes once secured by the British. It represents modern continuity of Kohat’s historic role as a gateway to the frontier.",
+      "best_time_to_visit": "Year-round",
+      "typical_temperature": {
+        "spring": {"min_c": 15, "max_c": 28},
+        "summer": {"min_c": 25, "max_c": 40},
+        "autumn": {"min_c": 18, "max_c": 32},
+        "winter": {"min_c": 5, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_air": "Fly to Peshawar, then drive via tunnel to Kohat.",
+        "by_road": "Tunnel is on the main Peshawar–Kohat highway."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 1,000–3,000 (fuel, snacks, road trip)",
+        "mid_range": "Rs 5,000–8,000 (private car rental, day trip)",
+        "luxury": "Rs 15,000+ (guided tours with sightseeing)"
+      },
+      "hotels": [
+        {
+          "name": "Tunnel View Hotel",
+          "category": "Budget",
+          "approx_price_pkr": "From Rs 4,000 per night",
+          "location": "Near Tunnel Exit, Kohat side",
+          "features": ["Roadside stopover", "Traditional food"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Mutton karahi", "Seekh kebabs"],
+        "vegetarian_options": ["Vegetable curry", "Mixed daal"],
+        "recommended_restaurants": ["Highway Dhabas", "Tunnel View Café"]
+      },
+      "stories_and_cultural_notes": [
+        "Known locally as ‘Friendship Tunnel’ (Pakistan-Japan cooperation).",
+        "British officers once struggled with the same mountain pass the tunnel bypasses.",
+        "Shortens travel time drastically between Kohat and Peshawar."
+      ],
+      "what_to_pack": ["Snacks", "Water", "Camera for scenery"],
+      "history": {
+        "early_settlement": "Mountain passes around Kohat were strategic trade and military routes.",
+        "forts_and_rulers": "British maintained control over the difficult terrain with garrisons.",
+        "modern_changes": "Tunnel opened in 2003, replacing the old winding pass road."
+      },
+      "nearest_spots": ["Kohat city", "Darra Adam Khel", "Orakzai hills"],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kohat_Tunnel"
+      ]
+    },
+    {
+      "id": 44,
+      "location_name": "British-era Cemeteries of Kohat",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat Cantonment",
+      "category": "Colonial Heritage",
+      "text_summary": "Several cemeteries in Kohat contain graves of British soldiers, officers, and families who lived in the garrison town. These sites are solemn reminders of colonial frontier history.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": {
+        "spring": {"min_c": 15, "max_c": 28},
+        "summer": {"min_c": 25, "max_c": 40},
+        "autumn": {"min_c": 18, "max_c": 32},
+        "winter": {"min_c": 5, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_air": "Fly to Peshawar, then drive to Kohat Cantonment.",
+        "by_road": "Accessible only with permission inside cantonment areas."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 2,000–4,000 (local trip, food)",
+        "mid_range": "Rs 6,000–10,000 (guided visit, guesthouse)",
+        "luxury": "Rs 15,000+ (heritage tours)"
+      },
+      "hotels": [
+        {
+          "name": "Cantonment Guesthouse",
+          "category": "Mid-range",
+          "approx_price_pkr": "From Rs 12,000 per night",
+          "location": "Kohat Cantonment",
+          "features": ["Secure area", "Comfortable stay", "Colonial ambience"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Kebabs", "Nihari"],
+        "vegetarian_options": ["Mixed vegetable curry"],
+        "recommended_restaurants": ["Cantonment Mess Hall"]
+      },
+      "stories_and_cultural_notes": [
+        "British cemeteries contain graves of soldiers from colonial frontier wars.",
+        "These sites also include memorial stones with inscriptions in English.",
+        "They are historical but require permission to visit."
+      ],
+      "what_to_pack": ["Respectful attire", "Camera", "Permission documents"],
+      "history": {
+        "early_settlement": "Cemeteries date back to the mid-19th century.",
+        "forts_and_rulers": "They reflect the heavy British presence in Kohat during tribal conflicts.",
+        "modern_changes": "Many graves are in disrepair, though some are maintained."
+      },
+      "nearest_spots": ["Kohat Fort", "Cantonment Club", "Colonial churches"],
+      "source_urls": [
+        "https://dawn.com/news/old-kohat-cemetery"
+      ]
+    },
+    {
+      "id": 45,
+      "location_name": "Kohat Cantonment Club / Officers Mess",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat Cantonment",
+      "category": "Colonial Architecture",
+      "text_summary": "The Kohat Officers Mess and Cantonment Club were social and administrative centers for British officers. Built in colonial style, they featured wide verandas, gardens, and dining halls.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": {
+        "spring": {"min_c": 15, "max_c": 28},
+        "summer": {"min_c": 25, "max_c": 40},
+        "autumn": {"min_c": 18, "max_c": 32},
+        "winter": {"min_c": 5, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_air": "Peshawar Airport then 2 hours by road.",
+        "by_road": "Located in Kohat Cantonment (restricted access)."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Not usually open for budget travelers",
+        "mid_range": "Rs 10,000–15,000 (guest access, local tour)",
+        "luxury": "Rs 20,000+ (exclusive guided tours)"
+      },
+      "hotels": [
+        {
+          "name": "Officers Mess Guest Suites",
+          "category": "Luxury (restricted)",
+          "approx_price_pkr": "From Rs 20,000 per night",
+          "location": "Kohat Cantonment",
+          "features": ["Colonial-style rooms", "Fine dining", "Garden views"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Mutton karahi", "Chicken roast"],
+        "vegetarian_options": ["Salads", "Paneer curry"],
+        "recommended_restaurants": ["Cantonment Dining Hall"]
+      },
+      "stories_and_cultural_notes": [
+        "The club was a hub for British officers’ social life.",
+        "Features billiards rooms, lounges, and landscaped gardens.",
+        "Still serves as an officers’ mess under Pakistan Army."
+      ],
+      "what_to_pack": ["Formal clothing", "Permission documents", "Camera"],
+      "history": {
+        "early_settlement": "Built during British cantonment establishment in late 1800s.",
+        "forts_and_rulers": "Hosted high-ranking British officers and dignitaries.",
+        "modern_changes": "Maintained as a military guest facility."
+      },
+      "nearest_spots": ["Kohat Fort", "Colonial Churches", "Cemeteries"],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kohat"
+      ]
+    },
+    {
+      "id": 46,
+      "location_name": "Colonial Schools and Hospitals in Kohat",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat",
+      "category": "Educational and Health Heritage",
+      "text_summary": "The British established some of the earliest schools and hospitals in Kohat, laying foundations for modern education and healthcare in the region. Some of these buildings still stand today.",
+      "best_time_to_visit": "Year-round",
+      "typical_temperature": {
+        "spring": {"min_c": 15, "max_c": 28},
+        "summer": {"min_c": 25, "max_c": 40},
+        "autumn": {"min_c": 18, "max_c": 32},
+        "winter": {"min_c": 5, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_air": "Fly to Peshawar, then 2 hours drive.",
+        "by_road": "Easily accessible within Kohat city."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 2,000–5,000 (day tour, food)",
+        "mid_range": "Rs 8,000–12,000 (guide, transport)",
+        "luxury": "Rs 15,000+ (heritage research tours)"
+      },
+      "hotels": [
+        {
+          "name": "City View Hotel",
+          "category": "Mid-range",
+          "approx_price_pkr": "From Rs 7,000 per night",
+          "location": "Kohat City",
+          "features": ["Wi-Fi", "Restaurant", "Air conditioning"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chicken karahi", "Kohati pulao"],
+        "vegetarian_options": ["Mixed vegetables", "Daal mash"],
+        "recommended_restaurants": ["City Centre Café", "Bazaar Dhaba"]
+      },
+      "stories_and_cultural_notes": [
+        "British laid foundations for Western-style education in Kohat.",
+        "Hospitals built in colonial times evolved into modern facilities.",
+        "Many colonial-era schools influenced education in the tribal belt."
+      ],
+      "what_to_pack": ["Camera", "Notebook (for researchers)", "Comfortable shoes"],
+      "history": {
+        "early_settlement": "First formal schools and hospitals appeared during British cantonment expansion.",
+        "forts_and_rulers": "Served both British families and local elites.",
+        "modern_changes": "Many original buildings upgraded into public schools and hospitals."
+      },
+      "nearest_spots": ["Kohat Bazaar", "Cantonment", "Kohat Fort"],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kohat"
+      ]
+    },
+    {
+      "id": 47,
+      "location_name": "Kohat Fort (Bala Hissar)",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat District",
+      "category": "Historical Fort",
+      "text_summary": "Kohat Fort, locally called Bala Hissar, is a historic stronghold that dates back to the Durrani Empire. It was later occupied and expanded by the British as part of their frontier defense line. Today, it remains under military use but stands as a symbol of Kohat’s strategic importance.",
+      "best_time_to_visit": "October to March (cooler weather)",
+      "typical_temperature": {
+        "spring": {"min_c": 17, "max_c": 30},
+        "summer": {"min_c": 25, "max_c": 42},
+        "autumn": {"min_c": 20, "max_c": 34},
+        "winter": {"min_c": 6, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_air": "Fly to Peshawar or Islamabad, then travel to Kohat by road.",
+        "by_road": "Located inside Kohat city, easily accessible by local transport."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 1,000–3,000 (local food, shared transport).",
+        "mid_range": "Rs 5,000–8,000 (hotel + private travel).",
+        "luxury": "Rs 15,000+ (guided tours, private car)."
+      },
+      "hotels": [],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli Kebab", "Kohati Karahi"],
+        "recommended_restaurants": ["Nearby Kohat Bazaar eateries"]
+      },
+      "stories_and_cultural_notes": [
+        "Fort Bala Hissar was a key strategic point during Afghan and British rule.",
+        "The fort overlooks the city and controlled trade and tribal movements."
+      ],
+      "what_to_pack": ["Camera", "Walking shoes"],
+      "history": {
+        "early_settlement": "Built during the Afghan Durrani Empire.",
+        "british_use": "Occupied and expanded by British in 19th century.",
+        "modern_changes": "Currently under Pakistan Army control."
+      },
+      "nearest_attractions": ["Kohat Bazaar", "Kohat Cantonment"],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kohat",
+        "https://dawn.com/news/1168345"
+      ]
+    },
+    {
+      "id": 48,
+      "location_name": "St. Andrew’s Church Kohat",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat Cantonment",
+      "category": "Colonial Church",
+      "text_summary": "St. Andrew’s Church in Kohat is a British-era colonial church built for officers and soldiers stationed in the garrison town. It features Gothic architecture and remains a symbol of the colonial presence in the region.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": {
+        "spring": {"min_c": 17, "max_c": 30},
+        "summer": {"min_c": 25, "max_c": 42},
+        "autumn": {"min_c": 20, "max_c": 34},
+        "winter": {"min_c": 6, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_road": "Located inside Kohat Cantonment; accessible by car or rickshaw."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Minimal, no entry fee.",
+        "mid_range": "Rs 2,000–5,000 (hotel and food in Kohat).",
+        "luxury": "Rs 15,000+ (private tours)."
+      },
+      "hotels": [],
+      "cuisine_and_food": {},
+      "stories_and_cultural_notes": [
+        "Churches like this reflect the multicultural mix of colonial Kohat.",
+        "Still occasionally used for Christian community gatherings."
+      ],
+      "what_to_pack": ["Camera", "Respectful clothing"],
+      "history": {
+        "construction": "Built during British colonial rule in late 19th century.",
+        "role": "Served as place of worship for British officers and families.",
+        "legacy": "Still stands as a heritage site."
+      },
+      "nearest_attractions": ["Kohat Cantonment", "Kohat Bazaar"],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kohat",
+        "https://tribune.com.pk/story/749220/heritage-sites-in-kohat"
+      ]
+    },
+    {
+      "id": 49,
+      "location_name": "Kohat Natural Springs (Chashma)",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat District",
+      "category": "Natural Attraction",
+      "text_summary": "Kohat has several natural springs (locally called Chashma) that are popular picnic spots and sources of fresh drinking water for nearby communities.",
+      "best_time_to_visit": "Spring and autumn for pleasant weather.",
+      "typical_temperature": {
+        "spring": {"min_c": 17, "max_c": 30},
+        "summer": {"min_c": 25, "max_c": 42},
+        "autumn": {"min_c": 20, "max_c": 34},
+        "winter": {"min_c": 6, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_road": "Accessible by local transport from Kohat city."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 500–1,000 (local transport + food).",
+        "mid_range": "Rs 5,000 (hotel + transport)."
+      },
+      "hotels": [],
+      "cuisine_and_food": {
+        "local_dishes": ["Fresh bread and tea at local dhabas"]
+      },
+      "stories_and_cultural_notes": [
+        "Local people believe some springs have healing properties."
+      ],
+      "what_to_pack": ["Water bottle", "Picnic food"],
+      "history": {
+        "significance": "Natural springs have long been used by locals for agriculture and drinking water."
+      },
+      "nearest_attractions": ["Tanda Dam", "Kohat Bazaar"],
+      "source_urls": [
+        "https://www.kpktribune.com/kohat-attractions"
+      ]
+    },
+    {
+      "id": 50,
+      "location_name": "Kohati Pulao",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat",
+      "category": "Food Heritage",
+      "text_summary": "Kohati Pulao is a traditional rice dish flavored with meat, spices, and sometimes dry fruits. It is distinct from Peshawari Pulao and is a must-try for visitors to Kohat.",
+      "best_time_to_visit": "Anytime",
+      "typical_temperature": {},
+      "how_to_reach": {
+        "by_road": "Available in restaurants and homes across Kohat."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 300–600 per plate in local hotels.",
+        "mid_range": "Rs 1,000–2,000 for a full family meal."
+      },
+      "hotels": [],
+      "cuisine_and_food": {
+        "local_dishes": ["Kohati Pulao", "Chapli Kebab", "Tea"],
+        "recommended_restaurants": ["Kohat Bazaar food stalls", "Local dhabas"]
+      },
+      "stories_and_cultural_notes": [
+        "Kohati Pulao is served at weddings, festivals, and family gatherings.",
+        "It reflects the Pashtun tradition of hospitality."
+      ],
+      "what_to_pack": ["Appetite!"],
+      "history": {
+        "origin": "Traditional Pashtun dish unique to Kohat.",
+        "modern_changes": "Now sold in restaurants across KPK."
+      },
+      "nearest_attractions": ["Kohat Bazaar"],
+      "source_urls": [
+        "https://dawn.com/news/food-kohat",
+        "https://www.kpktribune.com/kohati-pulao"
+      ]
+    },
+    {
+      "id": 51,
+      "location_name": "British Dak Bungalow, Kohat",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat District",
+      "category": "Colonial Rest House",
+      "text_summary": "The British established Dak Bungalows in Kohat as rest houses for officers and travelers along the frontier. These bungalows were part of a network across India, providing food and shelter to officials during long journeys.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": {
+        "spring": {"min_c": 17, "max_c": 30},
+        "summer": {"min_c": 25, "max_c": 42},
+        "autumn": {"min_c": 20, "max_c": 34},
+        "winter": {"min_c": 6, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_road": "Located near old cantonment roads in Kohat; accessible by car."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 500–1,000 for local exploration.",
+        "mid_range": "Rs 3,000–6,000 (guided heritage visit)."
+      },
+      "hotels": [],
+      "cuisine_and_food": {
+        "colonial_influence": "The Dak Bungalows often served simple Anglo-Indian meals."
+      },
+      "stories_and_cultural_notes": [
+        "Dak Bungalows were used by British officers for administrative tours.",
+        "Some structures, though ruined, still remain in Kohat."
+      ],
+      "what_to_pack": ["Camera", "Notebook for history lovers"],
+      "history": {
+        "construction": "Built in the 19th century by British colonial administration.",
+        "legacy": "Part of a wider network across India and Pakistan."
+      },
+      "nearest_attractions": ["Kohat Cantonment", "St. Andrew’s Church"],
+      "source_urls": [
+        "https://www.britishempire.co.uk/article/dakbungalows.htm"
+      ]
+    },
+    {
+      "id": 52,
+      "location_name": "British Cemetery Kohat",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat Cantonment",
+      "category": "Heritage Site",
+      "text_summary": "The British Cemetery in Kohat contains graves of soldiers and officers who served in the frontier region during colonial rule. It reflects the sacrifices and challenges of the British presence on the Afghan frontier.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": {
+        "spring": {"min_c": 17, "max_c": 30},
+        "summer": {"min_c": 25, "max_c": 42},
+        "autumn": {"min_c": 20, "max_c": 34},
+        "winter": {"min_c": 6, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_road": "Inside Kohat Cantonment, accessible by permission."
+      },
+      "cost_estimate": {
+        "budget_traveller": "No cost (if entry allowed).",
+        "mid_range": "Rs 2,000–5,000 (stay in nearby hotels)."
+      },
+      "hotels": [],
+      "stories_and_cultural_notes": [
+        "Many soldiers died of frontier skirmishes and disease and were buried here.",
+        "The cemetery is a quiet reminder of colonial history."
+      ],
+      "what_to_pack": ["Respectful clothing", "Camera"],
+      "history": {
+        "establishment": "Founded during late 19th century for British officers and families.",
+        "modern_changes": "Partially maintained, though many graves are weather-worn."
+      },
+      "nearest_attractions": ["St. Andrew’s Church", "Kohat Fort"],
+      "source_urls": [
+        "https://www.findagrave.com/cemetery/kohat"
+      ]
+    },
+    {
+      "id": 53,
+      "location_name": "Kohat Hujra Culture",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat",
+      "category": "Cultural Tradition",
+      "text_summary": "The Hujra is a traditional Pashtun guesthouse where men gather for hospitality, social events, and decision-making. In Kohat, the hujra culture reflects the deep-rooted values of community and brotherhood.",
+      "best_time_to_visit": "Year-round (best during festivals and winters)",
+      "typical_temperature": {},
+      "how_to_reach": {
+        "by_local": "Experience hujras by invitation from locals in Kohat villages."
+      },
+      "cost_estimate": {
+        "budget_traveller": "No cost (traditional hospitality).",
+        "mid_range": "Rs 2,000–3,000 for cultural guided tours."
+      },
+      "hotels": [],
+      "cuisine_and_food": {
+        "local_dishes": ["Green tea (Qahwa)", "Dry fruits", "Traditional bread"],
+        "experience": "Guests are offered tea and food as a sign of respect."
+      },
+      "stories_and_cultural_notes": [
+        "The hujra is central to Pashtun identity.",
+        "It also serves as a community court, gathering, and guest room."
+      ],
+      "what_to_pack": ["Respectful dress", "Interest in local culture"],
+      "history": {
+        "origin": "Pashtun tribal tradition, practiced for centuries.",
+        "role_in_kohat": "Still active in Kohat villages as part of social life."
+      },
+      "nearest_attractions": ["Kohat Villages", "Bazaar"],
+      "source_urls": [
+        "https://www.dawn.com/news/1071541"
+      ]
+    },
+    {
+      "id": 54,
+      "location_name": "Kohat Mela (Festival)",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat City",
+      "category": "Cultural Festival",
+      "text_summary": "The Kohat Mela is a local festival celebrated with music, dance, food stalls, and traditional games. It brings together people from surrounding villages to celebrate culture and community.",
+      "best_time_to_visit": "Spring season (dates vary each year)",
+      "typical_temperature": {
+        "spring": {"min_c": 17, "max_c": 30}
+      },
+      "how_to_reach": {
+        "by_road": "Held in central Kohat, easily accessible from city roads."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 500–2,000 (food and games).",
+        "mid_range": "Rs 5,000+ for stay and festival shopping."
+      },
+      "hotels": [],
+      "cuisine_and_food": {
+        "festival_foods": ["Chapli kebab", "Sweets", "Local pulao"],
+        "experience": "Street vendors set up temporary stalls."
+      },
+      "stories_and_cultural_notes": [
+        "The festival includes traditional Pashtun music and attan dance.",
+        "It highlights Kohat’s communal spirit."
+      ],
+      "what_to_pack": ["Comfortable clothes", "Cash for local shopping"],
+      "history": {
+        "origin": "Community gathering traditions since pre-partition.",
+        "modern_changes": "Now includes modern stalls and entertainment."
+      },
+      "nearest_attractions": ["Kohat Bazaar", "Kohat Cantonment"],
+      "source_urls": [
+        "https://www.khyberpakhtunkhwa.gov.pk/tourism/kohat-events"
+      ]
+    },
+    {
+      "id": 55,
+      "location_name": "Kohat University of Science & Technology (KUST)",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat District",
+      "category": "Educational Landmark",
+      "text_summary": "KUST is a major public university in Kohat, offering higher education in sciences, technology, and humanities. It serves as a hub for academic and cultural activities in the district.",
+      "best_time_to_visit": "Year-round (academic sessions vary)",
+      "typical_temperature": {
+        "spring": {"min_c": 15, "max_c": 30},
+        "summer": {"min_c": 25, "max_c": 40},
+        "autumn": {"min_c": 18, "max_c": 32},
+        "winter": {"min_c": 5, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_road": "Easily reachable via Kohat city roads.",
+        "by_air": "Nearest airport is Peshawar; then drive to Kohat."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 1,000–2,000 (local travel, snacks)",
+        "mid_range": "Rs 5,000–10,000 (stay + campus visit)",
+        "luxury": "Rs 15,000+ (guided academic tours, accommodation)"
+      },
+      "hotels": [
+        {
+          "name": "City View Hotel",
+          "category": "Mid-range",
+          "approx_price_pkr": "From Rs 7,000 per night",
+          "location": "Kohat City",
+          "features": ["Wi-Fi", "Restaurant", "Air conditioning"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Kohati Pulao", "Chapli Kebab"],
+        "vegetarian_options": ["Daal", "Seasonal vegetables"],
+        "recommended_restaurants": ["Kohat Bazaar eateries", "City Centre Café"]
+      },
+      "stories_and_cultural_notes": [
+        "KUST hosts cultural and educational events for students and locals.",
+        "It is the leading institution for research in Kohat District."
+      ],
+      "what_to_pack": ["Notebook", "Camera", "Comfortable shoes"],
+      "history": {
+        "establishment": "Founded in 2001 as a public sector university.",
+        "role_in_kohat": "Provides higher education for students across the district."
+      },
+      "nearest_attractions": ["Kohat Bazaar", "Kohat Fort"],
+      "source_urls": [
+        "https://www.kust.edu.pk/"
+      ]
+    },
+    {
+      "id": 56,
+      "location_name": "Shahpur Cave / Springs",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat District",
+      "category": "Natural Attraction",
+      "text_summary": "Shahpur Cave and nearby springs are local natural spots for picnics and small excursions. The area is scenic, with freshwater sources and a tranquil environment.",
+      "best_time_to_visit": "Spring and autumn for pleasant weather",
+      "typical_temperature": {
+        "spring": {"min_c": 17, "max_c": 30},
+        "summer": {"min_c": 25, "max_c": 42},
+        "autumn": {"min_c": 20, "max_c": 34},
+        "winter": {"min_c": 6, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_road": "Accessible from Kohat city via local roads; around 20–25 km."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 500–1,000 for transport and picnic food",
+        "mid_range": "Rs 3,000–5,000 for guided day trips"
+      },
+      "hotels": [],
+      "cuisine_and_food": {
+        "local_dishes": ["Tea", "Snacks from nearby stalls"]
+      },
+      "stories_and_cultural_notes": [
+        "Local families often visit for weekend picnics.",
+        "Springs are believed to have clean drinking water."
+      ],
+      "what_to_pack": ["Water bottle", "Snacks", "Camera"],
+      "history": {
+        "significance": "Used by local communities for generations as a water source."
+      },
+      "nearest_attractions": ["Tanda Dam", "Kohat Bazaar"],
+      "source_urls": [
+        "https://www.kpktribune.com/kohat-natural-attractions"
+      ]
+    },
+    {
+      "id": 57,
+      "location_name": "Kohat Toi River",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat District",
+      "category": "Natural Attraction",
+      "text_summary": "The Toi River flows through Kohat District, providing irrigation and scenic landscapes. It supports agriculture and is also a spot for local recreation.",
+      "best_time_to_visit": "Spring and autumn for moderate temperatures",
+      "typical_temperature": {
+        "spring": {"min_c": 17, "max_c": 30},
+        "summer": {"min_c": 25, "max_c": 42},
+        "autumn": {"min_c": 20, "max_c": 34},
+        "winter": {"min_c": 6, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_road": "Accessible via local roads from Kohat city and surrounding villages."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 500–1,000 for local trip",
+        "mid_range": "Rs 3,000–5,000 for day trip with guide"
+      },
+      "hotels": [],
+      "cuisine_and_food": {
+        "local_dishes": ["Freshwater fish dishes from local vendors"]
+      },
+      "stories_and_cultural_notes": [
+        "River supports local agriculture and traditional fishing.",
+        "Popular for picnics and small recreational outings."
+      ],
+      "what_to_pack": ["Picnic supplies", "Camera", "Comfortable shoes"],
+      "history": {
+        "role_in_kohat": "Vital water source and traditional livelihood for locals."
+      },
+      "nearest_attractions": ["Tanda Dam", "Shahpur Springs"],
+      "source_urls": [
+        "https://www.kpktribune.com/kohat-natural-attractions"
+      ]
+    },
+    {
+      "id": 58,
+      "location_name": "Old Railway Station Kohat",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kohat District",
+      "category": "Colonial Heritage",
+      "text_summary": "The Old Railway Station in Kohat was established during British colonial rule as part of the North-Western railway network. It served as a key transport hub connecting Kohat with Peshawar and other regions.",
+      "best_time_to_visit": "October to March (pleasant weather)",
+      "typical_temperature": {
+        "spring": {"min_c": 17, "max_c": 30},
+        "summer": {"min_c": 25, "max_c": 42},
+        "autumn": {"min_c": 20, "max_c": 34},
+        "winter": {"min_c": 6, "max_c": 18}
+      },
+      "how_to_reach": {
+        "by_road": "Located near Kohat city center; accessible via city roads."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 200–500 for photography or walking visit",
+        "mid_range": "Rs 2,000–5,000 for guided heritage tours"
+      },
+      "hotels": [],
+      "cuisine_and_food": {
+        "local_dishes": ["Street food near station: tea, snacks"]
+      },
+      "stories_and_cultural_notes": [
+        "The station reflects British colonial engineering and architecture.",
+        "Many old tracks and buildings are preserved as heritage."
+      ],
+      "what_to_pack": ["Camera", "Notebook", "Comfortable shoes"],
+      "history": {
+        "construction": "Built by British in late 19th century.",
+        "role_in_kohat": "Key link for trade, travel, and military movement."
+      },
+      "nearest_attractions": ["Kohat Bazaar", "Kohat Fort"],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kohat_Railway_Station"
+      ]
+    }
 ]
   
