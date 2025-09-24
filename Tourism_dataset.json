@@ -4577,6 +4577,857 @@
       "source_urls": [
         "https://en.wikipedia.org/wiki/Kohat_Railway_Station"
       ]
+    },
+    {
+      "id": 59,
+      "location_name": "Shangla",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Shangla District",
+      "category": "Tourist Destination",
+      "text_summary": "Shangla is a mountainous district in northern Pakistan known for its lush pine and fir forests, valleys, waterfalls, historic relics, and scenic picnic spots. Remote and relatively less developed, it offers nature lovers peaceful landscapes, cooler weather, and cultural heritage sites.",
+      
+      "best_time_to_visit": "May to October (pleasant weather, accessible roads). Also early spring and late autumn are good. Avoid heavy monsoon & deep winter in upper parts due to snow and blocked roads.)",
+      
+      "typical_temperature": {
+        "spring": {"min_c": 8, "max_c": 20},
+        "summer": {"min_c": 20, "max_c": 29},
+        "autumn": {"min_c": 10, "max_c": 22},
+        "winter": {"min_c": -5, "max_c": 10}
+      },
+      
+      "how_to_reach": {
+        "by_air": "There is no airport in Shangla. Nearest major airports are Islamabad or Peshawar. From there travel by road (car/bus) via Abbottabad, Battagram, Besham and then ascend into Shangla. The last stretch involves mountain roads. ",
+        "by_road": "Shangla is accessible via the Karakoram Highway through Besham, or from Swat side via mountainous roads from Alpuri, Puran etc. Roads may be blocked in winter or during heavy rains or snowfall. "
+      },
+      
+      "cost_estimate": {
+        "budget_traveller": "Perhaps Rs 5,000–10,000 per day (local guesthouses, shared transport, simple food)",
+        "mid_range": "Rs 12,000–25,000 per day (nicer hotel, private transport, more meals)",
+        "luxury": "Above Rs 30,000–40,000+ per day (if staying in top lodges or resorts, private guides, premium services)"
+      },
+      
+      "hotels": [
+        {
+          "name": "Local Guesthouses in Alpuri & Puran",
+          "category": "Budget / Basic",
+          "approx_price_pkr": "From around Rs 4,000–7,000 per night",
+          "location": "Alpuri, Puran tehsil",
+          "features": ["Basic heating", "Local food", "Shared / simple bathroom", "Warm hostess / local host"]
+        },
+        {
+          "name": "Forest Rest House, Shangla Top",
+          "category": "Mid-range Basic",
+          "approx_price_pkr": "From Rs ~8,000–12,000 per night (estimate)",
+          "location": "Shangla Top",
+          "features": ["Great views", "Forest surroundings", "Limited facilities", "Essential amenities"]
+        },
+        {
+          "name": "Tent / Camping Pods (Tourism Dept.)",
+          "category": "Budget / Ecotourism",
+          "approx_price_pkr": "From Rs ~5,000–10,000 per night depending on facilities",
+          "location": "Spots like Yakhtangi, Bishigram, Pirsar etc.",
+          "features": ["Camping style or pods", "Kitchen / cooking facilities", "Shared facilities", "Close to nature"]
+        }
+      ],
+      
+      "cuisine_and_food": {
+        "local_dishes": ["Pashtun / Peshawari and Swati style meat dishes", "Grilled meats", "Local bread", "Walnuts, apricots etc."],
+        "vegetarian_options": ["Lentils (daal), mixed vegetable curries, locally grown fruits/nuts, salads", "Fresh dairy products if available"],
+        "recommended_restaurants": ["Local eateries in Alpuri town", "Small family run dhabas along busy routes (Besham-Alpuri stretch)"]
+      },
+      
+      "stories_and_cultural_notes": [
+        "At Pirsar, Chakesar and Daut, there are relics from the ancient Greek period; it is believed Alexander the Great passed through or camped in some of these places. :contentReference[oaicite:0]{index=0}",
+        "Forests in Shangla are dense and the district is rich in pine, fir, deodar cedar, and other coniferous species. :contentReference[oaicite:1]{index=1}",
+        "Tourism is growing but infrastructure (roads, accommodations) is less developed, especially in remote valleys. Local government has begun setting up camping pods at spots like Yakhtangi, Bishigram, Sheikh Badin, Sharan etc. :contentReference[oaicite:2]{index=2}"
+      ],
+      
+      "what_to_pack": [
+        "Warm layer(s) for morning / evening especially in higher areas",
+        "Rain jacket or waterproof outerwear during monsoon / rainy season",
+        "Good hiking shoes for trails / uneven roads",
+        "Sun hat and sunscreen (UV is strong at elevation)",
+        "Basic medical kit (altitude, cold, insect repellent)",
+        "Flashlight / headlamp (for remote locations, power outages frequent)"
+      ],
+      
+      "history": {
+        "early_settlement": "Shangla was part of older Swat region; has seen influences of Hindu‐Shahi and possibly even Greek (Alexander of Macedon) in the region.",
+        "forts_and_rulers": "There are remains from the Greek period, relics at Pirsar and Chakesar; some cultural heritage from Hindu Shahi era in places like Olandar-Ajmair.",
+        "modern_changes": "District established in 1995 (carved out of Swat); some development in tourism infrastructure is underway, but many areas still remote; roads, accommodation being improved."
+      },
+      
+      "source_urls": [
+        "https://kpboit.gov.pk/shangla-district/",
+        "https://shangla.kp.gov.pk/page/aboutdistrictshangla/page_type/",
+        "https://beautyofpakistan.com/locations/shangla",
+        "https://travelertrails.com/places-to-visit-in-swat/shangla"
+      ]
+    },
+    {
+      "id": 60,
+      "location_name": "Kolai-Palas",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kolai-Palas District",
+      "category": "Tourist Destination",
+      "text_summary": "Kolai-Palas is a remote mountainous district in Hazara Division, northern Pakistan. It features the Palas Valley, lush forests, alpine meadows, wildlife, and a largely rural population. Infrastructure is underdeveloped, making travel adventurous. Many believe it has untapped tourism potential. :contentReference[oaicite:0]{index=0}",
+      
+      "best_time_to_visit": "Late spring through early autumn (May to October) when snow has melted, roads passable, weather pleasant. Summer is best for meadows; avoid heavy monsoon / snow season. Needs local confirmation. :contentReference[oaicite:1]{index=1}",
+      
+      "typical_temperature": {
+        "spring": {"min_c": 5, "max_c": 20},  
+        "summer": {"min_c": 15, "max_c": 25},  
+        "autumn": {"min_c": 5, "max_c": 18},
+        "winter": {"min_c": -5, "max_c": 5}
+      },
+      
+      "how_to_reach": {
+        "by_air": "There is no airport in Kolai-Palas. The nearest major airports are in Islamabad or perhaps Peshawar. From there one must travel by road through Hazara / Mansehra region. Transport beyond larger towns is via mountain roads (often rough or seasonal).",
+        "by_road": "Road access is via Mansehra → Kohistan or adjoining areas. The road to meadows like Baliga is often not properly developed; in some cases locals demand road construction. Roads can be blocked by snow or washouts during heavy rain. :contentReference[oaicite:2]{index=2}"
+      },
+      
+      "cost_estimate": {
+        "budget_traveller": "Likely around Rs 5,000-10,000/day (guesthouses or basic lodgings, local food, shared/local transport)",
+        "mid_range": "Around Rs 12,000-25,000/day (better lodging, some private transport, more food variety)",
+        "luxury": "Above Rs 30,000-40,000/day (if premium lodges, guides, conveniences) — though luxury options are currently limited."
+      },
+      
+      "hotels": [
+        {
+          "name": "Basic Guesthouses / Local Inns",
+          "category": "Budget",
+          "approx_price_pkr": "From Rs ~4,000-8,000 per night (estimate)",
+          "location": "Palas Valley / near major villages",
+          "features": ["Basic amenities", "Local food", "Shared bathrooms", "Cold water and limited heating", "perhaps sometimes electricity issues"]
+        },
+        {
+          "name": "Mid-level Mountain Lodges / Forest Rest Houses",
+          "category": "Mid-range / Moderate",
+          "approx_price_pkr": "From Rs ~10,000-20,000 per night (estimate)",
+          "location": "Valley / meadows near accessible roads (e.g. Baliga meadow area)",
+          "features": ["Scenic views", "Better rooms", "possibly private bathrooms", "Guided walks", "Possibly hot water"]
+        }
+      ],
+      
+      "cuisine_and_food": {
+        "local_dishes": ["Wheat breads, local dairy products", "Meat dishes typical to Khyber Pakhtunkhwa mountain areas", "Wild fruits / nuts where available", "Locally foraged foods possibly in Palas region"], 
+        "vegetarian_options": ["Lentils, mixed vegetables", "Corn / maize-based dishes", "Local greens / herbs", "Seasonal wild berries or fruits"],
+        "recommended_restaurants": ["Small local eateries in Palas and Kolai towns", "Food from guesthouses / local hosts", "no named high-end restaurants found in sources"]
+      },
+      
+      "stories_and_cultural_notes": [
+        "Baliga meadow in Palas valley is a meadow at around 8,000 feet altitude; covered in snow for nearly half the year, used in summer by locals for recreation. :contentReference[oaicite:3]{index=3}",
+        "Palas valley is rich in wildlife: many bird species (Western horned tragopan, Himalayan monal, etc.), mammalian wildlife (Himalayan musk deer, black bear, red fox) and several game reserves / sanctuaries. :contentReference[oaicite:4]{index=4}",
+        "District established in 2017 (carved out of Lower Kohistan) with two tehsils: Battera Kolai and Palas. :contentReference[oaicite:5]{index=5}",
+        "Conservation importance: presence of national park(s), wildlife sanctuaries and game reserves in Palas valley. :contentReference[oaicite:6]{index=6}"
+      ],
+      
+      "what_to_pack": [
+        "Warm layered clothing (mornings, evenings cold even in summer)",
+        "Rain gear / waterproof jacket (for summer rain or unexpected showers)",
+        "Good hiking shoes / boots for walking trails or meadows",
+        "Sun protection: hat, sunglasses, sunscreen",
+        "Basic first aid and medicines, insect repellent",
+        "Flashlight / headlamp, extra batteries (electricity may be intermittent)",
+        "Food/snacks for remote travel segments (few shops in remote meadows)"
+      ],
+      
+      "history": {
+        "early_settlement": "Area of Palas has been largely rural; influenced by high-mountain tribal cultures, less documented history compared to more accessible northern valleys. Wildlife and forested terrain have long formed part of local lifeways. Needs more academic sources.",
+        "administrative_changes": "Kolai-Palas was part of larger Kohistan district; in 2017 it was established as separate district. Battera Kolai was carved out as a tehsil in 2018, making two tehsils in total. :contentReference[oaicite:7]{index=7}",
+        "modern_changes": "Growing interest from government about tourism potential; some community infrastructure projects by SRSP; local demand for improved roads, especially to scenic meadows like Baliga. :contentReference[oaicite:8]{index=8}"
+      },
+      
+      "source_urls": [
+        "https://kpboit.gov.pk/kolai-palas/",
+        "https://en.wikipedia.org/wiki/Kolai-Palas_Kohistan_District",
+        "https://paktourismportal.com/palas-valley/ "
+      ]
+    },
+    {
+      "id": 61,
+      "location_name": "Battagram",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Battagram District",
+      "category": "Tourist Destination",
+      "text_summary": "Battagram is a mountainous district along the Karakoram Highway in northern Pakistan. Surrounded by lush forests, valleys, streams and high peaks, it’s a gateway to scenic areas like Allai and Baleeja valleys. It offers natural beauty, cooler weather, and traditional rural life. :contentReference[oaicite:0]{index=0}",
+      
+      "best_time_to_visit": "Late spring through autumn (May to October) when weather is pleasant and roads are more accessible. Avoid heavy monsoon rains and deep winter when snow & cold make travel harder. :contentReference[oaicite:1]{index=1}",
+      
+      "typical_temperature": {
+        "spring": {"min_c": 8, "max_c": 20},    
+        "summer": {"min_c": 20, "max_c": 30},  
+        "autumn": {"min_c": 10, "max_c": 22},
+        "winter": {"min_c": -2, "max_c": 10} 
+      },
+      
+      "how_to_reach": {
+        "by_air": "No direct airport in Battagram. Nearest major airports are Islamabad or perhaps Peshawar. From there travel by road via Mansehra then local roads to Battagram town. :contentReference[oaicite:3]{index=3}",
+        "by_road": "Accessible via the Karakoram Highway (N-35) from Mansehra. Battagram lies along the route toward Gilgit-Baltistan, so many travelers stop there. Roads into valleys (like Baleeja, Chorr etc.) beyond Battagram town may be rough and sometimes partially inaccessible in bad weather. :contentReference[oaicite:4]{index=4}"
+      },
+      
+      "cost_estimate": {
+        "budget_traveller": "Likely around Rs 5,000-10,000 per day (basic guesthouses / inns; local food; shared transport or local jeeps)",
+        "mid_range": "Approximately Rs 12,000-25,000 per day (better lodging, private transport, more meals)",
+        "luxury": "Above Rs 30,000+ per day (if staying in more comfortable hotels, private guiding, etc.) — though luxury options are limited in many parts. "
+      },
+      
+      "hotels": [
+        {
+          "name": "Battagram View Hotel",
+          "category": "Budget / Basic",
+          "approx_price_pkr": "From around Rs 5,000-8,000 per night (estimate)",
+          "location": "Battagram town",
+          "features": ["Basic rooms", "Local food", "Views of surrounding hills"]
+        },
+        {
+          "name": "Guest houses / Local inns",
+          "category": "Budget / Mid-range",
+          "approx_price_pkr": "From ~Rs 8,000-15,000 per night (estimate)",
+          "location": "Near valleys / outskirts (Allai, Baleeja etc.)"
+        }
+      ],
+      
+      "cuisine_and_food": {
+        "local_dishes": ["Pashtun cuisine typical: meat dishes (mutton, chicken), local breads, freshwater fish from streams, local dairy products"], 
+        "vegetarian_options": ["Lentils, vegetables, local greens, seasonal fruits", "Bread, dairy-based foods"], 
+        "recommended_restaurants": ["Local eateries in Battagram town and Allai Bazaar"]
+      },
+      
+      "stories_and_cultural_notes": [
+        "Galai Maidan in Allai tehsil is regarded by some visitors as more beautiful than better-known spots like Kumrat, Kalam etc., especially for its lush green valleys and pine forests. :contentReference[oaicite:6]{index=6}",
+        "Baleeja Valley is noted for its mountain ranges as high as 8,000-10,000 feet; has springs, river, scenic landscape. The drive to Baleeja from Battagram takes about 40 minutes by jeep to Malkal Gali, then trekking. :contentReference[oaicite:7]{index=7}",
+        "Villages like Chorr, Galley, Chail etc. are scenic but have poor road access. Locals demand improvement of roads to promote tourism. :contentReference[oaicite:8]{index=8}",
+        "Winter tourism in Battagram is being affected by changing climate: inconsistent snowfall, damaged roads, unpredictable weather. :contentReference[oaicite:9]{index=9}"
+      ],
+      
+      "what_to_pack": [
+        "Warm clothes for evenings/mornings, especially in higher valleys and winter",
+        "Rain gear / waterproof jacket (especially during monsoon + unpredictable weather)",
+        "Good hiking shoes / boots (for valleys & trekking)",
+        "Sun protection: hat, sunglasses, sunscreen",
+        "Basic first aid, insect repellent",
+        "Flashlight / headlamp, spare batteries (power may be unpredictable in remote valleys)"
+      ],
+      
+      "history": {
+        "early_settlement": "Battagram was tehsil of Mansehra until July 1993 when it was upgraded into district status.",
+        "natural disasters": "Battagram was one of the districts severely affected by the Kashmir earthquake in 2005. Many homes destroyed; reconstruction efforts have remained ongoing in many areas.",
+        "modern_changes": "Growing interest in tourism for valleys like Galai Maidan, Baleeja; road infrastructure being demanded and some improvements; climate change now affecting snowfall and roads; local government portal lists Battagram among places where tourism potential is being tapped."
+      },
+      
+      "source_urls": [
+        "https://battagram.kp.gov.pk/page/about_battagram", 
+        "https://paktourismportal.com/battagram/",
+        "https://beautyofpakistan.com/locations/battagram",
+        "https://thenews.com.pk/print/1287528-changing-climate-hits-winter-tourism-in-battagram",
+        "https://www.dawn.com/news/1276608/roads-demanded-in-battagram-to-promote-tourism"
+      ]
+    },
+    {
+      "id": 62,
+      "location_name": "Kohistan",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Upper Kohistan & Lower Kohistan",
+      "category": "Tourist Destination / Mountain Region",
+      "text_summary": "Kohistan is a mountainous, forested region in northern Khyber Pakhtunkhwa. Divided into Upper and Lower Kohistan, it is rich in alpine valleys, scenic rivers (notably the Indus and its tributaries), waterfalls, glacier lakes, and cultural diversity. It is less developed in terms of infrastructure than many other northern areas, which gives it a remote feel but also a lot of untapped tourism potential.",
+      
+      "best_time_to_visit": "Late spring to early autumn (May to October) when snow has melted in upper elevations and roads are more passable. Summer months best for meadows and lakes. Avoid heavy monsoon rains and deep winter due to snow blockage.",
+      
+      "typical_temperature": {
+        "spring": {"min_c": 5, "max_c": 20},
+        "summer": {"min_c": 15, "max_c": 30},
+        "autumn": {"min_c": 5, "max_c": 22},
+        "winter": {"min_c": -5, "max_c": 10}
+      },
+      
+      "how_to_reach": {
+        "by_air": "No airport in Kohistan itself. The nearest major airports are in Islamabad or Peshawar. From there you travel by road into Kohistan (Upper or Lower) via Mansehra or other adjoining districts. :contentReference[oaicite:2]{index=2}",
+        "by_road": "Roads connect via the Karakoram Highway (KKH) especially towards Upper Kohistan. Also via roads from Mansehra → Besham → onward. Some internal roads to valleys & remote areas are rough, seasonal, and may be blocked in winter or during heavy rain or snow. :contentReference[oaicite:3]{index=3}"
+      },
+      
+      "cost_estimate": {
+        "budget_traveller": "Around Rs 5,000-10,000 per day (staying in local guesthouses, eating local food, basic transport) — estimate",
+        "mid_range": "Rs 12,000-25,000 per day (better lodging, some private or semi-private transport, more food variety)",
+        "luxury": "Above ~Rs 30,000+ per day (if staying in premium lodgings, guided excursions, private transport) — though such options are limited in many parts of Kohistan"
+      },
+      
+      "hotels": [
+        {
+          "name": "Local guesthouses / inns in Dasu and Pattan",
+          "category": "Budget / Basic",
+          "approx_price_pkr": "From ~Rs 4,000-8,000 per night (estimate)",
+          "location": "Dasu town (Upper Kohistan), Pattan (Lower Kohistan)",
+          "features": ["Basic amenities", "Local food", "Shared bathrooms", "sometimes limited heating / hot water", "Views of surrounding hills / river" ]
+        },
+        {
+          "name": "Moderate lodges / rest houses in more accessible valleys",
+          "category": "Mid-range",
+          "approx_price_pkr": "From ~Rs 10,000-18,000 per night (estimate)",
+          "location": "Accessible valleys near major roads / closer to KKH"
+        }
+      ],
+      
+      "cuisine_and_food": {
+        "local_dishes": ["Grilled meats", "local bread, river fish (where available)", "dishes using local dairy", "foraged fruits/nuts", "regional Pashtun / local mountain food styles"] ,
+        "vegetarian_options": ["Legumes (lentils, beans)", "mixed vegetable dishes", "local greens", "fruit / nuts / dairy"] ,
+        "recommended_restaurants": ["Small eat-ups in Dasu, Pattan, and other larger settlement hubs", "guesthouse kitchens", "roadside dhabas along KKH"] 
+      },
+      
+      "stories_and_cultural_notes": [
+        "Kohistan is ethnically diverse: languages include Kohistani (various dialects), Shina, Torwali, Kalami etc.",
+        "It has high hydroelectric potential (Upper & Lower Kohistan estimated ~2,467 MW) and large forest cover. :contentReference[oaicite:5]{index=5}",
+        "Many scenic spots, lakes, glacier views, and valleys are still little known to mass tourism. Popular valleys include Kumrat, Kalam, and Katora Lake among others.",
+        "Dasu is the district headquarters of Upper Kohistan. It lies on the Karakoram Highway and serves as a main access point. :contentReference[oaicite:7]{index=7}",
+        "Forests and rivers are a major part of the landscape. The Indus River and its tributaries flow through, creating beautiful riverine and mountainous scenery."
+      ],
+      
+      "what_to_pack": [
+        "Layered warm clothing especially for nights and higher elevations",
+        "Rain jacket / waterproof outerwear (especially during monsoon / summer thunderstorms)",
+        "Good hiking shoes or boots (for trails, uneven / rocky terrain)",
+        "Sun protection: hat, sunglasses, sunscreen",
+        "Basic medical kit, insect repellent",
+        "Flashlight / headlamp, spare batteries",
+        "Snacks / food for travel stretches (remote areas have few shops)",
+        "Warm sleeping bag or blanket if camping or staying in basic lodging"
+      ],
+      
+      "history": {
+        "early_settlement": "Kohistan has long been inhabited by indigenous Dardic and Indo-Aryan speaking peoples; historically more isolated, with many valleys having distinct languages and cultures.",
+        "administrative_changes": "Kohistan region is administratively split into Upper Kohistan and Lower Kohistan. It has been the subject of district reforms. Dasu is district headquarters of Upper Kohistan.",
+        "modern_changes": "Hydropower projects are underway / planned; some improvement in connectivity via KKH; increasing interest in tourism but infrastructure (roads, lodging) remains basic in many remote parts."
+      },
+      
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kohistan%2C_Pakistan",
+        "https://beautyofpakistan.com/locations/kohistan",
+        "https://en.wikipedia.org/wiki/Dasu",
+        "https://timeanddate.com/weather/@11605167/climate",
+        "https://vizit.pk/listing/pattan/"
+      ]
+    },
+    {
+      "id": 63,
+      "location_name": "Kalash Valley",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Lower Chitral District",
+      "category": "Tourist Destination / Cultural Heritage",
+      "text_summary": "Kalash Valley is a scenic mountain region in northern Pakistan noted for its unique indigenous Kalasha people, their vibrant culture, festivals, traditional houses, open graveyards, and high alpine valleys (Bumburet, Rumbur, Birir). It draws travellers interested in culture, nature, and festivals.",
+      
+      "best_time_to_visit": "May to September is the peak period (spring & summer), good for festivals like Chilam Joshi and Uchau. Early autumn (September–October) also nice. Winters are cold & many roads may be snow-blocked.",
+      
+      "typical_temperature": {
+        "spring": {"min_c": 10, "max_c": 25},
+        "summer": {"min_c": 20, "max_c": 30},
+        "autumn": {"min_c": 10, "max_c": 25},
+        "winter": {"min_c": -5, "max_c": 10}
+      },
+      
+      "how_to_reach": {
+        "by_air": "There is no direct airport to the Kalash Valleys. Nearest airport is Chitral Airport. From there you travel by road to Bumburet, Rumbur or Birir.",
+        "by_road": "From Islamabad or Peshawar via N-45 to Chitral. From Chitral town jeeps or local transport to the three Kalash Valleys (Bumburet, Rumbur, Birir). In summer roads are more passable; winter may block higher roads."
+      },
+      
+      "cost_estimate": {
+        "budget_traveller": "Around Rs 6,000-12,000/day (homestays or simple guesthouses, local food, shared transport)",
+        "mid_range": "Approximately Rs 15,000-25,000/day (better guesthouses, private or semi-private transport, some guided tours)",
+        "luxury": "Above Rs 30,000-40,000/day if staying in premium lodges or villas or getting guided cultural-immersion tours"
+      },
+      
+      "hotels": [
+        {
+          "name": "Kalash Villa",
+          "category": "Mid-range / Boutique",
+          "approx_price_pkr": "Rs 15,000-25,000/night",
+          "location": "Kalash Valley",
+          "features": ["Wood-built/traditional architecture", "Hot showers", "Scenic views", "Private bathrooms", "Local-cooked meals"]
+        },
+        {
+          "name": "Guesthouses / Homestays in Bumburet, Rumbur, Birir",
+          "category": "Budget / Local",
+          "approx_price_pkr": "From Rs 5,000-10,000/night",
+          "location": "Bumburet, Rumbur & Birir valleys",
+          "features": ["Shared or simple private bathrooms", "Local food", "Host family stays", "Close to nature / valley walk access"]
+        }
+      ],
+      
+      "cuisine_and_food": {
+        "local_dishes": ["Traditional Kalasha meals (local bread, dairy products, meats such as lamb or goat)", "Apricot / walnut / fruit-based snacks"],
+        "vegetarian_options": ["Lentils", "Vegetable curries", "Fresh fruits & nuts"],
+        "recommended_restaurants": ["Homestay kitchens", "Local guesthouses", "Small eateries in Bumburet & Chitral"]
+      },
+      
+      "stories_and_cultural_notes": [
+        "The Kalasha people are a small indigenous minority practicing a polytheistic religion, with traditions very different from surrounding populations.",
+        "There are three Kalash Valleys: Bumburet (most accessible/largest), Rumbur (more traditional), and Birir (least developed).",
+        "Festivals are a big draw: Chilam Joshi in May (spring festival), Uchau in August, Chawmos in December (winter solstice).",
+        "Kalasha Dur Museum in Bumburet preserves artifacts, clothing, wood carvings, and history of the Kalasha people.",
+        "Government has allocated funds and formed the Kalash Valleys Development Authority (KVDA) to promote infrastructure, roads and sustainable tourism while preserving heritage."
+      ],
+      
+      "what_to_pack": [
+        "Warm layers, especially for evenings & overnight",
+        "Rain jacket",
+        "Good hiking/walking shoes",
+        "Sun protection: hat, sunglasses, sunscreen",
+        "Basic medicines, insect repellent",
+        "Flashlight/headlamp, spare batteries",
+        "Camera",
+        "Snacks and water for remote travel stretches"
+      ],
+      
+      "history": {
+        "early_settlement": "The Kalasha are believed to be descendants of ancient Indo-Aryan groups; some theories link them mythically to Alexander the Great’s armies, though these are debated.",
+        "cultural_heritage": "Traditional wooden architecture, embroidered clothing, open graveyards, polytheistic festivals dating to pre-Islamic times form the core of Kalasha heritage.",
+        "modern_changes": "Formation of KVDA to manage tourism and heritage conservation; government funds being allocated to infrastructure to support tourism. Concerns remain about cultural erosion, loss of language, conversion pressures, and environmental impact of rising tourism."
+      },
+      
+      "source_urls": [
+        "https://aboutpakistan.com/blog/kalash-valley-in-pakistan-history-festival-and-attractions/",
+        "https://kalashvilla.com/rooms-pricing/",
+       "https://lostinwild.com/destination/south-asia/pakistan/kalash-valley/"
+      ]
+    },
+    {
+      "id": 64,
+      "location_name": "Bahrain",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Swat District",
+      "category": "Tourist Destination / Hill Station",
+      "text_summary": "Bahrain is a scenic hill station in Swat Valley, located about 60 km north of Mingora, on the bank of the Swat River. Known for riverside resorts, handicrafts (especially wood-carving), views, and as a gateway to lake treks such as Daral and Saidgai.",
+      
+      "best_time_to_visit": "April to October (pleasant weather, river flows strong, greenery, accessible roads). Winters can be cold and snow may block some roads, especially mountain passes.",
+      
+      "typical_temperature": {
+        "spring": {"min_c": 8, "max_c": 22},
+        "summer": {"min_c": 18, "max_c": 30},
+        "autumn": {"min_c": 10, "max_c": 24},
+        "winter": {"min_c": -2, "max_c": 10}
+      },
+      
+      "how_to_reach": {
+        "by_air": "Nearest airport is Saidu Sharif Airport (in Swat) or larger ones in Islamabad. From there travel by road via Mingora and then up through the Swat Valley to Bahrain.",
+        "by_road": "From Islamabad drive north via Swat motorway or the route through Mardan/Charsadda to Mingora, then continue to Bahrain. The road passes through Madyan. The road is accessible in summer; in winter some sections may be snow-affected."
+      },
+      
+      "cost_estimate": {
+        "budget_traveller": "Around Rs 5,000-10,000 per day (basic guesthouses, local food, shared/local transport)",
+        "mid_range": "Rs 12,000-20,000 per day (comfortable hotel, private or semi-private transport, more meals)",
+        "luxury": "Above ~Rs 30,000 per day (high-end resort, private transport, guided excursions) – though luxury options are fewer and cost may surge in peak season"
+      },
+      
+      "hotels": [
+        {
+          "name": "Four Season Hotel",
+          "category": "Mid-range",
+          "approx_price_pkr": "Around Rs 4,200-5,000 per night",
+          "location": "Main Road, Bahrain",
+          "features": ["Decent rooms", "Restaurant", "River view", "Comfortable amenities for its class"]
+        },
+        {
+          "name": "Bahrain Continental",
+          "category": "Standard / Mid-range",
+          "approx_price_pkr": "About Rs 3,000-3,500 per night",
+          "location": "Kalam Road, Bahrain",
+          "features": ["Good location"]
+        },
+        {
+          "name": "Hotel KB5",
+          "category": "Mid-range",
+          "approx_price_pkr": "Approx Rs 2,500-3,000 per night",
+          "location": "Main Road, Bahrain",
+          "features": ["Private rooms"]
+        }
+      ],
+      
+      "cuisine_and_food": {
+        "local_dishes": ["Grilled meats", "Fresh river fish", "Chapli kabab", "Local bread", "Swati-style rice dishes"],
+        "vegetarian_options": ["Lentils", "Mixed vegetable curries", "Fresh fruit (apricots etc.)", "Vegetable sides"],
+        "recommended_restaurants": ["Local restaurants along Main Road Bahrain", "hotels serve decent meals"]
+      },
+      
+      "stories_and_cultural_notes": [
+        "Bahrain is named for the meeting point of two rivers in the area.",
+        "Handicrafts, especially wood carving, are famous in Bahrain bazaars—doors, balconies etc. show fine decorative motifs.",
+        "Bahrain serves as a base for tourists heading to Daral Lake and Saidgai Lake.",
+        "The area has received investment from provincial government for development of resorts, chalets, camping and recreational facilities."
+      ],
+      
+      "what_to_pack": [
+        "Layered clothes (warm for mornings and evenings)",
+        "Rain jacket or waterproof outerwear (for unexpected showers)",
+        "Good walking/hiking shoes",
+        "Sun protection (hat, sunglasses, sunscreen)",
+        "Basic first aid and medicines",
+        "Flashlight / headlamp (electricity sometimes fluctuates in remote areas)",
+        "Snacks or dry food for travel stretches"
+      ],
+      
+      "history": {
+        "early_settlement": "Swat has long been inhabited by Dardic and Pashtun communities; Bahrain area historically part of Swat’s cultural and trade routes.",
+        "cultural_heritage": "The wood carving tradition in Bahrain reflects the artistic heritage of Swat; local architecture incorporates decorative woodwork.",
+        "modern_changes": "Tourism development in Swat including Bahrain has improved in recent years—better roads, more hotels, facilities; government promoting hill resort, camping, river-side recreation."
+      },
+      
+      "source_urls": [
+        "https://kpboit.gov.pk/tourism/",
+        "https://forecast7.com/sr/35d2172d55/bahrain/",
+        "https://guestkor.com/browse/trend/492/most-expensive-hotels-in-bahrain-swat-valley----month--year"
+      ]
+    },
+    {
+      "id": 65,
+      "location_name": "Kaghan Valley",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Mansehra District",
+      "category": "Tourist Destination",
+      "text_summary": "An alpine valley with pine forests, lakes and the Kunhar River. Famous for Saif-ul-Malook Lake, Shogran and its meadows.",
+      "best_time_to_visit": "May to September",
+      "typical_temperature": {
+        "spring": {"min_c": 3, "max_c": 11},
+        "summer": {"min_c": 15, "max_c": 30},
+        "autumn": {"min_c": 5, "max_c": 20},
+        "winter": {"min_c": -5, "max_c": 5}
+      },
+      "how_to_reach": {
+        "by_road": "Islamabad → Abbottabad → Mansehra → Balakot → Kaghan → Naran.",
+        "by_air": "Fly to Islamabad, then travel by road."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Around Rs 5,000–8,000 per day",
+        "mid_range": "Around Rs 10,000–18,000 per day",
+        "luxury": "Above Rs 30,000 per day"
+      },
+      "hotels": [
+        {
+          "name": "Pine Park Hotel Shogran",
+          "category": "Mid-range",
+          "approx_price_pkr": "From Rs 12,000 per night",
+          "location": "Shogran",
+          "features": ["Mountain view", "Restaurant", "Wi-Fi"]
+        },
+        {
+          "name": "Arcadian Riverside",
+          "category": "Mid-range",
+          "approx_price_pkr": "From Rs 14,000 per night",
+          "location": "Kaghan",
+          "features": ["Riverside location", "Fireplace", "Local cuisine"]
+        },
+        {
+          "name": "Budget Inn Naran",
+          "category": "Budget",
+          "approx_price_pkr": "From Rs 4,000 per night",
+          "location": "Naran",
+          "features": ["Basic rooms", "Local host", "Shared transport options"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Trout fish", "Mutton karahi", "Kaghan chapli kabab"],
+        "vegetarian_options": ["Mixed vegetable curry", "Lentil soup", "Fresh corn bread"],
+        "recommended_restaurants": ["Moon Restaurant Naran", "Lalazar Restaurant", "Trout Hatchery Cafés"]
+      },
+      "stories_and_cultural_notes": [
+        "Saif-ul-Malook Lake is linked with the Persian prince fairytale of Saiful Malook and fairy princess Badi-ul-Jamal.",
+        "Local handicrafts include wooden carvings and wool shawls."
+      ],
+      "what_to_pack": [
+        "Warm layers",
+        "Comfortable walking shoes",
+        "Raincoat in monsoon",
+        "Sunblock and sunglasses"
+      ],
+      "history": {
+        "early_settlement": "On the old caravan route linking Hazara with Chilas.",
+        "modern_changes": "Now a major summer tourist hub with hotels and jeep tracks."
+      }
+    },
+    {
+      "id": 66,
+      "location_name": "Babusar Top",
+      "province_or_region": "Khyber Pakhtunkhwa / Gilgit-Baltistan border",
+      "district_or_nearby": "End of Kaghan Valley",
+      "category": "High Mountain Pass",
+      "text_summary": "A high-altitude pass connecting Kaghan Valley with Chilas and Gilgit-Baltistan, offering panoramic views.",
+      "best_time_to_visit": "June to October (road open)",
+      "typical_temperature": {
+        "summer": {"min_c": 5, "max_c": 20},
+        "winter": {"min_c": -10, "max_c": 0}
+      },
+      "how_to_reach": {
+        "by_road": "Drive from Naran to Babusar Top on the N-15 road when open."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Part of Kaghan trip, jeep hire Rs 5,000–8,000",
+        "mid_range": "Private car hire Rs 12,000–18,000"
+      },
+      "hotels": [],
+      "cuisine_and_food": {
+        "local_dishes": ["Tea and snacks at roadside stalls"],
+        "vegetarian_options": ["Pakoras, fries, tea"],
+        "recommended_restaurants": []
+      },
+      "stories_and_cultural_notes": [
+        "From Babusar Top you can see Malika Parbat and surrounding peaks on clear days."
+      ],
+      "what_to_pack": [
+        "Warm jackets",
+        "Camera",
+        "Snacks and water"
+      ],
+      "history": {
+        "early_settlement": "Used as a caravan route historically between Hazara and Gilgit region.",
+        "modern_changes": "Now a tourist viewpoint with road access."
+      }
+    },
+    {
+      "id": 67,
+      "location_name": "Fairy Meadows",
+      "province_or_region": "Gilgit-Baltistan",
+      "district_or_nearby": "Diamer District",
+      "category": "High-altitude Grassland",
+      "text_summary": "A lush meadow at the base of Nanga Parbat offering camping, trekking and stunning mountain views.",
+      "best_time_to_visit": "June to September",
+      "typical_temperature": {
+        "summer": {"min_c": 10, "max_c": 25},
+        "autumn": {"min_c": 5, "max_c": 15}
+      },
+      "how_to_reach": {
+        "by_road": "Reach Raikot Bridge on the Karakoram Highway, jeep to Tatoo Village, then trek to Fairy Meadows."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 6,000–10,000 per day (camping, shared jeep)",
+        "mid_range": "Rs 15,000–20,000 per day (wood cabins, guided trek)"
+      },
+      "hotels": [
+        {
+          "name": "Raikot Sarai",
+          "category": "Mid-range",
+          "approx_price_pkr": "From Rs 15,000 per night",
+          "location": "Fairy Meadows",
+          "features": ["Wood cabins", "Mountain view", "Meals included"]
+        },
+        {
+          "name": "Camping Sites",
+          "category": "Budget",
+          "approx_price_pkr": "From Rs 4,000 per tent",
+          "location": "Fairy Meadows",
+          "features": ["Shared camp", "Local food", "Guides available"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Yak meat stew", "Apricot porridge"],
+        "vegetarian_options": ["Daal, chapati, fresh apricots"],
+        "recommended_restaurants": ["Lodges serve home-cooked food"]
+      },
+      "stories_and_cultural_notes": [
+        "Named by German climbers enchanted by the view of Nanga Parbat.",
+        "Serves as base camp route for Nanga Parbat expeditions."
+      ],
+      "what_to_pack": [
+        "Warm sleeping bag",
+        "Trekking boots",
+        "Rain jacket"
+      ],
+      "history": {
+        "early_settlement": "Traditional summer pasture for local shepherds.",
+        "modern_changes": "Now an eco-tourism hotspot with limited cabins."
+      }
+    },
+    {
+      "id": 68,
+      "location_name": "Rakaposhi",
+      "province_or_region": "Gilgit-Baltistan",
+      "district_or_nearby": "Nagar Valley (Bagrot & Hunza views)",
+      "category": "Mountain / Peak",
+      "text_summary": "Rakaposhi (7,788 m) is a towering Karakoram peak famous for its immense vertical rise and snow-covered slopes. It dominates the horizon from many points on the Karakoram Highway.",
+      "best_time_to_visit": "June to September (clear weather, treks accessible)",
+      "typical_temperature": {
+        "summer": {"min_c": 10, "max_c": 25},
+        "autumn": {"min_c": 5, "max_c": 15}
+      },
+      "how_to_reach": {
+        "by_road": "From Gilgit or Karimabad drive to Ghulmet (Rakaposhi View Point) on Karakoram Highway.",
+        "trek": "Base camps reachable by trekking from Minapin or Bagrot Valleys."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Day visit Rs 3,000–6,000 (viewpoints, local transport)",
+        "mid_range": "Trek to base camp Rs 10,000–20,000 (guide, camping)"
+      },
+      "hotels": [
+        {
+          "name": "Rakaposhi View Hotel",
+          "category": "Mid-range",
+          "approx_price_pkr": "From Rs 8,000 per night",
+          "location": "Ghulmet",
+          "features": ["Direct mountain view", "Restaurant", "Wi-Fi"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Yak meat curry", "Chapshuro"],
+        "vegetarian_options": ["Daal, vegetable curry, fresh fruit"],
+        "recommended_restaurants": ["Viewpoint Cafés on KKH"]
+      },
+      "stories_and_cultural_notes": [
+        "Rakaposhi’s name means 'Snow Covered'.",
+        "Locals call it the 'Mother of Mist'."
+      ],
+      "what_to_pack": [
+        "Warm clothes",
+        "Good camera",
+        "Hiking shoes if trekking"
+      ],
+      "history": {
+        "early_settlement": "Valleys around Rakaposhi were on ancient Silk Route.",
+        "modern_changes": "Now a major photo stop and trekking destination."
+      },
+      "source_urls": []
+    },
+    {
+      "id": 69,
+      "location_name": "Nanga Parbat",
+      "province_or_region": "Gilgit-Baltistan",
+      "district_or_nearby": "Diamer District",
+      "category": "Mountain / Peak",
+      "text_summary": "The 9th highest mountain in the world at 8,126 m. Known as the 'Killer Mountain', it looms above the Indus Valley. Base camps are reachable via Fairy Meadows and other routes.",
+      "best_time_to_visit": "June to August for expeditions; June to September for trekking",
+      "typical_temperature": {
+        "summer": {"min_c": 5, "max_c": 18},
+        "autumn": {"min_c": 0, "max_c": 10}
+      },
+      "how_to_reach": {
+        "by_road": "Karakoram Highway to Raikot Bridge, jeep to Tatoo, trek to Fairy Meadows and base camp.",
+        "alternative": "Approach via Diamer side for Rupal Face base camp."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Trek Rs 8,000–12,000 per day",
+        "mid_range": "Cabins Rs 15,000–20,000 per night with guide"
+      },
+      "hotels": [
+        {
+          "name": "Nanga Parbat View Hotel",
+          "category": "Mid-range",
+          "approx_price_pkr": "From Rs 10,000 per night",
+          "location": "Fairy Meadows area",
+          "features": ["Mountain view rooms", "Local meals", "Guided treks"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Apricot soup", "Yak meat stew"],
+        "vegetarian_options": ["Lentils, chapati, nuts"],
+        "recommended_restaurants": ["Lodges at Fairy Meadows"]
+      },
+      "stories_and_cultural_notes": [
+        "First climbed in 1953 by Hermann Buhl.",
+        "Legends of fairies and spirits surround the mountain."
+      ],
+      "what_to_pack": [
+        "High-altitude clothing",
+        "Trekking poles",
+        "Sleeping bag"
+      ],
+      "history": {
+        "early_settlement": "Indigenous herders used summer pastures here.",
+        "modern_changes": "Now a major adventure tourism and climbing hub."
+      },
+      "source_urls": []
+    },
+    {
+      "id": 70,
+      "location_name": "Attabad Lake",
+      "province_or_region": "Gilgit-Baltistan",
+      "district_or_nearby": "Hunza (Gojal)",
+      "category": "Lake / Scenic Spot",
+      "text_summary": "A turquoise lake formed after a landslide in 2010, now a hub for boating, jet skiing and lakeside resorts.",
+      "best_time_to_visit": "April to October",
+      "typical_temperature": {
+        "spring": {"min_c": 5, "max_c": 18},
+        "summer": {"min_c": 15, "max_c": 28},
+        "autumn": {"min_c": 5, "max_c": 15}
+      },
+      "how_to_reach": {
+        "by_road": "On Karakoram Highway about 23 km from Karimabad, easily accessible by car.",
+        "by_air": "Fly to Gilgit, then drive about 2–3 hours to Attabad Lake."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Rs 6,000–10,000 per day",
+        "mid_range": "Rs 15,000–25,000 per day with resort stay"
+      },
+      "hotels": [
+        {
+          "name": "Luxus Hunza",
+          "category": "Luxury",
+          "approx_price_pkr": "From Rs 45,000 per night",
+          "location": "Attabad Lake",
+          "features": ["Lakefront villas", "Water sports", "Private deck"]
+        },
+        {
+          "name": "Local Guesthouses",
+          "category": "Budget",
+          "approx_price_pkr": "From Rs 4,500 per night",
+          "location": "Nearby villages",
+          "features": ["Basic rooms", "Home cooking"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapshuro", "Fresh trout", "Apricot juice"],
+        "vegetarian_options": ["Daal, vegetable stew, nuts"],
+        "recommended_restaurants": ["Resort Cafés by the lake"]
+      },
+      "stories_and_cultural_notes": [
+        "Lake created by a massive landslide in January 2010.",
+        "Submerged parts of old villages now lie under the lake."
+      ],
+      "what_to_pack": [
+        "Warm layers (mornings can be cool)",
+        "Camera",
+        "Boating-friendly clothes"
+      ],
+      "history": {
+        "early_settlement": "Area was part of Karakoram Highway villages.",
+        "modern_changes": "Lake changed local geography and now a tourism hub."
+      },
+      "source_urls": []
+    },
+    {
+      "id": 71,
+      "location_name": "Lulusar Lake",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Kaghan Valley, Mansehra District",
+      "category": "High-altitude Lake",
+      "text_summary": "A serene high-altitude lake, source of the Kunhar River, part of Lulusar-Dudipatsar National Park. Often visited en route to Babusar Pass.",
+      "best_time_to_visit": "June to September (roads open)",
+      "typical_temperature": {
+        "summer": {"min_c": 5, "max_c": 18},
+        "autumn": {"min_c": 0, "max_c": 12}
+      },
+      "how_to_reach": {
+        "by_road": "Drive from Naran towards Babusar Pass, about 48 km from Naran."
+      },
+      "cost_estimate": {
+        "budget_traveller": "Day trip Rs 3,000–6,000",
+        "mid_range": "Private car with guide Rs 10,000–15,000"
+      },
+      "hotels": [],
+      "cuisine_and_food": {
+        "local_dishes": ["Tea, pakoras at roadside stalls"],
+        "vegetarian_options": ["Snacks, fries"],
+        "recommended_restaurants": []
+      },
+      "stories_and_cultural_notes": [
+        "Lulusar means 'peak of Lulus'.",
+        "Lake reflects surrounding mountains beautifully."
+      ],
+      "what_to_pack": [
+        "Warm jacket",
+        "Camera",
+        "Snacks and water"
+      ],
+      "history": {
+        "early_settlement": "Historically used as pasture area.",
+        "modern_changes": "Declared part of national park; road access improved."
+      },
+      "source_urls": []
     }
 ]
   
