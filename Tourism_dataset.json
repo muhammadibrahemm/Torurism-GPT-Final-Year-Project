@@ -2044,5 +2044,1248 @@
       "source_urls": [
         "https://en.wikipedia.org/wiki/Lal_Suhanra_National_Park"
       ]
+    },
+    {
+      "id": 51,
+      "location_name": "Kaghan Valley",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Mansehra District",
+      "category": "Natural Attraction",
+      "text_summary": "Kaghan Valley is a scenic alpine valley in the Mansehra District of Khyber Pakhtunkhwa, Pakistan, known for its lush meadows, lakes, and snow-capped peaks.",
+      "best_time_to_visit": "May to September (summer months)",
+      "typical_temperature": "Spring 10–20°C, Summer 15–25°C, Autumn 5–15°C, Winter -5–5°C",
+      "spring": { "min_c": 10, "max_c": 20 },
+      "summer": { "min_c": 15, "max_c": 25 },
+      "autumn": { "min_c": 5, "max_c": 15 },
+      "winter": { "min_c": -5, "max_c": 5 },
+      "how_to_reach": "Accessible by road from Islamabad via Abbottabad and Mansehra.",
+      "by_air": "",
+      "by_road": "Approximately 5–6 hours drive from Islamabad via Naran road.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 3,000–5,000 per day",
+        "mid_range": "PKR 6,000–12,000 per day",
+        "luxury": "PKR 15,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Arcadian Riverside",
+          "category": "Mid-range",
+          "approx_price_pkr": "8,000–12,000",
+          "location": "Near Shogran, Kaghan Valley",
+          "features": ["River view rooms", "Restaurant", "Guided tours"]
+        },
+        {
+          "name": "Pine Park Hotel Shogran",
+          "category": "Mid-range",
+          "approx_price_pkr": "6,000–10,000",
+          "location": "Shogran, Kaghan Valley",
+          "features": ["Mountain view", "BBQ area", "Parking"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Trout Fish", "Chapli Kebab"],
+        "vegetarian_options": ["Daal with rice", "Vegetable curries"],
+        "recommended_restaurants": ["Trout Fish House Naran", "Moon Restaurant Naran"]
+      },
+      "stories_and_cultural_notes": "Kaghan Valley is steeped in local folklore about fairies inhabiting the mountains and lakes, particularly Lake Saif-ul-Malook.",
+      "what_to_pack": "Warm clothes (even in summer nights), hiking shoes, raincoat, and sunscreen.",
+      "history": {
+        "early_settlement": "Inhabited by Gujjar and other local tribes historically.",
+        "forts_and_rulers": "",
+        "modern_changes": "Tourism has developed rapidly with new hotels and improved road connectivity."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kaghan_Valley",
+        "https://kptourism.com/destinations/kaghan-valley"
+      ]
+    },
+    {
+      "id": 52,
+      "location_name": "Naran",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Mansehra District",
+      "category": "Natural Attraction",
+      "text_summary": "Naran is a popular tourist town in the upper Kaghan Valley of Khyber Pakhtunkhwa, Pakistan, known for its alpine scenery, trout fishing, and access to nearby lakes like Saif-ul-Malook.",
+      "best_time_to_visit": "June to September (summer months)",
+      "typical_temperature": "Spring 8–18°C, Summer 12–22°C, Autumn 4–14°C, Winter -8–2°C",
+      "spring": { "min_c": 8, "max_c": 18 },
+      "summer": { "min_c": 12, "max_c": 22 },
+      "autumn": { "min_c": 4, "max_c": 14 },
+      "winter": { "min_c": -8, "max_c": 2 },
+      "how_to_reach": "Reachable by road from Islamabad via Abbottabad, Mansehra, and Balakot to Naran.",
+      "by_air": "",
+      "by_road": "About 7 hours drive from Islamabad on the N-15 highway via Balakot and Kaghan.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 3,500–5,500 per day",
+        "mid_range": "PKR 7,000–12,000 per day",
+        "luxury": "PKR 15,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Hotel DeManchi Naran",
+          "category": "Mid-range",
+          "approx_price_pkr": "7,000–11,000",
+          "location": "Main Bazar, Naran",
+          "features": ["Restaurant", "Parking", "Mountain view"]
+        },
+        {
+          "name": "Pine Top Hotel Naran",
+          "category": "Budget",
+          "approx_price_pkr": "4,000–7,000",
+          "location": "Jheel Road, Naran",
+          "features": ["Family rooms", "Trout fish restaurant", "Tour services"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Fresh Trout Fish", "Chapli Kebab"],
+        "vegetarian_options": ["Vegetable curry", "Daal Chawal"],
+        "recommended_restaurants": ["Trout Fish House Naran", "Moon Restaurant Naran"]
+      },
+      "stories_and_cultural_notes": "Naran is the gateway to Lake Saif-ul-Malook, which is linked to a famous Persian legend of a prince and a fairy queen.",
+      "what_to_pack": "Warm layers, waterproof jackets, hiking boots, and sunscreen for daytime.",
+      "history": {
+        "early_settlement": "Originally settled by Gujjar communities, Naran evolved into a tourist hub in the 20th century.",
+        "forts_and_rulers": "",
+        "modern_changes": "New hotels, restaurants, and improved roads have turned Naran into one of the busiest mountain resorts in Pakistan."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Naran_(town)",
+        "https://kptourism.com/destinations/naran"
+      ]
+    },
+    {
+      "id": 53,
+      "location_name": "Saif-ul-Maluk Lake",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Near Naran, Mansehra District",
+      "category": "Natural Attraction",
+      "text_summary": "Lake Saif-ul-Maluk is a high-altitude alpine lake near Naran in the Kaghan Valley, Khyber Pakhtunkhwa. It is famous for its crystal-clear waters, surrounding snow-clad peaks, and the legend of the prince and fairy.",
+      "best_time_to_visit": "June to September (summer months when road access is open)",
+      "typical_temperature": "Spring 2–10°C, Summer 5–15°C, Autumn 0–8°C, Winter -15–0°C",
+      "spring": { "min_c": 2, "max_c": 10 },
+      "summer": { "min_c": 5, "max_c": 15 },
+      "autumn": { "min_c": 0, "max_c": 8 },
+      "winter": { "min_c": -15, "max_c": 0 },
+      "how_to_reach": "From Naran, a jeep track of about 9 km leads to the lake during summer months. Hiking is also possible for adventurous visitors.",
+      "by_air": "",
+      "by_road": "Drive to Naran from Islamabad (7–8 hours) and then take a jeep or hike 9 km from Naran to the lake.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 2,000–4,000 per day (jeep fare extra)",
+        "mid_range": "PKR 5,000–10,000 per day",
+        "luxury": "PKR 12,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Hotels in Naran (Base Stay)",
+          "category": "Mid-range",
+          "approx_price_pkr": "6,000–10,000",
+          "location": "Naran Town (closest accommodation)",
+          "features": ["Access to jeeps", "Guided tours", "Mountain views"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Fresh Trout Fish from Kaghan Valley"],
+        "vegetarian_options": ["Simple local vegetarian curries"],
+        "recommended_restaurants": ["Restaurants in Naran offering local and Pakistani dishes"]
+      },
+      "stories_and_cultural_notes": "According to folklore, a Persian prince fell in love with a fairy at Lake Saif-ul-Maluk. The lake is said to be enchanted and full of mystical stories told by locals.",
+      "what_to_pack": "Warm clothes even in summer, hiking boots, raincoat, sunscreen, and snacks as no food stalls are at the lake itself.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "Tourist access improved with jeep tracks and guided tours from Naran."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Lake_Saiful_Muluk",
+        "https://kptourism.com/destinations/lake-saiful-maluk"
+      ]
+    },
+    {
+      "id": 54,
+      "location_name": "Lulusar Lake",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Near Naran, Mansehra District",
+      "category": "Natural Attraction",
+      "text_summary": "Lulusar Lake is a large, serene high-altitude lake located in the upper Kaghan Valley, Khyber Pakhtunkhwa, Pakistan. It is known for its clear waters, snowcapped mountain backdrop, and as the source of the Kunhar River.",
+      "best_time_to_visit": "June to September (when snow has melted and the road is open)",
+      "typical_temperature": "Spring 2–8°C, Summer 5–15°C, Autumn 0–7°C, Winter -12–-2°C",
+      "spring": { "min_c": 2, "max_c": 8 },
+      "summer": { "min_c": 5, "max_c": 15 },
+      "autumn": { "min_c": 0, "max_c": 7 },
+      "winter": { "min_c": -12, "max_c": -2 },
+      "how_to_reach": "Accessible by road from Naran via the N-15 highway. Lulusar Lake lies about 50 km from Naran on the way to Babusar Top.",
+      "by_air": "",
+      "by_road": "Drive from Islamabad to Naran (7–8 hours) and then continue 50 km by car or jeep towards Babusar Top to reach Lulusar Lake.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 2,500–4,500 per day (transport extra)",
+        "mid_range": "PKR 6,000–10,000 per day",
+        "luxury": "PKR 12,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Hotels in Naran (Base Stay)",
+          "category": "Mid-range",
+          "approx_price_pkr": "6,000–10,000",
+          "location": "Naran Town (closest accommodation)",
+          "features": ["Guided tours", "Jeep booking", "Mountain views"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Trout Fish from Kaghan Valley"],
+        "vegetarian_options": ["Vegetable curry, lentils"],
+        "recommended_restaurants": ["Restaurants in Naran"]
+      },
+      "stories_and_cultural_notes": "Lulusar Lake is considered a tranquil spot with scenic beauty and is historically noted as the place where 55 participants of the 1857 war of independence were arrested.",
+      "what_to_pack": "Warm clothing, hiking boots, rain protection, and food/snacks as there are no facilities near the lake.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "Improved road connectivity from Naran to Babusar Top has made Lulusar Lake more accessible to tourists."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Lulusar",
+        "https://kptourism.com/destinations/lulusar-lake"
+      ]
+    },
+    {
+      "id": 55,
+      "location_name": "Babusar Top",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Border of Mansehra District (KP) and Chilas (GB)",
+      "category": "Natural Attraction",
+      "text_summary": "Babusar Top (also known as Babusar Pass) is a high mountain pass at an elevation of about 4,173 m (13,691 ft) connecting Kaghan Valley in Khyber Pakhtunkhwa with Chilas in Gilgit-Baltistan. It offers panoramic views of the surrounding peaks, including Nanga Parbat on clear days.",
+      "best_time_to_visit": "June to September (summer months when the pass is open)",
+      "typical_temperature": "Spring -2–8°C, Summer 5–15°C, Autumn -3–6°C, Winter -15–-5°C (closed due to heavy snow)",
+      "spring": { "min_c": -2, "max_c": 8 },
+      "summer": { "min_c": 5, "max_c": 15 },
+      "autumn": { "min_c": -3, "max_c": 6 },
+      "winter": { "min_c": -15, "max_c": -5 },
+      "how_to_reach": "From Naran, travel by road along the N-15 highway for about 70 km towards Chilas to reach Babusar Top. The pass is only open in summer.",
+      "by_air": "",
+      "by_road": "Drive from Islamabad to Naran (7–8 hours) and then continue 70 km by car or jeep towards Babusar Top.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 3,000–5,000 per day (transport extra)",
+        "mid_range": "PKR 6,000–10,000 per day",
+        "luxury": "PKR 12,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Hotels in Naran (Base Stay)",
+          "category": "Mid-range",
+          "approx_price_pkr": "6,000–10,000",
+          "location": "Naran Town (closest accommodation)",
+          "features": ["Guided tours to Babusar Top", "Mountain views", "Jeep booking"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Trout Fish from Kaghan Valley"],
+        "vegetarian_options": ["Vegetable curry, lentils"],
+        "recommended_restaurants": ["Restaurants in Naran"]
+      },
+      "stories_and_cultural_notes": "Babusar Top marks the highest point of the Kaghan Valley road and historically served as a route for traders and travelers between KP and Gilgit-Baltistan.",
+      "what_to_pack": "Very warm clothing, windproof jackets, hiking shoes, snacks and water as there are no permanent facilities at the top.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "The paved road via Babusar Top has made it easier for tourists to access Gilgit-Baltistan without traveling via Besham."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Babusar_Pass",
+        "https://kptourism.com/destinations/babusar-top"
+      ]
+    },
+    {
+      "id": 56,
+      "location_name": "Swat Valley",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Swat District",
+      "category": "Natural Attraction",
+      "text_summary": "Swat Valley, often called the 'Switzerland of Pakistan', is a lush green valley in Khyber Pakhtunkhwa known for its rivers, forests, historical Buddhist sites, and snow-capped mountains.",
+      "best_time_to_visit": "April to October (spring and summer are ideal)",
+      "typical_temperature": "Spring 10–20°C, Summer 15–30°C, Autumn 8–18°C, Winter -2–10°C",
+      "spring": { "min_c": 10, "max_c": 20 },
+      "summer": { "min_c": 15, "max_c": 30 },
+      "autumn": { "min_c": 8, "max_c": 18 },
+      "winter": { "min_c": -2, "max_c": 10 },
+      "how_to_reach": "Accessible by road from Islamabad via M1 and Swat Motorway; flights are also available to Saidu Sharif Airport from Islamabad.",
+      "by_air": "Flights from Islamabad to Saidu Sharif Airport (limited schedule).",
+      "by_road": "Drive from Islamabad to Mingora (Swat) via M1 Motorway and Swat Motorway (~4–5 hours).",
+      "cost_estimate": {
+        "budget_traveller": "PKR 3,500–5,500 per day",
+        "mid_range": "PKR 7,000–12,000 per day",
+        "luxury": "PKR 15,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Serena Hotel Swat",
+          "category": "Luxury",
+          "approx_price_pkr": "15,000–25,000",
+          "location": "Saidu Sharif, Swat",
+          "features": ["Luxury rooms", "Swimming pool", "Fine dining"]
+        },
+        {
+          "name": "Swat Continental Hotel",
+          "category": "Mid-range",
+          "approx_price_pkr": "6,000–10,000",
+          "location": "Mingora, Swat",
+          "features": ["Restaurant", "Conference hall", "City view"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli Kebab", "Trout Fish", "Kabuli Pulao"],
+        "vegetarian_options": ["Vegetable curries", "Daal Chawal"],
+        "recommended_restaurants": ["Pearl Continental Malam Jabba Restaurant", "Local Trout Houses in Madyan and Bahrain"]
+      },
+      "stories_and_cultural_notes": "Swat Valley was an important center of early Buddhism and contains many stupas and monasteries. It was also ruled by the Swat State until its merger with Pakistan in 1969.",
+      "what_to_pack": "Warm clothing (nights are cool), hiking boots, raincoat, sunscreen, and camera.",
+      "history": {
+        "early_settlement": "Home to ancient Gandhara civilization and Buddhist monasteries.",
+        "forts_and_rulers": "Ruled by Buddhist kings, later by Yousafzai Pashtuns, and then the Wali of Swat until 1969.",
+        "modern_changes": "Tourism has rebounded after security improvements, with new hotels and Swat Motorway enhancing access."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Swat_District",
+        "https://kptourism.com/destinations/swat-valley"
+      ]
+    },
+    {
+      "id": 57,
+      "location_name": "Kalam",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Swat District",
+      "category": "Natural Attraction",
+      "text_summary": "Kalam is a beautiful hill station and town located in the upper Swat Valley of Khyber Pakhtunkhwa, Pakistan. It is known for its lush green valleys, riverside scenery, waterfalls, and as a base for trekking to nearby alpine lakes.",
+      "best_time_to_visit": "May to September (pleasant weather)",
+      "typical_temperature": "Spring 8–18°C, Summer 12–22°C, Autumn 5–15°C, Winter -5–5°C",
+      "spring": { "min_c": 8, "max_c": 18 },
+      "summer": { "min_c": 12, "max_c": 22 },
+      "autumn": { "min_c": 5, "max_c": 15 },
+      "winter": { "min_c": -5, "max_c": 5 },
+      "how_to_reach": "Accessible by road from Mingora (Swat) via Bahrain on the N-95. The road is mountainous but paved.",
+      "by_air": "Flights to Saidu Sharif Airport (Swat) from Islamabad, then road to Kalam.",
+      "by_road": "From Islamabad drive to Mingora (Swat) via M1 Motorway and Swat Motorway, then continue to Kalam via Bahrain (~8–9 hours total).",
+      "cost_estimate": {
+        "budget_traveller": "PKR 3,500–6,000 per day",
+        "mid_range": "PKR 6,500–12,000 per day",
+        "luxury": "PKR 15,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Hotel Walnut Heights Kalam",
+          "category": "Mid-range",
+          "approx_price_pkr": "7,000–12,000",
+          "location": "Kalam Valley",
+          "features": ["Mountain view", "Restaurant", "Family rooms"]
+        },
+        {
+          "name": "Greens Hotel Kalam",
+          "category": "Budget",
+          "approx_price_pkr": "4,000–7,000",
+          "location": "Main Kalam Bazaar",
+          "features": ["Parking", "Guided tours", "Restaurant"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Fresh Trout Fish", "Chapli Kebab"],
+        "vegetarian_options": ["Vegetable curries", "Daal Chawal"],
+        "recommended_restaurants": ["Local Trout Houses on Kalam River", "Restaurants in Kalam Bazaar"]
+      },
+      "stories_and_cultural_notes": "Kalam is surrounded by dense forests and riverside villages, and is the starting point for treks to Mahodand Lake and Ushu Forest. It is a major attraction for nature lovers in Pakistan.",
+      "what_to_pack": "Warm clothing (even in summer nights), hiking boots, raincoat, sunscreen, and snacks for day trips.",
+      "history": {
+        "early_settlement": "Traditionally inhabited by Pashtun and Kohistani communities.",
+        "forts_and_rulers": "",
+        "modern_changes": "With improved roads and tourism infrastructure, Kalam has emerged as one of the most popular destinations in Swat."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kalam_Valley",
+        "https://kptourism.com/destinations/kalam-valley"
+      ]
+    },
+    {
+      "id": 58,
+      "location_name": "Mahodand Lake",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Upper Kalam, Swat District",
+      "category": "Natural Attraction",
+      "text_summary": "Mahodand Lake is a stunning alpine lake located about 35 km from Kalam in the upper Ushu Valley of Swat, Khyber Pakhtunkhwa. Surrounded by pine forests, meadows, and snow-capped peaks, it is known for trout fishing, boating, and camping.",
+      "best_time_to_visit": "June to September (when access road is open and weather is pleasant)",
+      "typical_temperature": "Spring 5–12°C, Summer 8–18°C, Autumn 3–10°C, Winter -10–0°C",
+      "spring": { "min_c": 5, "max_c": 12 },
+      "summer": { "min_c": 8, "max_c": 18 },
+      "autumn": { "min_c": 3, "max_c": 10 },
+      "winter": { "min_c": -10, "max_c": 0 },
+      "how_to_reach": "From Kalam, take a jeep (35 km) through Ushu Forest and Palogah to reach Mahodand Lake. Road access is only possible in summer.",
+      "by_air": "Flights to Saidu Sharif Airport (Swat) from Islamabad, then drive to Kalam and onward by jeep to the lake.",
+      "by_road": "Drive from Islamabad to Kalam (8–9 hours) then hire a jeep for 35 km to Mahodand Lake.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 2,500–4,500 per day (jeep fare extra)",
+        "mid_range": "PKR 5,000–10,000 per day",
+        "luxury": "PKR 12,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Hotels in Kalam (Base Stay)",
+          "category": "Mid-range",
+          "approx_price_pkr": "6,000–10,000",
+          "location": "Kalam Valley",
+          "features": ["Access to jeep tours", "Guided camping", "Mountain views"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Fresh Trout Fish (cooked at lake by locals)"],
+        "vegetarian_options": ["Simple local vegetable curries"],
+        "recommended_restaurants": ["Restaurants in Kalam (before departure to the lake)"]
+      },
+      "stories_and_cultural_notes": "Mahodand Lake is surrounded by legends of fairies and hidden treasures. It’s one of the most photographed lakes in Swat and a popular camping spot for families and groups.",
+      "what_to_pack": "Warm clothes, waterproof jackets, hiking boots, snacks, and camping gear if staying overnight.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "Jeep tracks and camping services have improved, making it easier for tourists to reach and stay at Mahodand Lake during summer."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Mahodand_Lake",
+        "https://kptourism.com/destinations/mahodand-lake"
+      ]
+    },
+    {
+      "id": 59,
+      "location_name": "Kumrat Valley",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Upper Dir District",
+      "category": "Natural Attraction",
+      "text_summary": "Kumrat Valley is a lush green valley located in Upper Dir District of Khyber Pakhtunkhwa. Known for its dense Deodar forests, meadows, waterfalls and river streams, it is one of the most scenic and relatively untouched valleys of Pakistan.",
+      "best_time_to_visit": "May to September (when the valley is accessible and weather is pleasant)",
+      "typical_temperature": "Spring 7–15°C, Summer 10–20°C, Autumn 5–12°C, Winter -8–2°C",
+      "spring": { "min_c": 7, "max_c": 15 },
+      "summer": { "min_c": 10, "max_c": 20 },
+      "autumn": { "min_c": 5, "max_c": 12 },
+      "winter": { "min_c": -8, "max_c": 2 },
+      "how_to_reach": "Drive from Islamabad to Dir (7–8 hours), then from Dir continue by jeep to Kumrat Valley. Access road is rough but scenic.",
+      "by_air": "Flights to Chitral or Saidu Sharif airports, then drive to Dir and onward by jeep to Kumrat.",
+      "by_road": "Drive Islamabad–Dir via Chakdara and Timergara, then jeep ride to Kumrat Valley.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 2,000–4,000 per day",
+        "mid_range": "PKR 5,000–8,000 per day",
+        "luxury": "PKR 10,000+ per day (staying at premium camps/hotels in Dir)"
+      },
+      "hotels": [
+        {
+          "name": "Campsites and Guest Houses",
+          "category": "Budget/Mid-range",
+          "approx_price_pkr": "3,000–7,000",
+          "location": "Kumrat Valley",
+          "features": ["Basic amenities", "Camping by river", "Guided hikes"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Fresh trout fish", "Traditional Dir cuisine"],
+        "vegetarian_options": ["Vegetable curries, rice, chapati"],
+        "recommended_restaurants": ["Local eateries and campsites serve simple meals"]
+      },
+      "stories_and_cultural_notes": "Kumrat Valley has gained popularity after local vlogs highlighted its untouched beauty. The valley is also a gateway to Jahaz Banda Meadows and Katora Lake treks.",
+      "what_to_pack": "Warm clothes even in summer, hiking boots, waterproof jackets, camping gear and food supplies for remote areas.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "In recent years, access roads and tourist facilities have improved but the valley still retains its natural charm."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kumrat_Valley",
+        "https://kptourism.com/destinations/kumrat-valley"
+      ]
+    },
+    {
+      "id": 60,
+      "location_name": "Jahaz Banda Meadows",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Upper Dir District (near Kumrat Valley)",
+      "category": "Natural Attraction",
+      "text_summary": "Jahaz Banda Meadows is a high-altitude alpine meadow located above Kumrat Valley in Upper Dir, Khyber Pakhtunkhwa. Known for its expansive grassy plains, snow-capped peaks, wildflowers, and serenity, it’s a favourite trekking destination for nature lovers.",
+      "best_time_to_visit": "June to September (summer months when trails are clear and accessible)",
+      "typical_temperature": "Spring 5–12°C, Summer 8–18°C, Autumn 3–10°C, Winter -10–0°C",
+      "spring": { "min_c": 5, "max_c": 12 },
+      "summer": { "min_c": 8, "max_c": 18 },
+      "autumn": { "min_c": 3, "max_c": 10 },
+      "winter": { "min_c": -10, "max_c": 0 },
+      "how_to_reach": "Drive to Thall (Upper Dir) then jeep to Jandri village. From there a 3–4 hour trek leads to Jahaz Banda Meadows.",
+      "by_air": "Fly to Chitral or Saidu Sharif, then drive to Thall (Upper Dir) and onward by jeep plus trek.",
+      "by_road": "Drive from Islamabad to Thall via Dir (8–9 hours), jeep to Jandri, then trek to Jahaz Banda.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 2,000–4,000 per day",
+        "mid_range": "PKR 5,000–8,000 per day",
+        "luxury": "PKR 9,000+ per day (premium camps/arranged tours)"
+      },
+      "hotels": [
+        {
+          "name": "Camping and Guest Houses",
+          "category": "Budget",
+          "approx_price_pkr": "2,500–6,000",
+          "location": "Jandri village / near Jahaz Banda",
+          "features": ["Camping facilities", "Basic meals", "Guided treks"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Fresh trout", "Traditional Upper Dir cuisine"],
+        "vegetarian_options": ["Lentil curry, rice, chapati"],
+        "recommended_restaurants": ["Local eateries at Thall or guesthouses at Jandri"]
+      },
+      "stories_and_cultural_notes": "Jahaz Banda, meaning 'Ship's Deck', is named after the flat deck-like shape of its meadows. It’s also the starting point for the trek to Katora Lake.",
+      "what_to_pack": "Warm clothing, sturdy hiking boots, sleeping bags, camping gear, and snacks for the trek.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "Once known only to local shepherds, Jahaz Banda has become a popular trekking spot after tourism videos highlighted it."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Jahaz_Banda",
+        "https://kptourism.com/destinations/jahaz-banda-meadows"
+      ]
+    },
+    {
+      "id": 61,
+      "location_name": "Ushu Forest",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Near Kalam, Swat District",
+      "category": "Natural Attraction",
+      "text_summary": "Ushu Forest is a dense coniferous forest located about 8 km northeast of Kalam in Swat Valley. Known for its towering deodar trees, fresh mountain air, and scenic beauty, it’s a popular stop for tourists heading towards Mahodand Lake.",
+      "best_time_to_visit": "May to September (summer months with accessible roads)",
+      "typical_temperature": "Spring 8–15°C, Summer 10–20°C, Autumn 5–12°C, Winter -5–3°C",
+      "spring": { "min_c": 8, "max_c": 15 },
+      "summer": { "min_c": 10, "max_c": 20 },
+      "autumn": { "min_c": 5, "max_c": 12 },
+      "winter": { "min_c": -5, "max_c": 3 },
+      "how_to_reach": "Drive from Kalam to Ushu (8 km) on the road leading to Mahodand Lake; jeeps are available for hire.",
+      "by_air": "Fly to Saidu Sharif Airport, then drive to Kalam and onward to Ushu by road.",
+      "by_road": "Drive from Islamabad to Kalam via Mingora and Bahrain (8–10 hours), then onward to Ushu by local jeep or car.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 1,500–3,000 per day",
+        "mid_range": "PKR 4,000–6,000 per day",
+        "luxury": "PKR 8,000+ per day (staying in premium resorts in Kalam)"
+      },
+      "hotels": [
+        {
+          "name": "Guest Houses and Resorts in Kalam",
+          "category": "Budget/Mid-range",
+          "approx_price_pkr": "2,500–7,000",
+          "location": "Kalam / Near Ushu",
+          "features": ["Comfortable rooms", "Easy access to Ushu Forest", "Traditional meals"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli Kebab", "Fresh trout fish", "Swati Pulao"],
+        "vegetarian_options": ["Vegetable curry, lentils, rice"],
+        "recommended_restaurants": ["Local eateries in Kalam serving traditional dishes"]
+      },
+      "stories_and_cultural_notes": "Ushu Forest is a natural habitat for diverse wildlife and is often highlighted in vlogs about the journey to Mahodand Lake. It reflects the pristine alpine ecosystem of upper Swat.",
+      "what_to_pack": "Warm clothing, comfortable shoes, camera, and snacks for day trips.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "Tourism has increased in recent years, leading to more roadside stalls and improved jeep tracks."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kalam_Valley",
+        "https://kptourism.com/destinations/ushu-forest"
+      ]
+    },
+    {
+      "id": 62,
+      "location_name": "Kalash Valley",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Chitral District",
+      "category": "Cultural & Natural Attraction",
+      "text_summary": "Kalash Valley refers to a group of three valleys—Bumburet, Rumbur and Birir—in Chitral District. Home to the unique Kalash people, the valleys are known for their vibrant culture, distinctive wooden architecture, festivals, and stunning mountain scenery.",
+      "best_time_to_visit": "April to October (pleasant weather and major festivals)",
+      "typical_temperature": "Spring 10–18°C, Summer 15–28°C, Autumn 8–16°C, Winter -5–5°C",
+      "spring": { "min_c": 10, "max_c": 18 },
+      "summer": { "min_c": 15, "max_c": 28 },
+      "autumn": { "min_c": 8, "max_c": 16 },
+      "winter": { "min_c": -5, "max_c": 5 },
+      "how_to_reach": "Drive from Islamabad to Chitral (10–12 hours) via Lowari Tunnel or take a flight to Chitral, then drive to Kalash Valleys (2–3 hours).",
+      "by_air": "Flights from Islamabad to Chitral Airport, then drive to Kalash Valleys.",
+      "by_road": "Drive Islamabad–Dir–Chitral via Lowari Tunnel, then onward by road to Bumburet or Rumbur Valleys.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 2,500–5,000 per day",
+        "mid_range": "PKR 6,000–10,000 per day",
+        "luxury": "PKR 12,000+ per day (premium lodges/arranged tours)"
+      },
+      "hotels": [
+        {
+          "name": "Kalash Guest House",
+          "category": "Mid-range",
+          "approx_price_pkr": "4,000–8,000",
+          "location": "Bumburet Valley",
+          "features": ["Traditional Kalash-style architecture", "Local meals", "Cultural experience"]
+        },
+        {
+          "name": "PTDC Motel Bumburet",
+          "category": "Mid-range",
+          "approx_price_pkr": "6,000–9,000",
+          "location": "Bumburet Valley",
+          "features": ["Standard rooms", "Restaurant", "Easy access to valley"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Kalashi breads and dairy-based dishes", "Chitral trout", "Traditional soups"],
+        "vegetarian_options": ["Local bread with butter, cheese, lentils, vegetable stews"],
+        "recommended_restaurants": ["Local guest houses serve authentic Kalash cuisine"]
+      },
+      "stories_and_cultural_notes": "The Kalash people are believed to be descendants of ancient tribes and practice a distinct religion and culture. Their colourful festivals—Joshi (spring), Uchal (summer), and Chaumos (winter)—draw visitors from all over the world.",
+      "what_to_pack": "Modest clothing respectful of local customs, warm layers (especially at night), comfortable walking shoes, and camera for festivals.",
+      "history": {
+        "early_settlement": "Inhabited for centuries by the Kalash people with their own animist traditions.",
+        "forts_and_rulers": "Valleys historically influenced by Chitral rulers but retained autonomy of culture.",
+        "modern_changes": "Improved road access and government support have increased tourism, with efforts to preserve Kalash heritage."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kalash_valley",
+        "https://kptourism.com/destinations/kalash-valleys"
+      ]
+    },
+    {
+      "id": 63,
+      "location_name": "Chitral Gol National Park",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Chitral District",
+      "category": "National Park / Natural Attraction",
+      "text_summary": "Chitral Gol National Park, located near Chitral town, is one of the oldest national parks in Pakistan. It’s known for its rugged mountains, cedar forests, alpine meadows and diverse wildlife, including the endangered Markhor and Snow Leopard.",
+      "best_time_to_visit": "April to October (when access roads are open and wildlife is easier to spot)",
+      "typical_temperature": "Spring 8–15°C, Summer 12–25°C, Autumn 6–14°C, Winter -8–2°C",
+      "spring": { "min_c": 8, "max_c": 15 },
+      "summer": { "min_c": 12, "max_c": 25 },
+      "autumn": { "min_c": 6, "max_c": 14 },
+      "winter": { "min_c": -8, "max_c": 2 },
+      "how_to_reach": "From Chitral town, a jeep track leads to the park’s entry point. The park is around 3 km from Chitral town.",
+      "by_air": "Flights from Islamabad to Chitral Airport, then drive/jeep to Chitral Gol National Park.",
+      "by_road": "Drive from Islamabad to Chitral via Lowari Tunnel (10–12 hours) or from Gilgit over Shandur Pass (seasonal).",
+      "cost_estimate": {
+        "budget_traveller": "PKR 2,000–4,000 per day",
+        "mid_range": "PKR 5,000–8,000 per day",
+        "luxury": "PKR 10,000+ per day (staying at premium lodges/arranged tours)"
+      },
+      "hotels": [
+        {
+          "name": "PTDC Motel Chitral",
+          "category": "Mid-range",
+          "approx_price_pkr": "5,000–9,000",
+          "location": "Chitral town",
+          "features": ["Standard rooms", "Restaurant", "Access to Chitral Gol National Park"]
+        },
+        {
+          "name": "Local Guest Houses",
+          "category": "Budget",
+          "approx_price_pkr": "2,500–6,000",
+          "location": "Chitral town",
+          "features": ["Basic amenities", "Local meals", "Guided park tours"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chitral trout", "Kalashi breads and dairy", "Traditional meat curries"],
+        "vegetarian_options": ["Lentil soup, vegetables, rice"],
+        "recommended_restaurants": ["Local eateries in Chitral town serve traditional dishes"]
+      },
+      "stories_and_cultural_notes": "The park was established to protect the endangered Markhor. Visitors can see cedar forests, meadows, and panoramic views of Tirich Mir peak from within the park.",
+      "what_to_pack": "Warm layers, trekking shoes, binoculars for wildlife spotting, sun protection.",
+      "history": {
+        "early_settlement": "Area traditionally used by local communities for grazing and hunting.",
+        "forts_and_rulers": "",
+        "modern_changes": "Declared a national park in 1984 to conserve wildlife and forests; now managed under wildlife protection laws."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Chitral_Gol_National_Park",
+        "https://kptourism.com/destinations/chitral-gol-national-park"
+      ]
+    },
+    {
+      "id": 64,
+      "location_name": "Broghil Valley",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Upper Chitral District (near Wakhan Corridor)",
+      "category": "Remote Natural Attraction",
+      "text_summary": "Broghil Valley is a remote high-altitude valley located in Upper Chitral, near the Wakhan Corridor. Famous for its alpine meadows, numerous glacial lakes, yaks, and traditional Wakhi settlements, it is one of the most secluded and pristine destinations in Pakistan.",
+      "best_time_to_visit": "July to September (summer months when the valley is accessible)",
+      "typical_temperature": "Spring 0–8°C, Summer 5–15°C, Autumn -2–10°C, Winter -20–-5°C",
+      "spring": { "min_c": 0, "max_c": 8 },
+      "summer": { "min_c": 5, "max_c": 15 },
+      "autumn": { "min_c": -2, "max_c": 10 },
+      "winter": { "min_c": -20, "max_c": -5 },
+      "how_to_reach": "From Chitral town, drive/jeep to Mastuj and onward to Ishkoman/Broghil on rough jeep tracks. Permits are required to enter the valley.",
+      "by_air": "Fly from Islamabad to Chitral Airport, then drive/jeep to Broghil Valley (requires multiple days).",
+      "by_road": "Drive Islamabad–Chitral via Lowari Tunnel (10–12 hours) then onward by jeep to Mastuj and Broghil (2 days).",
+      "cost_estimate": {
+        "budget_traveller": "PKR 3,000–5,000 per day",
+        "mid_range": "PKR 6,000–10,000 per day",
+        "luxury": "PKR 12,000+ per day (arranged tours with permits and camps)"
+      },
+      "hotels": [
+        {
+          "name": "Camping / Local Guest Houses",
+          "category": "Budget",
+          "approx_price_pkr": "2,000–6,000",
+          "location": "Broghil Valley villages",
+          "features": ["Basic Wakhi-style rooms", "Traditional meals", "Yak rides", "Camping options"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Yak milk products", "Local bread and soups", "Chitrali trout (in lower areas)"],
+        "vegetarian_options": ["Bread, cheese, butter, lentils, potatoes"],
+        "recommended_restaurants": ["Food is mostly offered by local households and small guest houses"]
+      },
+      "stories_and_cultural_notes": "Broghil is home to the Wakhi people with a unique culture and language. The valley hosts the annual Broghil Festival showcasing traditional sports like yak polo.",
+      "what_to_pack": "Warm and layered clothing, trekking boots, sleeping bag, camping gear, food supplies, and valid entry permits.",
+      "history": {
+        "early_settlement": "Wakhi tribes have inhabited the valley for centuries, maintaining nomadic traditions.",
+        "forts_and_rulers": "",
+        "modern_changes": "Recently gaining attention due to the Broghil Festival and eco-tourism initiatives but remains largely untouched."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Broghil_Valley",
+        "https://kptourism.com/des  tinations/broghil-valley"
+      ]
+    },
+    {
+      "id": 65,
+      "location_name": "Malam Jabba",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Swat District",
+      "category": "Ski Resort / Natural Attraction",
+      "text_summary": "Malam Jabba is Pakistan’s premier ski resort located in the Hindu Kush mountains of Swat District. It features ski slopes, chair lifts, zip lines, and panoramic views, making it a popular winter sports and year-round tourist destination.",
+      "best_time_to_visit": "December to March for skiing; May to September for hiking and pleasant weather",
+      "typical_temperature": "Spring 8–15°C, Summer 10–20°C, Autumn 6–14°C, Winter -5–5°C",
+      "spring": { "min_c": 8, "max_c": 15 },
+      "summer": { "min_c": 10, "max_c": 20 },
+      "autumn": { "min_c": 6, "max_c": 14 },
+      "winter": { "min_c": -5, "max_c": 5 },
+      "how_to_reach": "Drive from Mingora (Swat) to Malam Jabba (around 40 km, 1.5 hours). From Islamabad it takes about 6–7 hours by road.",
+      "by_air": "Flights from Islamabad to Saidu Sharif Airport (Swat), then 1.5 hours drive to Malam Jabba.",
+      "by_road": "Drive from Islamabad–Mingora–Malam Jabba via Mardan and Malakand Pass.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 3,000–5,000 per day",
+        "mid_range": "PKR 6,000–10,000 per day",
+        "luxury": "PKR 12,000+ per day (premium resorts and ski packages)"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Hotel Malam Jabba",
+          "category": "Luxury",
+          "approx_price_pkr": "15,000–25,000",
+          "location": "Malam Jabba",
+          "features": ["Luxury rooms", "Ski-in/Ski-out", "Restaurant", "Adventure activities"]
+        },
+        {
+          "name": "Malam Jabba Resorts & Guest Houses",
+          "category": "Mid-range/Budget",
+          "approx_price_pkr": "4,000–10,000",
+          "location": "Malam Jabba",
+          "features": ["Comfortable rooms", "Mountain views", "Easy access to ski slopes"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli Kebab", "Swati Pulao", "Fresh trout fish"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice"],
+        "recommended_restaurants": ["Hotel restaurants and local eateries near ski resort"]
+      },
+      "stories_and_cultural_notes": "Malam Jabba was once developed as a ski resort in the 1960s and was rehabilitated in recent years with modern facilities, drawing both domestic and international tourists.",
+      "what_to_pack": "Warm winter clothing, ski gear (or rent on site), hiking boots, camera, and sun protection.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "Originally established as a ski resort in the 1960s, redeveloped with modern infrastructure and new adventure activities after 2010."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Malam_Jabba",
+        "https://kptourism.com/destinations/malam-jabba"
+      ]
+    },
+    {
+      "id": 65,
+      "location_name": "Shogran",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Mansehra District",
+      "category": "Tourist Destination / Hill Station",
+      "text_summary": "Shogran is a scenic hill station located in the Kaghan Valley of Khyber Pakhtunkhwa, Pakistan. It is famous for its lush green meadows, panoramic views of the surrounding mountains, and as a base for excursions to Siri Paye Meadows.",
+      "best_time_to_visit": "May to September",
+      "typical_temperature": "Spring: 10–18°C, Summer: 15–25°C, Autumn: 8–16°C, Winter: -2–8°C",
+      "spring": {
+        "min_c": 10,
+        "max_c": 18
+      },
+      "summer": {
+        "min_c": 15,
+        "max_c": 25
+      },
+      "autumn": {
+        "min_c": 8,
+        "max_c": 16
+      },
+      "winter": {
+        "min_c": -2,
+        "max_c": 8
+      },
+      "how_to_reach": "Shogran can be reached by road from Islamabad and Abbottabad via the Naran-Kaghan highway.",
+      "by_air": "Nearest airport is in Islamabad (around 4.5 hours’ drive from Shogran).",
+      "by_road": "Accessible via a 34 km jeep track from Balakot through Kiwai.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 3,000 – 5,000 per day",
+        "mid_range": "PKR 6,000 – 10,000 per day",
+        "luxury": "PKR 12,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Arcadian Sprucewoods Resort",
+          "category": "Mid-range",
+          "approx_price_pkr": "8,000 – 12,000",
+          "location": "Shogran",
+          "features": ["Mountain views", "Restaurant", "Guided tours"]
+        },
+        {
+          "name": "Pine Park Hotel",
+          "category": "Budget",
+          "approx_price_pkr": "4,000 – 6,000",
+          "location": "Shogran",
+          "features": ["Basic amenities", "Garden area", "Easy access to Siri Paye track"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli Kebab", "Saag with Makai ki Roti", "Fresh trout"],
+        "vegetarian_options": ["Vegetable curries", "Lentils and rice", "Salads"],
+        "recommended_restaurants": ["Local hotel restaurants in Shogran Bazaar"]
+      },
+      "stories_and_cultural_notes": "Shogran is known for its welcoming locals and as a launching point for the legendary Siri Paye Meadows trek.",
+      "what_to_pack": "Warm clothing even in summer, trekking shoes, raincoat, sunscreen.",
+      "history": {
+        "early_settlement": "Primarily inhabited by locals of Kaghan Valley.",
+        "forts_and_rulers": "",
+        "modern_changes": "Developed into a popular tourist base for Kaghan Valley."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Shogran"
+      ]
+    },
+    {
+      "id": 66,
+      "location_name": "Siri Paye Meadows",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Near Shogran, Mansehra District",
+      "category": "Natural Attraction / Alpine Meadows",
+      "text_summary": "Siri Paye Meadows is a stunning alpine meadow located above Shogran in the Kaghan Valley of Khyber Pakhtunkhwa, Pakistan. Famous for its lush green pastures, small lakes, and breathtaking views of Makra Peak and surrounding mountains, it offers a tranquil escape and is ideal for trekking and picnics.",
+      "best_time_to_visit": "June to September",
+      "typical_temperature": "Spring: 8–15°C, Summer: 12–22°C, Autumn: 5–14°C, Winter: -5–5°C",
+      "spring": {
+        "min_c": 8,
+        "max_c": 15
+      },
+      "summer": {
+        "min_c": 12,
+        "max_c": 22
+      },
+      "autumn": {
+        "min_c": 5,
+        "max_c": 14
+      },
+      "winter": {
+        "min_c": -5,
+        "max_c": 5
+      },
+      "how_to_reach": "Accessible via a jeep track from Shogran, which is connected by road from Balakot and Islamabad.",
+      "by_air": "Nearest airport is in Islamabad (around 5 hours’ drive to Shogran, then jeep to Siri Paye).",
+      "by_road": "34 km from Balakot to Shogran by car, then approximately 7 km jeep track to Siri Paye Meadows.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 2,000 – 4,000 per day",
+        "mid_range": "PKR 5,000 – 8,000 per day",
+        "luxury": "PKR 10,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "No hotels at Siri Paye directly",
+          "category": "",
+          "approx_price_pkr": "",
+          "location": "",
+          "features": []
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli Kebab", "Fresh trout from Kaghan River", "Pakistani tea with paratha"],
+        "vegetarian_options": ["Lentil soup", "Vegetable curries", "Salads"],
+        "recommended_restaurants": ["Restaurants in Shogran such as Arcadian Sprucewoods Resort"]
+      },
+      "stories_and_cultural_notes": "Siri Paye Meadows is associated with the legend of Makra Peak. Locals believe the mountain resembles a spider (Makra) and have shared stories of mystical sightings in the meadows.",
+      "what_to_pack": "Warm clothing, trekking shoes, raincoat, sunscreen, snacks for picnics.",
+      "history": {
+        "early_settlement": "Traditionally used as grazing land by locals of Kaghan Valley.",
+        "forts_and_rulers": "",
+        "modern_changes": "Became a popular jeep safari and trekking destination for tourists."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Siri_Paye"
+      ]
+    },
+    {
+      "id": 67,
+      "location_name": "Galiyat Region",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Abbottabad / Murree Hills area",
+      "category": "Hill Station / Tourist Destination",
+      "text_summary": "The Galiyat region is a series of hill stations and valleys along the western edge of the Himalayas in Khyber Pakhtunkhwa, Pakistan. Known for its pine-covered hills, cool climate, and scenic hiking trails, it is a popular retreat for nature lovers and tourists escaping the heat.",
+      "best_time_to_visit": "March to October",
+      "typical_temperature": "Spring: 10–20°C, Summer: 15–25°C, Autumn: 8–18°C, Winter: 0–10°C",
+      "spring": {
+        "min_c": 10,
+        "max_c": 20
+      },
+      "summer": {
+        "min_c": 15,
+        "max_c": 25
+      },
+      "autumn": {
+        "min_c": 8,
+        "max_c": 18
+      },
+      "winter": {
+        "min_c": 0,
+        "max_c": 10
+      },
+      "how_to_reach": "Accessible via road from Islamabad or Abbottabad, with well-connected highways and local roads to towns such as Nathia Gali, Dunga Gali, and Ayubia.",
+      "by_air": "Flights to Islamabad, then 2–3 hours drive to the Galiyat region.",
+      "by_road": "Drive via Murree Expressway and Abbottabad–Nathiagali Road to reach main towns in the Galiyat region.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 2,000–4,000 per day",
+        "mid_range": "PKR 5,000–8,000 per day",
+        "luxury": "PKR 10,000+ per day (resorts and hotels)"
+      },
+      "hotels": [
+        {
+          "name": "PTDC Hotel Nathia Gali",
+          "category": "Mid-range",
+          "approx_price_pkr": "5,000–9,000",
+          "location": "Nathia Gali",
+          "features": ["Comfortable rooms", "Restaurant", "Mountain views"]
+        },
+        {
+          "name": "Ayubia Resort & Cottages",
+          "category": "Mid-range / Luxury",
+          "approx_price_pkr": "6,000–12,000",
+          "location": "Ayubia",
+          "features": ["Resort amenities", "Hiking access", "Family-friendly"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Pakistani barbecue", "Chapli Kebab", "Mountain trout"],
+        "vegetarian_options": ["Vegetable curries, rice, lentils, salads"],
+        "recommended_restaurants": ["Local eateries in Nathia Gali, Dunga Gali, and Ayubia"]
+      },
+      "stories_and_cultural_notes": "Galiyat has a colonial history with several hill stations developed during British rule. It is popular for nature walks, hiking trails, and bird-watching, especially in Ayubia National Park.",
+      "what_to_pack": "Warm clothing, raincoat, hiking shoes, camera, and insect repellent.",
+      "history": {
+        "early_settlement": "Sparsely populated, mainly by local tribes.",
+        "forts_and_rulers": "",
+        "modern_changes": "Developed as hill stations by British colonial administration; now a major domestic tourism region with resorts and hiking infrastructure."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Galiyat",
+        "https://kptourism.com/destinations/galiyat-region"
+      ]
+    },
+    {
+      "id": 68,
+      "location_name": "Pir Chinasi",
+      "province_or_region": "Azad Jammu & Kashmir",
+      "district_or_nearby": "Muzaffarabad District",
+      "category": "Hill Station / Religious & Tourist Destination",
+      "text_summary": "Pir Chinasi is a scenic hilltop located about 30 km from Muzaffarabad, AJK. It is renowned for its panoramic views of the Neelum Valley, lush pine forests, and the shrine of a local Sufi saint, making it both a spiritual and recreational destination.",
+      "best_time_to_visit": "March to October",
+      "typical_temperature": "Spring: 10–18°C, Summer: 15–25°C, Autumn: 8–16°C, Winter: 0–8°C",
+      "spring": {
+        "min_c": 10,
+        "max_c": 18
+      },
+      "summer": {
+        "min_c": 15,
+        "max_c": 25
+      },
+      "autumn": {
+        "min_c": 8,
+        "max_c": 16
+      },
+      "winter": {
+        "min_c": 0,
+        "max_c": 8
+      },
+      "how_to_reach": "Drive from Muzaffarabad city via Cherat Road and Pir Chinasi Road to reach the hilltop.",
+      "by_air": "Nearest airport is Muzaffarabad Airport (limited flights), or Islamabad International Airport followed by a 4–5 hour drive.",
+      "by_road": "Drive from Muzaffarabad city via Cherat Road and then Pir Chinasi Road. Road is steep and may require careful driving.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 1,500–3,000 per day",
+        "mid_range": "PKR 4,000–7,000 per day",
+        "luxury": "PKR 8,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Guest Houses near Pir Chinasi",
+          "category": "Budget",
+          "approx_price_pkr": "2,000–4,000",
+          "location": "Near hilltop and along Muzaffarabad road",
+          "features": ["Basic accommodation", "Local food", "Mountain views"]
+        },
+        {
+          "name": "Muzaffarabad Hotels",
+          "category": "Mid-range / Luxury",
+          "approx_price_pkr": "5,000–15,000",
+          "location": "Muzaffarabad city",
+          "features": ["Comfortable rooms", "Restaurants", "Easy access to Pir Chinasi"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Kashmiri-style meats", "Rice dishes", "Local sweets"],
+        "vegetarian_options": ["Vegetable curries, lentils, salads"],
+        "recommended_restaurants": ["Local eateries in Muzaffarabad"]
+      },
+      "stories_and_cultural_notes": "Pir Chinasi is named after a revered Sufi saint. Pilgrims visit the shrine, while tourists come for scenic views and forest walks. The site blends spirituality with natural beauty.",
+      "what_to_pack": "Warm clothing, hiking shoes, camera, and light snacks.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "Tourism has increased in recent years, with better road access and small guest houses for visitors."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Pir_Chinasi"
+      ]
+    },
+    {
+      "id": 69,
+      "location_name": "Muzaffarabad",
+      "province_or_region": "Azad Jammu & Kashmir",
+      "district_or_nearby": "Muzaffarabad District",
+      "category": "City / Tourist Destination",
+      "text_summary": "Muzaffarabad is the capital city of Azad Jammu & Kashmir, located at the confluence of the Jhelum and Neelum rivers. It is known for its scenic views, colonial-era architecture, and as a gateway to the Neelum Valley and surrounding hill stations.",
+      "best_time_to_visit": "March to October",
+      "typical_temperature": "Spring: 12–20°C, Summer: 20–32°C, Autumn: 12–25°C, Winter: 3–15°C",
+      "spring": { "min_c": 12, "max_c": 20 },
+      "summer": { "min_c": 20, "max_c": 32 },
+      "autumn": { "min_c": 12, "max_c": 25 },
+      "winter": { "min_c": 3, "max_c": 15 },
+      "how_to_reach": "Muzaffarabad is accessible by road from Islamabad via the Srinagar Road or through the Rawalakot route.",
+      "by_air": "Nearest airport is Islamabad International Airport (4–5 hours drive to Muzaffarabad).",
+      "by_road": "Drive from Islamabad via Murree and Abbottabad to Muzaffarabad (approximately 4–5 hours).",
+      "cost_estimate": {
+        "budget_traveller": "PKR 1,500–3,500 per day",
+        "mid_range": "PKR 4,000–7,000 per day",
+        "luxury": "PKR 8,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Muzaffarabad",
+          "category": "Luxury",
+          "approx_price_pkr": "12,000–20,000",
+          "location": "Muzaffarabad city center",
+          "features": ["Luxury rooms", "Restaurant", "River views", "Conference facilities"]
+        },
+        {
+          "name": "PTDC Motel Muzaffarabad",
+          "category": "Mid-range",
+          "approx_price_pkr": "5,000–8,000",
+          "location": "Near city center",
+          "features": ["Comfortable rooms", "Restaurant", "Tourist-friendly"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Kashmiri pulao", "Seekh kebabs", "Chaat"],
+        "vegetarian_options": ["Vegetable curries, rice, lentils, salads"],
+        "recommended_restaurants": ["Hotels and local eateries in the city center"]
+      },
+      "stories_and_cultural_notes": "Muzaffarabad serves as a cultural and administrative center of AJK. The city offers a mix of natural beauty, markets, and colonial-era architecture.",
+      "what_to_pack": "Light clothing for summer, warm layers for winter, comfortable walking shoes, and camera.",
+      "history": {
+        "early_settlement": "Established in 1646 by Sultan Muzaffar Khan.",
+        "forts_and_rulers": "Red Fort (Chak Fort) is a prominent historical site; ruled historically by local Sultans of Kashmir.",
+        "modern_changes": "City rebuilt after the 2005 earthquake; now modernized with roads, hotels, and tourism facilities."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Muzaffarabad"
+      ]
+    },
+    {
+      "id": 70,
+      "location_name": "Rawalakot",
+      "province_or_region": "Azad Jammu & Kashmir",
+      "district_or_nearby": "Poonch District",
+      "category": "City / Tourist Destination",
+      "text_summary": "Rawalakot, known as the 'Pearl Valley,' is a scenic city in Poonch District of AJK. Surrounded by lush green hills, pine forests, and rivers, it serves as a gateway to nearby valleys and hill stations such as Toli Pir.",
+      "best_time_to_visit": "March to October",
+      "typical_temperature": "Spring: 12–20°C, Summer: 18–30°C, Autumn: 12–25°C, Winter: 3–15°C",
+      "spring": { "min_c": 12, "max_c": 20 },
+      "summer": { "min_c": 18, "max_c": 30 },
+      "autumn": { "min_c": 12, "max_c": 25 },
+      "winter": { "min_c": 3, "max_c": 15 },
+      "how_to_reach": "Rawalakot is accessible by road from Islamabad, Muzaffarabad, and other major cities via well-maintained highways.",
+      "by_air": "Nearest airport is Islamabad International Airport, approximately 4–5 hours’ drive to Rawalakot.",
+      "by_road": "Drive via Rawalpindi–Muzaffarabad road and onward to Rawalakot. Buses and taxis are also available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 1,500–3,000 per day",
+        "mid_range": "PKR 4,000–7,000 per day",
+        "luxury": "PKR 8,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "PTDC Motel Rawalakot",
+          "category": "Mid-range",
+          "approx_price_pkr": "4,000–8,000",
+          "location": "Near city center",
+          "features": ["Comfortable rooms", "Restaurant", "Access to nearby valleys"]
+        },
+        {
+          "name": "Rawalakot Guest Houses",
+          "category": "Budget",
+          "approx_price_pkr": "2,500–5,000",
+          "location": "Within the city",
+          "features": ["Basic amenities", "Local cuisine", "Tourist-friendly"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Kashmiri pulao", "Seekh kebab", "Local trout"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Local eateries in city center and hotels"]
+      },
+      "stories_and_cultural_notes": "Rawalakot is known for its pleasant climate and cultural festivals. It is also a hub for travelers visiting nearby hill stations like Toli Pir and Leepa Valley.",
+      "what_to_pack": "Comfortable walking shoes, warm layers for evenings, light clothing for summer, and rain protection.",
+      "history": {
+        "early_settlement": "Historically inhabited by the Sudhan tribe and other local communities.",
+        "forts_and_rulers": "",
+        "modern_changes": "Developed as a city with better roads, hotels, and tourism infrastructure; still retains its natural beauty."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rawalakot"
+      ]
+    },
+    {
+      "id": 71,
+      "location_name": "Banjosa Lake",
+      "province_or_region": "Azad Jammu & Kashmir",
+      "district_or_nearby": "Poonch District, near Rawalakot",
+      "category": "Natural Attraction / Lake",
+      "text_summary": "Banjosa Lake is a man-made lake located near Rawalakot in Poonch District, AJK. Surrounded by pine forests and hills, it is a popular spot for picnics, boating, and family outings.",
+      "best_time_to_visit": "March to October",
+      "typical_temperature": "Spring: 10–18°C, Summer: 15–25°C, Autumn: 8–16°C, Winter: 0–8°C",
+      "spring": { "min_c": 10, "max_c": 18 },
+      "summer": { "min_c": 15, "max_c": 25 },
+      "autumn": { "min_c": 8, "max_c": 16 },
+      "winter": { "min_c": 0, "max_c": 8 },
+      "how_to_reach": "Accessible via a short drive from Rawalakot city along a paved road.",
+      "by_air": "Nearest airport is Islamabad International Airport, about 4–5 hours by road.",
+      "by_road": "Drive from Rawalakot to Banjosa Lake (approximately 20 minutes). Regular taxis and private vehicles can be used.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 1,000–2,500 per day",
+        "mid_range": "PKR 3,000–5,000 per day",
+        "luxury": "PKR 6,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Guest Houses near Banjosa Lake",
+          "category": "Budget/Mid-range",
+          "approx_price_pkr": "2,500–6,000",
+          "location": "Around the lake",
+          "features": ["Basic accommodation", "Scenic views", "Boating access"]
+        },
+        {
+          "name": "Hotels in Rawalakot",
+          "category": "Mid-range/Luxury",
+          "approx_price_pkr": "5,000–12,000",
+          "location": "Rawalakot city",
+          "features": ["Comfortable rooms", "Restaurants", "Easy access to Banjosa Lake"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Kashmiri pulao", "Seekh kebab", "Grilled trout"],
+        "vegetarian_options": ["Vegetable curries, lentils, salads"],
+        "recommended_restaurants": ["Local eateries around Rawalakot and near the lake"]
+      },
+      "stories_and_cultural_notes": "Banjosa Lake is a man-made attraction intended to provide recreational space for locals and tourists. It is surrounded by dense pine forests, giving it a serene and peaceful ambiance.",
+      "what_to_pack": "Comfortable walking shoes, picnic essentials, camera, warm clothing for evenings, and rain protection.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "Constructed as a recreational lake to boost tourism in Rawalakot region."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Banjosa"
+      ]
+    },
+    {
+      "id": 72,
+      "location_name": "Leepa Valley",
+      "province_or_region": "Azad Jammu & Kashmir",
+      "district_or_nearby": "Hattian Bala District / Near Muzaffarabad",
+      "category": "Valley / Tourist Destination",
+      "text_summary": "Leepa Valley is a picturesque valley in Azad Jammu & Kashmir, known for its lush green hills, terraced fields, rivers, and traditional wooden houses. It is accessible via a scenic but mountainous road from Muzaffarabad and is popular for hiking, photography, and cultural tourism.",
+      "best_time_to_visit": "April to September",
+      "typical_temperature": "Spring: 10–18°C, Summer: 15–25°C, Autumn: 8–16°C, Winter: -2–8°C",
+      "spring": { "min_c": 10, "max_c": 18 },
+      "summer": { "min_c": 15, "max_c": 25 },
+      "autumn": { "min_c": 8, "max_c": 16 },
+      "winter": { "min_c": -2, "max_c": 8 },
+      "how_to_reach": "Accessible by road from Muzaffarabad via Hattian Bala. The route includes narrow mountainous roads that require careful driving.",
+      "by_air": "Nearest airport is Islamabad International Airport, followed by a 5–6 hour drive to Muzaffarabad and onward to Leepa Valley.",
+      "by_road": "Drive via Muzaffarabad–Hattian Bala–Leepa Valley Road. Jeep services are often used for rough sections.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 2,000–4,000 per day",
+        "mid_range": "PKR 5,000–8,000 per day",
+        "luxury": "PKR 10,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Guest Houses in Leepa Valley",
+          "category": "Budget",
+          "approx_price_pkr": "2,500–5,000",
+          "location": "Across various villages in the valley",
+          "features": ["Basic amenities", "Traditional wooden houses", "Mountain views"]
+        },
+        {
+          "name": "Hotels in Muzaffarabad",
+          "category": "Mid-range/Luxury",
+          "approx_price_pkr": "5,000–15,000",
+          "location": "Muzaffarabad city",
+          "features": ["Comfortable rooms", "Restaurant access", "Tourist-friendly for Leepa Valley trips"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Traditional Kashmiri food", "Rice and meat dishes", "Local trout fish"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Local eateries in Muzaffarabad and small shops in Leepa villages"]
+      },
+      "stories_and_cultural_notes": "Leepa Valley is inhabited by the Leepa people, with distinct cultural traditions and wooden architecture. Festivals and local crafts are an important part of the valley's heritage.",
+      "what_to_pack": "Warm clothing, trekking shoes, camera, and rain protection; cash for local purchases.",
+      "history": {
+        "early_settlement": "Inhabited by local tribes with centuries-old villages.",
+        "forts_and_rulers": "",
+        "modern_changes": "Valley is increasingly visited by domestic tourists; roads and guesthouses are being developed slowly."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Leepa_Valley"
+      ]
     }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
   ]
