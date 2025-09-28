@@ -3264,6 +3264,1493 @@
       "source_urls": [
         "https://en.wikipedia.org/wiki/Leepa_Valley"
       ]
+    },
+    {
+      "id": 73,
+      "location_name": "Ranikot Fort",
+      "province_or_region": "Sindh",
+      "district_or_nearby": "Jamshoro District",
+      "category": "Historical Site / Fort",
+      "text_summary": "Ranikot Fort, also known as the 'Great Wall of Sindh,' is one of the largest forts in the world, spanning over 32 km in circumference. It features massive walls, bastions, and gates, and is believed to have been originally built during the 17th century. The fort attracts history enthusiasts and adventure tourists alike.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 18–30°C, Summer: 35–45°C, Autumn: 20–32°C, Winter: 10–25°C",
+      "spring": { "min_c": 18, "max_c": 30 },
+      "summer": { "min_c": 35, "max_c": 45 },
+      "autumn": { "min_c": 20, "max_c": 32 },
+      "winter": { "min_c": 10, "max_c": 25 },
+      "how_to_reach": "Accessible by road from Hyderabad or Karachi via National Highway N-5 and local roads.",
+      "by_air": "Nearest airport is Hyderabad Airport or Karachi International Airport, followed by a 2–3 hour drive.",
+      "by_road": "Drive via Hyderabad–Kotri–Jamshoro roads to reach the fort. Local taxis and private vehicles are recommended.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 1,000–2,500 per day",
+        "mid_range": "PKR 3,000–6,000 per day",
+        "luxury": "PKR 7,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Jamshoro Guest Houses",
+          "category": "Budget",
+          "approx_price_pkr": "2,000–4,000",
+          "location": "Jamshoro",
+          "features": ["Basic amenities", "Close to fort", "Local food"]
+        },
+        {
+          "name": "Hyderabad / Karachi Hotels",
+          "category": "Mid-range / Luxury",
+          "approx_price_pkr": "5,000–15,000",
+          "location": "Hyderabad or Karachi",
+          "features": ["Comfortable rooms", "Restaurants", "Private transportation to Ranikot"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Sindhi Biryani", "Sai Bhaji", "Grilled meats"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Hotels in Hyderabad or Jamshoro", "Local roadside eateries near the fort"]
+      },
+      "stories_and_cultural_notes": "Ranikot Fort has long been shrouded in mystery, with unclear origins. Local folklore suggests it was built by a princess, giving it the name 'Rani kot' (Fort of the Queen).",
+      "what_to_pack": "Light clothing for day, hat, sunglasses, sunscreen, water, and comfortable walking shoes.",
+      "history": {
+        "early_settlement": "Built in the 17th century, possibly earlier structures existed at the site.",
+        "forts_and_rulers": "Used by various local rulers including Talpurs and Kalhoro dynasty.",
+        "modern_changes": "Partial restoration and tourism management under Sindh heritage authorities."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Ranikot_Fort"
+      ]
+    },
+    {
+      "id": 74,
+      "location_name": "Noor Mahal",
+      "province_or_region": "Punjab",
+      "district_or_nearby": "Bahawalpur District",
+      "category": "Historical Site / Palace",
+      "text_summary": "Noor Mahal is a magnificent palace located in Bahawalpur, Punjab, built in the late 19th century during the reign of Nawab Sadiq Muhammad Khan IV. It showcases Italian architectural style and is renowned for its grand halls, intricate decorations, and lush gardens.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 18–30°C, Summer: 35–45°C, Autumn: 25–35°C, Winter: 10–22°C",
+      "spring": { "min_c": 18, "max_c": 30 },
+      "summer": { "min_c": 35, "max_c": 45 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 10, "max_c": 22 },
+      "how_to_reach": "Noor Mahal is located within Bahawalpur city and can be reached via city roads.",
+      "by_air": "Nearest airport is Bahawalpur Airport, 10–15 minutes by car.",
+      "by_road": "Accessible via main roads from Bahawalpur city; taxis and private cars recommended.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–5,000 per day",
+        "luxury": "PKR 6,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Hotel Bahawalpur",
+          "category": "Luxury",
+          "approx_price_pkr": "12,000–20,000",
+          "location": "Bahawalpur city",
+          "features": ["Luxury rooms", "Restaurant", "Swimming pool", "Conference facilities"]
+        },
+        {
+          "name": "PTDC Motel Bahawalpur",
+          "category": "Mid-range",
+          "approx_price_pkr": "4,000–8,000",
+          "location": "Bahawalpur city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to Noor Mahal"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Sohan Halwa", "Bhindi Masala", "Chicken Karahi"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Local restaurants near Bahawalpur city center"]
+      },
+      "stories_and_cultural_notes": "Noor Mahal reflects the grandeur of Bahawalpur’s royal heritage. It is occasionally used for state ceremonies and is a symbol of the Nawab era’s opulence.",
+      "what_to_pack": "Comfortable walking shoes, camera, light clothing for day, and warm layers in winter.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "Built by Nawab Sadiq Muhammad Khan IV in 1872.",
+        "modern_changes": "Maintained by the Pakistan government and opened for public tours; occasional cultural events are held on the premises."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Noor_Mahal"
+      ]
+    },
+    {
+      "id": 75,
+      "location_name": "Uch Sharif",
+      "province_or_region": "Punjab",
+      "district_or_nearby": "Bahawalpur District",
+      "category": "Historical / Religious Site",
+      "text_summary": "Uch Sharif is an ancient city in southern Punjab, known for its historical shrines, mosques, and Sufi heritage. It was a prominent center of Islamic learning and culture during the medieval period and houses several tombs of revered saints.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 18–30°C, Summer: 35–45°C, Autumn: 25–35°C, Winter: 10–22°C",
+      "spring": { "min_c": 18, "max_c": 30 },
+      "summer": { "min_c": 35, "max_c": 45 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 10, "max_c": 22 },
+      "how_to_reach": "Uch Sharif is accessible via road from Bahawalpur city, approximately 50 km away.",
+      "by_air": "Nearest airport is Bahawalpur Airport, then 1–1.5 hours by road.",
+      "by_road": "Drive from Bahawalpur city via Uch Sharif Road; local taxis and private vehicles are available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–5,000 per day",
+        "luxury": "PKR 6,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "PTDC Motel Bahawalpur",
+          "category": "Mid-range",
+          "approx_price_pkr": "4,000–8,000",
+          "location": "Bahawalpur city",
+          "features": ["Comfortable rooms", "Restaurant", "Tourist-friendly access to Uch Sharif"]
+        },
+        {
+          "name": "Guest Houses in Uch Sharif",
+          "category": "Budget",
+          "approx_price_pkr": "1,500–3,000",
+          "location": "Within Uch Sharif",
+          "features": ["Basic amenities", "Local hospitality", "Close to shrines"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Traditional Punjabi dishes", "Sweet delicacies"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Restaurants in Bahawalpur city", "Local eateries near shrines"]
+      },
+      "stories_and_cultural_notes": "Uch Sharif is famous for its Sufi shrines and Islamic architecture. It was historically a hub of Islamic scholarship and attracts devotees and tourists alike.",
+      "what_to_pack": "Comfortable walking shoes, modest clothing for visiting shrines, camera, and water.",
+      "history": {
+        "early_settlement": "Uch was an important settlement since the medieval period and a key center for Islamic learning.",
+        "forts_and_rulers": "Controlled by various dynasties including the Delhi Sultanate and local rulers; features historic tombs and shrines.",
+        "modern_changes": "Preservation efforts by government and cultural organizations; open for tourism and pilgrimages."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Uch"
+      ]
+    },
+    {
+      "id": 76,
+      "location_name": "Multan Fort / Qasim Bagh",
+      "province_or_region": "Punjab",
+      "district_or_nearby": "Multan District",
+      "category": "Historical Site / Fort",
+      "text_summary": "Multan Fort, located in the heart of Multan city, is an ancient fortification with a rich history dating back over a thousand years. Qasim Bagh is a historic area inside the fort, featuring ruins, mosques, and remnants of walls. The fort reflects the city's significance as a cultural and trade center in Punjab.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 20–35°C, Summer: 35–45°C, Autumn: 25–35°C, Winter: 5–22°C",
+      "spring": { "min_c": 20, "max_c": 35 },
+      "summer": { "min_c": 35, "max_c": 45 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 5, "max_c": 22 },
+      "how_to_reach": "Located within Multan city; accessible via city roads and local transport.",
+      "by_air": "Nearest airport is Multan International Airport, 15–20 minutes by car.",
+      "by_road": "Reachable via main city roads; taxis, buses, and private vehicles are available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–5,000 per day",
+        "luxury": "PKR 6,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Multan",
+          "category": "Luxury",
+          "approx_price_pkr": "12,000–20,000",
+          "location": "Multan city center",
+          "features": ["Luxury rooms", "Restaurant", "Swimming pool", "Conference facilities"]
+        },
+        {
+          "name": "Hotel One Multan",
+          "category": "Mid-range",
+          "approx_price_pkr": "4,000–8,000",
+          "location": "Multan city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to Multan Fort"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Sohan Halwa", "Multani kebabs", "Cholay"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Local eateries near Multan Fort", "Restaurants in city center"]
+      },
+      "stories_and_cultural_notes": "Multan Fort has witnessed various dynasties including the Ghaznavids, Mughals, and local sultans. Qasim Bagh hosts remnants of historical architecture and provides insight into Multan's rich cultural heritage.",
+      "what_to_pack": "Comfortable walking shoes, sun protection, water, and camera.",
+      "history": {
+        "early_settlement": "Site of ancient city of Multan, inhabited for over a thousand years.",
+        "forts_and_rulers": "Controlled by Ghaznavids, Mughals, and later local rulers; served as military and administrative center.",
+        "modern_changes": "Partially restored; open for tourists with cultural heritage conservation efforts."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Multan_Fort"
+      ]
+    },
+    {
+      "id": 77,
+      "location_name": "Tomb of Shah Rukn-e-Alam",
+      "province_or_region": "Punjab",
+      "district_or_nearby": "Multan District",
+      "category": "Historical / Religious Site",
+      "text_summary": "The Tomb of Shah Rukn-e-Alam is a famous Sufi shrine in Multan, dedicated to the 14th-century Sufi saint, Shah Rukn-e-Alam. It is renowned for its impressive pre-Mughal architecture, large dome, and intricate blue tile work, attracting pilgrims and tourists alike.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 20–35°C, Summer: 35–45°C, Autumn: 25–35°C, Winter: 5–22°C",
+      "spring": { "min_c": 20, "max_c": 35 },
+      "summer": { "min_c": 35, "max_c": 45 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 5, "max_c": 22 },
+      "how_to_reach": "Located in Multan city; accessible via city roads and local transport.",
+      "by_air": "Nearest airport is Multan International Airport, approximately 15–20 minutes by car.",
+      "by_road": "Reachable via main city roads; taxis, buses, and private vehicles available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–5,000 per day",
+        "luxury": "PKR 6,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Multan",
+          "category": "Luxury",
+          "approx_price_pkr": "12,000–20,000",
+          "location": "Multan city center",
+          "features": ["Luxury rooms", "Restaurant", "Swimming pool", "Conference facilities"]
+        },
+        {
+          "name": "Hotel One Multan",
+          "category": "Mid-range",
+          "approx_price_pkr": "4,000–8,000",
+          "location": "Multan city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to shrine"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Sohan Halwa", "Multani kebabs", "Cholay"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Local eateries near the shrine", "Restaurants in city center"]
+      },
+      "stories_and_cultural_notes": "Shah Rukn-e-Alam is one of the most revered Sufi saints in South Punjab. The shrine is a center of spiritual gatherings, Urs celebrations, and cultural tourism.",
+      "what_to_pack": "Modest clothing for shrine visit, comfortable shoes, camera, and water.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "Built between 1320 and 1324 CE during the Tughluq dynasty.",
+        "modern_changes": "Maintained as a heritage site; regular restoration of tile work and structure by cultural authorities."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Shah_Rukn-e-Alam"
+      ]
+    },
+    {
+      "id": 78,
+      "location_name": "Tomb of Bibi Jawindi",
+      "province_or_region": "Punjab",
+      "district_or_nearby": "Bahawalpur District, Uch Sharif",
+      "category": "Historical / Religious Site",
+      "text_summary": "The Tomb of Bibi Jawindi is a striking 15th-century mausoleum in Uch Sharif, known for its intricate blue tile work and unique Islamic architecture. It is one of the finest examples of pre-Mughal funerary art in the region.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 18–30°C, Summer: 35–45°C, Autumn: 25–35°C, Winter: 10–22°C",
+      "spring": { "min_c": 18, "max_c": 30 },
+      "summer": { "min_c": 35, "max_c": 45 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 10, "max_c": 22 },
+      "how_to_reach": "Located in Uch Sharif village; accessible via road from Bahawalpur city.",
+      "by_air": "Nearest airport is Bahawalpur Airport, about 1–1.5 hours by road.",
+      "by_road": "Drive via Uch Sharif Road from Bahawalpur city; local taxis or private vehicles are available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–5,000 per day",
+        "luxury": "PKR 6,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "PTDC Motel Bahawalpur",
+          "category": "Mid-range",
+          "approx_price_pkr": "4,000–8,000",
+          "location": "Bahawalpur city",
+          "features": ["Comfortable rooms", "Restaurant", "Tourist-friendly access to Uch Sharif"]
+        },
+        {
+          "name": "Guest Houses in Uch Sharif",
+          "category": "Budget",
+          "approx_price_pkr": "1,500–3,000",
+          "location": "Within Uch Sharif",
+          "features": ["Basic amenities", "Close proximity to historical sites"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Traditional Punjabi dishes", "Sweets like Sohan Halwa"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Restaurants in Bahawalpur city", "Local eateries near Uch Sharif"]
+      },
+      "stories_and_cultural_notes": "Bibi Jawindi's tomb is part of a cluster of historic shrines in Uch Sharif, which collectively reflect the region's rich Sufi heritage and pre-Mughal architecture.",
+      "what_to_pack": "Modest clothing, comfortable walking shoes, camera, and water.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "Built in the 15th century, representing the architectural style of the local rulers and artisans.",
+        "modern_changes": "Preservation efforts by Pakistan's heritage authorities; partially restored and open for tourism."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Tomb_of_Bibi_Jawindi"      
+      ]
+    },
+    {
+      "id": 79,
+      "location_name": "Takht-i-Bahi Buddhist Monastery",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Mardan District",
+      "category": "Historical / Archaeological Site",
+      "text_summary": "Takht-i-Bahi is an ancient Buddhist monastery located near Mardan in Khyber Pakhtunkhwa. Founded in the 1st century CE, it is a UNESCO World Heritage site known for its well-preserved ruins, stupas, and residential quarters, reflecting the region's Buddhist heritage.",
+      "best_time_to_visit": "March to October",
+      "typical_temperature": "Spring: 15–28°C, Summer: 30–40°C, Autumn: 20–30°C, Winter: 5–18°C",
+      "spring": { "min_c": 15, "max_c": 28 },
+      "summer": { "min_c": 30, "max_c": 40 },
+      "autumn": { "min_c": 20, "max_c": 30 },
+      "winter": { "min_c": 5, "max_c": 18 },
+      "how_to_reach": "Accessible by road from Mardan city; well-connected via local highways.",
+      "by_air": "Nearest airport is Peshawar International Airport, approximately 1.5–2 hours by road.",
+      "by_road": "Drive via Mardan–Takht-i-Bahi Road; taxis and private vehicles recommended.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–5,000 per day",
+        "luxury": "PKR 6,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Hotels in Mardan",
+          "category": "Budget/Mid-range",
+          "approx_price_pkr": "2,500–6,000",
+          "location": "Mardan city",
+          "features": ["Basic amenities", "Easy access to Takht-i-Bahi", "Local restaurants nearby"]
+        },
+        {
+          "name": "Hotels in Peshawar",
+          "category": "Mid-range/Luxury",
+          "approx_price_pkr": "5,000–15,000",
+          "location": "Peshawar city",
+          "features": ["Comfortable rooms", "Restaurants", "Private transportation available to Mardan"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli kebab", "Saag", "Rice and meat dishes"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Restaurants in Mardan city"]
+      },
+      "stories_and_cultural_notes": "Takht-i-Bahi is an important archaeological site showcasing the Gandhara civilization and Buddhist monastic culture. Its name means 'Throne of the Water Spring' and it has been studied extensively by historians.",
+      "what_to_pack": "Comfortable walking shoes, sun protection, camera, water, and light clothing.",
+      "history": {
+        "early_settlement": "Founded in the 1st century CE as a Buddhist monastic complex.",
+        "forts_and_rulers": "Gandhara civilization; later under various regional dynasties.",
+        "modern_changes": "Designated as a UNESCO World Heritage Site; partial restoration for tourism."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Takht-i-Bahi",
+        "https://whc.unesco.org/en/list/140/"
+      ]
+    },
+    {
+      "id": 80,
+      "location_name": "Gor Khatri",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Peshawar District",
+      "category": "Historical / Archaeological Site",
+      "text_summary": "Gor Khatri is a historic complex in Peshawar that has served as a caravanserai, administrative center, and market over centuries. It reflects the architectural styles of the Mughal and Sikh eras and is an important cultural and archaeological site.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 15–28°C, Summer: 30–40°C, Autumn: 20–30°C, Winter: 5–18°C",
+      "spring": { "min_c": 15, "max_c": 28 },
+      "summer": { "min_c": 30, "max_c": 40 },
+      "autumn": { "min_c": 20, "max_c": 30 },
+      "winter": { "min_c": 5, "max_c": 18 },
+      "how_to_reach": "Located in central Peshawar; easily accessible via city roads.",
+      "by_air": "Nearest airport is Peshawar International Airport, approximately 20–30 minutes by car.",
+      "by_road": "Reachable via main city roads; local taxis, buses, and private vehicles are available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–5,000 per day",
+        "luxury": "PKR 6,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Peshawar",
+          "category": "Luxury",
+          "approx_price_pkr": "12,000–20,000",
+          "location": "Peshawar city",
+          "features": ["Luxury rooms", "Restaurant", "Swimming pool", "Conference facilities"]
+        },
+        {
+          "name": "Hotel One Peshawar",
+          "category": "Mid-range",
+          "approx_price_pkr": "4,000–8,000",
+          "location": "Peshawar city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to Gor Khatri"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli kebab", "Kabuli pulao", "Saag"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Local eateries near Gor Khatri", "Restaurants in Peshawar city"]
+      },
+      "stories_and_cultural_notes": "Gor Khatri served as a hub for merchants and travelers during the Mughal period and later under Sikh administration. The site preserves historical architectural elements such as gateways, courtyards, and wells.",
+      "what_to_pack": "Comfortable walking shoes, camera, sun protection, and water.",
+      "history": {
+        "early_settlement": "Established as a caravanserai and trading center during the Mughal era.",
+        "forts_and_rulers": "Used by Mughals, later controlled by Sikhs and British.",
+        "modern_changes": "Restored as an archaeological site; open for tourists and cultural visitors."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Gor_Khatri"
+      ]
+    },
+    {
+      "id": 81,
+      "location_name": "Bala Hissar Fort",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Peshawar District",
+      "category": "Historical Site / Fort",
+      "text_summary": "Bala Hissar Fort is an ancient fortress in Peshawar, serving as a military stronghold for various empires including the Mughals, Durranis, Sikhs, and British. It offers panoramic views of the city and is a key landmark reflecting Peshawar's rich historical and strategic significance.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 15–28°C, Summer: 30–40°C, Autumn: 20–30°C, Winter: 5–18°C",
+      "spring": { "min_c": 15, "max_c": 28 },
+      "summer": { "min_c": 30, "max_c": 40 },
+      "autumn": { "min_c": 20, "max_c": 30 },
+      "winter": { "min_c": 5, "max_c": 18 },
+      "how_to_reach": "Located in Peshawar city; accessible via main city roads.",
+      "by_air": "Nearest airport is Peshawar International Airport, approximately 15–20 minutes by car.",
+      "by_road": "Reachable via Peshawar city roads; taxis, buses, and private vehicles are available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–5,000 per day",
+        "luxury": "PKR 6,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Peshawar",
+          "category": "Luxury",
+          "approx_price_pkr": "12,000–20,000",
+          "location": "Peshawar city",
+          "features": ["Luxury rooms", "Restaurant", "Swimming pool", "Conference facilities"]
+        },
+        {
+          "name": "Hotel One Peshawar",
+          "category": "Mid-range",
+          "approx_price_pkr": "4,000–8,000",
+          "location": "Peshawar city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to Bala Hissar Fort"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli kebab", "Kabuli pulao", "Saag"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Restaurants in Peshawar city", "Local eateries near the fort"]
+      },
+      "stories_and_cultural_notes": "Bala Hissar has been a center of power and military significance for centuries. It played key roles during Mughal, Durrani, Sikh, and British rule and remains a symbol of Peshawar’s strategic importance.",
+      "what_to_pack": "Comfortable walking shoes, camera, sun protection, and water.",
+      "history": {
+        "early_settlement": "The site has been occupied since ancient times, serving as a fortified citadel.",
+        "forts_and_rulers": "Controlled by Mughals, Durranis, Sikhs, and British; underwent several renovations.",
+        "modern_changes": "Partially restored and maintained as a historical monument; access may be limited to certain areas."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Bala_Hissar,_Peshawar",
+        "https://www.pakistantoursguide.com/bala-hissar-fort-peshawar/"
+      ]
+    },
+    {
+      "id": 82,
+      "location_name": "Peshawar Museum",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Peshawar District",
+      "category": "Museum / Cultural Site",
+      "text_summary": "The Peshawar Museum is a prominent cultural and historical museum showcasing the rich heritage of the region, including Gandhara art, Buddhist relics, Islamic artifacts, and ethnographic collections. It is a key destination for history enthusiasts and researchers.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 15–28°C, Summer: 30–40°C, Autumn: 20–30°C, Winter: 5–18°C",
+      "spring": { "min_c": 15, "max_c": 28 },
+      "summer": { "min_c": 30, "max_c": 40 },
+      "autumn": { "min_c": 20, "max_c": 30 },
+      "winter": { "min_c": 5, "max_c": 18 },
+      "how_to_reach": "Located in Peshawar city near Qissa Khwani Bazaar; accessible via city roads.",
+      "by_air": "Nearest airport is Peshawar International Airport, 20–25 minutes by car.",
+      "by_road": "Reachable via main city roads; taxis, buses, and private vehicles are available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 200–500 per day",
+        "mid_range": "PKR 1,000–2,500 per day",
+        "luxury": "PKR 3,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Peshawar",
+          "category": "Luxury",
+          "approx_price_pkr": "12,000–20,000",
+          "location": "Peshawar city",
+          "features": ["Luxury rooms", "Restaurant", "Swimming pool", "Conference facilities"]
+        },
+        {
+          "name": "Hotel One Peshawar",
+          "category": "Mid-range",
+          "approx_price_pkr": "4,000–8,000",
+          "location": "Peshawar city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to museum"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli kebab", "Kabuli pulao", "Saag"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Restaurants near Qissa Khwani Bazaar", "Local eateries in Peshawar city"]
+      },
+      "stories_and_cultural_notes": "The museum is famous for its collection of Gandhara sculptures and Buddhist artifacts, highlighting Peshawar's historical significance as a center of trade and culture.",
+      "what_to_pack": "Comfortable walking shoes, camera, light clothing, and water.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "Established in 1907 during British rule to preserve artifacts of Gandhara civilization.",
+        "modern_changes": "Restored and maintained by the Government of Pakistan; continues to expand collections and exhibits."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Peshawar_Museum"
+      ]
+    },
+    {
+      "id": 83,
+      "location_name": "Hiran Minar",
+      "province_or_region": "Punjab",
+      "district_or_nearby": "Sheikhupura District",
+      "category": "Historical Site / Mughal Architecture",
+      "text_summary": "Hiran Minar is a Mughal-era monument built by Emperor Jahangir in the early 17th century as a memorial to his beloved pet antelope. The site includes a tower, a large water tank, and surrounding gardens, reflecting Mughal architectural elegance.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 18–30°C, Summer: 35–45°C, Autumn: 25–35°C, Winter: 10–22°C",
+      "spring": { "min_c": 18, "max_c": 30 },
+      "summer": { "min_c": 35, "max_c": 45 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 10, "max_c": 22 },
+      "how_to_reach": "Located near Sheikhupura city; accessible via road from Lahore and Sheikhupura.",
+      "by_air": "Nearest airport is Allama Iqbal International Airport, Lahore, approximately 1–1.5 hours by car.",
+      "by_road": "Accessible via Sheikhupura–Lahore Road; private cars or taxis recommended.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 300–800 per day",
+        "mid_range": "PKR 1,000–3,000 per day",
+        "luxury": "PKR 4,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Lahore",
+          "category": "Luxury",
+          "approx_price_pkr": "12,000–20,000",
+          "location": "Lahore city",
+          "features": ["Luxury rooms", "Restaurant", "Swimming pool", "Conference facilities"]
+        },
+        {
+          "name": "Hotel One Sheikhupura",
+          "category": "Mid-range",
+          "approx_price_pkr": "3,500–7,000",
+          "location": "Sheikhupura city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to Hiran Minar"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Punjabi curries", "Tandoori breads", "Sweets"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Restaurants in Sheikhupura", "Restaurants in Lahore city"]
+      },
+      "stories_and_cultural_notes": "Hiran Minar symbolizes Mughal love for nature and animals. The water tank and surrounding gardens were designed for hunting and leisure by the royal family.",
+      "what_to_pack": "Comfortable walking shoes, camera, sun protection, and water.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "Built during the reign of Emperor Jahangir in the early 17th century as a hunting lodge and memorial.",
+        "modern_changes": "Preserved as a historical site by the Government of Pakistan; open to tourists."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Hiran_Minar"
+      ]
+    },
+    {
+      "id": 84,
+      "location_name": "Shah Faisal Masjid View Point",
+      "province_or_region": "Islamabad Capital Territory",
+      "district_or_nearby": "Islamabad",
+      "category": "Religious / Tourist Attraction",
+      "text_summary": "Shah Faisal Masjid View Point offers a panoramic view of the iconic Shah Faisal Masjid, one of the largest mosques in the world. Visitors can enjoy breathtaking views of the mosque against the backdrop of the Margalla Hills and capture stunning photographs.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 15–28°C, Summer: 30–40°C, Autumn: 20–30°C, Winter: 5–18°C",
+      "spring": { "min_c": 15, "max_c": 28 },
+      "summer": { "min_c": 30, "max_c": 40 },
+      "autumn": { "min_c": 20, "max_c": 30 },
+      "winter": { "min_c": 5, "max_c": 18 },
+      "how_to_reach": "Located in Islamabad near the Shah Faisal Masjid; accessible by road via major city routes.",
+      "by_air": "Nearest airport is Islamabad International Airport, approximately 30–40 minutes by car.",
+      "by_road": "Accessible via city roads; taxis, ride-hailing services, and private vehicles are available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 200–500 per day",
+        "mid_range": "PKR 1,000–2,500 per day",
+        "luxury": "PKR 3,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Islamabad Serena Hotel",
+          "category": "Luxury",
+          "approx_price_pkr": "15,000–25,000",
+          "location": "Islamabad city center",
+          "features": ["Luxury rooms", "Restaurants", "Swimming pool", "Spa and fitness facilities"]
+        },
+        {
+          "name": "Hotel One Islamabad",
+          "category": "Mid-range",
+          "approx_price_pkr": "5,000–10,000",
+          "location": "Islamabad city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to Shah Faisal Masjid View Point"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Pakistani BBQ", "Traditional Punjabi dishes", "Rice and curry dishes"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Monal Restaurant", "Café Zouk", "Restaurants near F-6 and F-7 sectors"]
+      },
+      "stories_and_cultural_notes": "The viewpoint provides visitors with a serene and scenic experience overlooking one of Pakistan's most famous landmarks. It is popular for photography and casual sightseeing.",
+      "what_to_pack": "Camera, comfortable walking shoes, sunglasses, water, and light clothing.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "The viewpoint has been developed for tourists with proper access roads and safety barriers."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Faisal_Mosque"
+      ]
+    },
+    {
+      "id": 85,
+      "location_name": "Gurdwara Panja Sahib",
+      "province_or_region": "Punjab",
+      "district_or_nearby": "Attock District, Hasan Abdal",
+      "category": "Religious / Sikh Heritage Site",
+      "text_summary": "Gurdwara Panja Sahib is a prominent Sikh shrine in Hasan Abdal, renowned for housing a sacred rock bearing the handprint of Guru Nanak, the founder of Sikhism. It is an important pilgrimage site attracting thousands of devotees annually.",
+      "best_time_to_visit": "March to November (especially during festivals)",
+      "typical_temperature": "Spring: 18–30°C, Summer: 35–45°C, Autumn: 25–35°C, Winter: 10–20°C",
+      "spring": { "min_c": 18, "max_c": 30 },
+      "summer": { "min_c": 35, "max_c": 45 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 10, "max_c": 20 },
+      "how_to_reach": "Located in Hasan Abdal town; accessible via road from Islamabad or Rawalpindi.",
+      "by_air": "Nearest airport is Islamabad International Airport, approximately 40–50 minutes by car.",
+      "by_road": "Reachable via M1 motorway and Hasan Abdal city roads; taxis and private vehicles are available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 300–1,000 per day",
+        "mid_range": "PKR 1,500–3,500 per day",
+        "luxury": "PKR 4,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Hasan Abdal Guest House",
+          "category": "Budget",
+          "approx_price_pkr": "1,500–3,000",
+          "location": "Near Gurdwara Panja Sahib",
+          "features": ["Basic amenities", "Close proximity to shrine"]
+        },
+        {
+          "name": "Hotels in Islamabad",
+          "category": "Mid-range/Luxury",
+          "approx_price_pkr": "4,000–20,000",
+          "location": "Islamabad city",
+          "features": ["Comfortable rooms", "Restaurants", "Easy access to Hasan Abdal via car"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Traditional Punjabi dishes", "Pakistani sweets", "Vegetarian options widely available at the shrine"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Langar (community kitchen) at the Gurdwara", "Restaurants in Hasan Abdal or Islamabad"]
+      },
+      "stories_and_cultural_notes": "The handprint of Guru Nanak on the sacred rock is believed to have miraculous powers. The gurdwara is an important site for Sikh pilgrims, especially during festivals like Baisakhi.",
+      "what_to_pack": "Modest clothing, head covering for both men and women, comfortable shoes, water, and camera.",
+      "history": {
+        "early_settlement": "Site has been revered since the travels of Guru Nanak in the 15th–16th century.",
+        "forts_and_rulers": "",
+        "modern_changes": "Maintained by the Sikh community; regularly renovated and preserved for pilgrims."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Gurdwara_Panja_Sahib"
+      ]
+    },
+    {
+      "id": 86,
+      "location_name": "Samadhi of Ranjit Singh",
+      "province_or_region": "Punjab",
+      "district_or_nearby": "Lahore District",
+      "category": "Historical / Religious Site",
+      "text_summary": "The Samadhi of Ranjit Singh is the mausoleum of Maharaja Ranjit Singh, the founder of the Sikh Empire. Located in Lahore, it showcases exquisite Sikh architecture with intricate marble work and a serene courtyard, attracting history enthusiasts and tourists.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 18–30°C, Summer: 35–45°C, Autumn: 25–35°C, Winter: 10–22°C",
+      "spring": { "min_c": 18, "max_c": 30 },
+      "summer": { "min_c": 35, "max_c": 45 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 10, "max_c": 22 },
+      "how_to_reach": "Located in Lahore city; accessible via major roads and city transport.",
+      "by_air": "Nearest airport is Allama Iqbal International Airport, approximately 20–25 minutes by car.",
+      "by_road": "Reachable via city roads; taxis, ride-hailing services, and private vehicles available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 200–800 per day",
+        "mid_range": "PKR 1,500–3,500 per day",
+        "luxury": "PKR 4,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Lahore",
+          "category": "Luxury",
+          "approx_price_pkr": "12,000–20,000",
+          "location": "Lahore city center",
+          "features": ["Luxury rooms", "Restaurant", "Swimming pool", "Conference facilities"]
+        },
+        {
+          "name": "Hotel One Lahore",
+          "category": "Mid-range",
+          "approx_price_pkr": "4,000–8,000",
+          "location": "Lahore city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to Samadhi of Ranjit Singh"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Punjabi curries", "Tandoori breads", "Lahori street food"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Restaurants near Walled City of Lahore", "Cafes in Old Lahore"]
+      },
+      "stories_and_cultural_notes": "The Samadhi is a symbol of Sikh heritage in Lahore and reflects the grandeur of the Sikh Empire. It is a peaceful site for visitors and a center for cultural learning.",
+      "what_to_pack": "Comfortable walking shoes, camera, sun protection, and modest clothing.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "Built in the 19th century to honor Maharaja Ranjit Singh, featuring typical Sikh architecture.",
+        "modern_changes": "Maintained as a historical monument by Pakistan's heritage authorities; open to tourists."
+      },
+      "source_urls":[
+        "https://en.wikipedia.org/wiki/Samadhi_of_Ranjit_Singh"
+]
+    },
+    {
+      "id": 87,
+      "location_name": "Saint Patrick’s Cathedral",
+      "province_or_region": "Sindh",
+      "district_or_nearby": "Karachi District",
+      "category": "Religious / Historical Site",
+      "text_summary": "Saint Patrick’s Cathedral is a prominent Roman Catholic cathedral in Karachi, known for its Gothic Revival architecture, tall spires, and stained glass windows. It serves as the seat of the Archdiocese of Karachi and is an important spiritual and historical landmark.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 20–30°C, Summer: 30–40°C, Autumn: 25–35°C, Winter: 12–25°C",
+      "spring": { "min_c": 20, "max_c": 30 },
+      "summer": { "min_c": 30, "max_c": 40 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 12, "max_c": 25 },
+      "how_to_reach": "Located in Saddar area, central Karachi; accessible via city roads and public transport.",
+      "by_air": "Nearest airport is Jinnah International Airport, approximately 30–40 minutes by car.",
+      "by_road": "Reachable via major city roads; taxis, ride-hailing services, and private vehicles are available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 200–800 per day",
+        "mid_range": "PKR 1,500–3,500 per day",
+        "luxury": "PKR 4,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Karachi",
+          "category": "Luxury",
+          "approx_price_pkr": "15,000–25,000",
+          "location": "Karachi city center",
+          "features": ["Luxury rooms", "Restaurants", "Swimming pool", "Spa and fitness facilities"]
+        },
+        {
+          "name": "Hotel Mehran",
+          "category": "Mid-range",
+          "approx_price_pkr": "5,000–10,000",
+          "location": "Saddar, Karachi",
+          "features": ["Comfortable rooms", "Restaurant", "Walking distance to cathedral"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Karachi-style BBQ", "Seafood", "Pakistani street food"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Restaurants in Saddar", "Boat Basin eateries", "Karachi city center cafes"]
+      },
+      "stories_and_cultural_notes": "Built in 1881, Saint Patrick’s Cathedral is an architectural gem showcasing Gothic Revival style and remains a key religious center for Karachi's Catholic community.",
+      "what_to_pack": "Modest clothing, camera, comfortable walking shoes, and water.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "Established during British colonial rule; serves as the seat of the Archdiocese of Karachi.",
+        "modern_changes": "Restored and maintained by the Church; open to visitors and pilgrims."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Saint_Patrick%27s_Cathedral,_Karachi"
+      ]
+    },
+    {
+      "id": 88,
+      "location_name": "Mazar-e-Quaid",
+      "province_or_region": "Sindh",
+      "district_or_nearby": "Karachi District",
+      "category": "Historical / National Monument",
+      "text_summary": "Mazar-e-Quaid, also known as the Quaid's Mausoleum, is the final resting place of Muhammad Ali Jinnah, the founder of Pakistan. The monument is an iconic symbol of Karachi and a popular tourist destination, featuring impressive white marble architecture and well-maintained gardens.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 20–30°C, Summer: 32–40°C, Autumn: 25–35°C, Winter: 12–25°C",
+      "spring": { "min_c": 20, "max_c": 30 },
+      "summer": { "min_c": 32, "max_c": 40 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 12, "max_c": 25 },
+      "how_to_reach": "Located in central Karachi; accessible via main city roads and public transport.",
+      "by_air": "Nearest airport is Jinnah International Airport, approximately 30–40 minutes by car.",
+      "by_road": "Accessible via major city roads; taxis, ride-hailing services, and private vehicles are available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 200–800 per day",
+        "mid_range": "PKR 1,500–3,500 per day",
+        "luxury": "PKR 4,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Karachi",
+          "category": "Luxury",
+          "approx_price_pkr": "15,000–25,000",
+          "location": "Karachi city center",
+          "features": ["Luxury rooms", "Restaurants", "Swimming pool", "Spa and fitness facilities"]
+        },
+        {
+          "name": "Hotel Mehran",
+          "category": "Mid-range",
+          "approx_price_pkr": "5,000–10,000",
+          "location": "Karachi city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to Mazar-e-Quaid"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Karachi-style BBQ", "Seafood", "Traditional Pakistani dishes"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Restaurants near Mazar-e-Quaid", "Boat Basin and Saddar area eateries"]
+      },
+      "stories_and_cultural_notes": "Mazar-e-Quaid is a symbol of Pakistan's independence and a key site for national celebrations and public gatherings.",
+      "what_to_pack": "Comfortable walking shoes, camera, sun protection, and water.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "Built in 1960s to honor Muhammad Ali Jinnah; designed by architect Yahya Merchant.",
+        "modern_changes": "Well-maintained by the Government of Pakistan; open to tourists and visitors daily."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Mazar-e-Quaid"
+      ]
+    },
+    {
+      "id": 89,
+      "location_name": "Abdullah Shah Ghazi Mausoleum",
+      "province_or_region": "Sindh",
+      "district_or_nearby": "Karachi District",
+      "category": "Religious / Historical Site",
+      "text_summary": "The Abdullah Shah Ghazi Mausoleum is a revered shrine in Karachi dedicated to the Sufi saint Abdullah Shah Ghazi. Located on a hill overlooking the city, it is a significant spiritual and cultural site attracting devotees and visitors seeking blessings and historical insight.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 20–30°C, Summer: 32–40°C, Autumn: 25–35°C, Winter: 12–25°C",
+      "spring": { "min_c": 20, "max_c": 30 },
+      "summer": { "min_c": 32, "max_c": 40 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 12, "max_c": 25 },
+      "how_to_reach": "Situated on a hill in Clifton, Karachi; accessible via main city roads.",
+      "by_air": "Nearest airport is Jinnah International Airport, approximately 25–35 minutes by car.",
+      "by_road": "Reachable via city roads; taxis, ride-hailing services, and private vehicles are recommended.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 200–800 per day",
+        "mid_range": "PKR 1,500–3,500 per day",
+        "luxury": "PKR 4,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Karachi",
+          "category": "Luxury",
+          "approx_price_pkr": "15,000–25,000",
+          "location": "Karachi city center",
+          "features": ["Luxury rooms", "Restaurants", "Swimming pool", "Spa and fitness facilities"]
+        },
+        {
+          "name": "Hotel Mehran",
+          "category": "Mid-range",
+          "approx_price_pkr": "5,000–10,000",
+          "location": "Karachi city",
+          "features": ["Comfortable rooms", "Restaurant", "Close access to mausoleum"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Karachi-style BBQ", "Pakistani street food", "Traditional dishes"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Restaurants near Clifton", "Boat Basin eateries"]
+      },
+      "stories_and_cultural_notes": "The mausoleum is associated with various legends about the saint's miraculous powers. It serves as a spiritual hub for local devotees and Sufi followers.",
+      "what_to_pack": "Comfortable walking shoes, modest clothing, water, camera, and sun protection.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "Abdullah Shah Ghazi was an 8th-century Sufi saint; the mausoleum has been rebuilt and expanded over centuries.",
+        "modern_changes": "Maintained by local authorities and caretakers; open to visitors daily with proper access paths."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Abdullah_Shah_Ghazi"
+      ]
+    },
+    {
+      "id": 90,
+      "location_name": "Sadh Belo Temple",
+      "province_or_region": "Sindh",
+      "district_or_nearby": "Sukkur District",
+      "category": "Religious / Hindu Temple",
+      "text_summary": "Sadh Belo Temple is a significant Hindu temple located on an island in the Indus River near Sukkur. Dedicated to Lord Shiva, the temple complex includes multiple shrines, courtyards, and gardens, serving as an important pilgrimage site for Hindus in Pakistan.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 20–35°C, Summer: 35–45°C, Autumn: 25–35°C, Winter: 10–25°C",
+      "spring": { "min_c": 20, "max_c": 35 },
+      "summer": { "min_c": 35, "max_c": 45 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 10, "max_c": 25 },
+      "how_to_reach": "Located on an island in the Indus River near Sukkur; accessible by boat from Sukkur city.",
+      "by_air": "Nearest airport is Sukkur Airport, approximately 30 minutes by car and boat.",
+      "by_road": "Reachable via Sukkur city roads to the riverbank; boats transport visitors to the temple island.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 200–800 per day",
+        "mid_range": "PKR 1,000–2,500 per day",
+        "luxury": "PKR 3,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Hotel One Sukkur",
+          "category": "Mid-range",
+          "approx_price_pkr": "3,500–7,000",
+          "location": "Sukkur city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to boat for temple"]
+        },
+        {
+          "name": "Pearl Continental Sukkur",
+          "category": "Luxury",
+          "approx_price_pkr": "12,000–18,000",
+          "location": "Sukkur city center",
+          "features": ["Luxury rooms", "Restaurants", "Swimming pool", "Conference facilities"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Sindhi biryani", "Vegetarian curries", "Traditional Sindhi sweets"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Restaurants in Sukkur city", "Local eateries near riverbank"]
+      },
+      "stories_and_cultural_notes": "Sadh Belo is a spiritual center for the Sindhi Hindu community. The temple hosts religious ceremonies and attracts pilgrims during festivals like Maha Shivaratri.",
+      "what_to_pack": "Modest clothing, comfortable walking shoes, water, camera, and sun protection.",
+      "history": {
+        "early_settlement": "Temple complex established in the 19th century on the island of Sadh Belo.",
+        "forts_and_rulers": "",
+        "modern_changes": "Maintained by Hindu community organizations; boats and pathways improved for visitor access."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Sadh_Belo"
+      ]
+    },
+    {
+      "id": 91,
+      "location_name": "Ormara Beach",
+      "province_or_region": "Balochistan",
+      "district_or_nearby": "Ormara, Gwadar District",
+      "category": "Natural Attraction / Beach",
+      "text_summary": "Ormara Beach is a serene coastal destination along the Arabian Sea, known for its pristine sands, calm waters, and natural beauty. It is less crowded compared to other beaches, offering a peaceful environment for relaxation, fishing, and photography.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 20–30°C, Summer: 35–40°C, Autumn: 25–35°C, Winter: 15–25°C",
+      "spring": { "min_c": 20, "max_c": 30 },
+      "summer": { "min_c": 35, "max_c": 40 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 15, "max_c": 25 },
+      "how_to_reach": "Ormara Beach is accessible via the Makran Coastal Highway from Karachi or Gwadar.",
+      "by_air": "Nearest airport is Gwadar International Airport, approximately 3–4 hours by car.",
+      "by_road": "Reachable via Makran Coastal Highway; private cars or buses recommended due to limited public transport.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–4,000 per day",
+        "luxury": "PKR 5,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Ormara Beach Resort",
+          "category": "Mid-range",
+          "approx_price_pkr": "3,000–6,000",
+          "location": "Near Ormara Beach",
+          "features": ["Beachfront rooms", "Restaurant", "Basic amenities"]
+        },
+        {
+          "name": "Gwadar Pearl Continental",
+          "category": "Luxury",
+          "approx_price_pkr": "12,000–20,000",
+          "location": "Gwadar city",
+          "features": ["Luxury rooms", "Swimming pool", "Restaurants", "Spa facilities"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Fresh seafood", "Grilled fish", "Pakistani coastal cuisine"],
+        "vegetarian_options": ["Vegetable curries, rice, salads"],
+        "recommended_restaurants": ["Resorts near Ormara Beach", "Restaurants in Gwadar city"]
+      },
+      "stories_and_cultural_notes": "Ormara is historically a small fishing town with a calm and unspoiled coastline. The area is appreciated for its natural beauty and local fishing culture.",
+      "what_to_pack": "Swimwear, sun protection, camera, comfortable shoes, water, and light clothing.",
+      "history": {
+        "early_settlement": "Ormara has been a small coastal settlement for centuries, inhabited mainly by fishing communities.",
+        "forts_and_rulers": "",
+        "modern_changes": "Development of Makran Coastal Highway has improved access; small resorts and beach facilities are being established."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Ormara"
+      ]
+    },
+    {
+      "id": 92,
+      "location_name": "Astola Island",
+      "province_or_region": "Balochistan",
+      "district_or_nearby": "Gwadar District",
+      "category": "Natural Attraction / Island",
+      "text_summary": "Astola Island, also known as Jezira Haft Talar, is Pakistan's largest offshore island located in the Arabian Sea. Known for its unique ecosystem, rocky terrain, and clear waters, it is a popular destination for eco-tourists, divers, and nature enthusiasts.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 22–32°C, Summer: 35–40°C, Autumn: 25–35°C, Winter: 18–28°C",
+      "spring": { "min_c": 22, "max_c": 32 },
+      "summer": { "min_c": 35, "max_c": 40 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 18, "max_c": 28 },
+      "how_to_reach": "Accessible by boat from Gwadar port; trips are arranged by local tour operators.",
+      "by_air": "Nearest airport is Gwadar International Airport, approximately 3–4 hours by road and boat.",
+      "by_road": "Travel by road to Gwadar, then take a boat to the island; private arrangements required.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 1,500–3,000 per day (mostly for transport and camping)",
+        "mid_range": "PKR 4,000–8,000 per day",
+        "luxury": "PKR 10,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Camping on Astola Island",
+          "category": "Basic / Eco-tourism",
+          "approx_price_pkr": "1,000–3,000",
+          "location": "On the island",
+          "features": ["Camping facilities", "Natural surroundings", "Eco-friendly setup"]
+        },
+        {
+          "name": "Hotels in Gwadar",
+          "category": "Mid-range/Luxury",
+          "approx_price_pkr": "5,000–20,000",
+          "location": "Gwadar city",
+          "features": ["Comfortable rooms", "Restaurants", "Access to Gwadar port for Astola trips"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Fresh seafood", "Grilled fish", "Pakistani coastal cuisine"],
+        "vegetarian_options": ["Vegetable curries, rice, salads"],
+        "recommended_restaurants": ["Restaurants in Gwadar city", "Local seafood vendors"]
+      },
+      "stories_and_cultural_notes": "Astola Island is sacred to the local fishing communities and has unique flora and fauna, including endangered species. The island is often visited for ecological studies and adventure tourism.",
+      "what_to_pack": "Camping gear, water, sun protection, swimwear, camera, and lightweight clothing.",
+      "history": {
+        "early_settlement": "Historically uninhabited, occasionally used by fishermen and for religious purposes.",
+        "forts_and_rulers": "",
+        "modern_changes": "Declared a protected marine reserve; eco-tourism initiatives have started recently."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Astola_Island"
+      ]
+    },
+    {
+      "id": 93,
+      "location_name": "Sonmiani Beach",
+      "province_or_region": "Balochistan",
+      "district_or_nearby": "Lasbela District",
+      "category": "Natural Attraction / Beach",
+      "text_summary": "Sonmiani Beach is a scenic coastal destination along the Arabian Sea, known for its sandy shores, calm waters, and beautiful sunsets. It is a popular spot for picnics, fishing, and camping, attracting both locals and tourists.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 20–32°C, Summer: 35–42°C, Autumn: 25–35°C, Winter: 15–28°C",
+      "spring": { "min_c": 20, "max_c": 32 },
+      "summer": { "min_c": 35, "max_c": 42 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 15, "max_c": 28 },
+      "how_to_reach": "Located near Sonmiani town; accessible via Makran Coastal Highway from Karachi or Hub.",
+      "by_air": "Nearest airport is Jinnah International Airport, Karachi, approximately 3–4 hours by car.",
+      "by_road": "Reachable via Makran Coastal Highway; private cars or buses recommended.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–4,000 per day",
+        "luxury": "PKR 5,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Sonmiani Beach Guest House",
+          "category": "Budget / Basic",
+          "approx_price_pkr": "1,500–3,000",
+          "location": "Near the beach",
+          "features": ["Basic rooms", "Beach access", "Limited amenities"]
+        },
+        {
+          "name": "Hotels in Karachi",
+          "category": "Mid-range/Luxury",
+          "approx_price_pkr": "5,000–20,000",
+          "location": "Karachi city",
+          "features": ["Comfortable rooms", "Restaurants", "Access via Makran Coastal Highway"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Fresh seafood", "Grilled fish", "Pakistani coastal cuisine"],
+        "vegetarian_options": ["Vegetable curries, rice, salads"],
+        "recommended_restaurants": ["Local eateries near Sonmiani", "Restaurants in Hub or Karachi"]
+      },
+      "stories_and_cultural_notes": "Sonmiani Beach is also known for its nearby space research facility, Sonmiani Rocket Launch Center. The beach is peaceful and less crowded, ideal for camping and nature enthusiasts.",
+      "what_to_pack": "Camping gear, swimwear, sunscreen, water, camera, and lightweight clothing.",
+      "history": {
+        "early_settlement": "Coastal area inhabited by local fishing communities.",
+        "forts_and_rulers": "",
+        "modern_changes": "Improved access via Makran Coastal Highway; some guesthouses and picnic areas developed."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Sonmiani_Beach"
+      ]
+    },
+    {
+      "id": 94,
+      "location_name": "Churna Island",
+      "province_or_region": "Balochistan",
+      "district_or_nearby": "Hub District, near Karachi",
+      "category": "Natural Attraction / Island",
+      "text_summary": "Churna Island is a small uninhabited island located off the coast near Karachi. It is popular for snorkeling, scuba diving, and marine life exploration, offering clear waters and vibrant coral reefs.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 22–32°C, Summer: 30–40°C, Autumn: 25–35°C, Winter: 18–28°C",
+      "spring": { "min_c": 22, "max_c": 32 },
+      "summer": { "min_c": 30, "max_c": 40 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 18, "max_c": 28 },
+      "how_to_reach": "Accessible by boat from Mubarak Village or Karachi’s Hawksbay.",
+      "by_air": "Nearest airport is Jinnah International Airport, Karachi, approximately 1–2 hours by car and boat.",
+      "by_road": "Reachable via Karachi city roads to Mubarak Village or Hawksbay, then a short boat ride to the island.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 1,000–3,000 per day",
+        "mid_range": "PKR 3,500–7,000 per day",
+        "luxury": "PKR 10,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Hotels in Karachi",
+          "category": "Mid-range/Luxury",
+          "approx_price_pkr": "5,000–20,000",
+          "location": "Karachi city",
+          "features": ["Comfortable rooms", "Restaurants", "Easy access to boat trips for Churna Island"]
+        },
+        {
+          "name": "Camping on Churna Island",
+          "category": "Basic / Adventure",
+          "approx_price_pkr": "1,500–3,000",
+          "location": "On the island",
+          "features": ["Tent camping", "Marine exploration", "Snorkeling and diving facilities"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Seafood", "Grilled fish", "Pakistani coastal cuisine"],
+        "vegetarian_options": ["Vegetable curries, rice, salads"],
+        "recommended_restaurants": ["Restaurants in Karachi near Hawksbay or Mubarak Village"]
+      },
+      "stories_and_cultural_notes": "Churna Island is a hotspot for adventure tourism and marine biology enthusiasts. The surrounding waters are home to dolphins, turtles, and various fish species.",
+      "what_to_pack": "Snorkeling/diving gear, swimwear, sunscreen, water, camera, and light clothing.",
+      "history": {
+        "early_settlement": "Uninhabited island; historically used by local fishermen.",
+        "forts_and_rulers": "",
+        "modern_changes": "Developed as an adventure and eco-tourism destination; diving and snorkeling trips are organized by local tour operators."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Churna_Island"
+]
+    },
+    {
+      "id": 95,
+      "location_name": "Ranikot Desert Edge",
+      "province_or_region": "Sindh",
+      "district_or_nearby": "Jamshoro District",
+      "category": "Natural Attraction / Desert Landscape",
+      "text_summary": "Ranikot Desert Edge is the outer boundary area of the Ranikot Fort region, known for its expansive desert landscape and rugged terrain. It offers scenic views and is ideal for photography, hiking, and desert exploration.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 20–35°C, Summer: 38–45°C, Autumn: 25–35°C, Winter: 10–25°C",
+      "spring": { "min_c": 20, "max_c": 35 },
+      "summer": { "min_c": 38, "max_c": 45 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 10, "max_c": 25 },
+      "how_to_reach": "Accessible via road from Jamshoro or Sehwan; best reached with a 4x4 vehicle.",
+      "by_air": "Nearest airport is Jinnah International Airport, Karachi, approximately 4–5 hours by car.",
+      "by_road": "Reachable via National Highway and local roads; private vehicles recommended due to rough terrain.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–4,000 per day",
+        "luxury": "PKR 5,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Guesthouses near Ranikot",
+          "category": "Budget / Mid-range",
+          "approx_price_pkr": "2,000–5,000",
+          "location": "Near Ranikot Fort",
+          "features": ["Basic rooms", "Local food", "Access to desert landscape"]
+        },
+        {
+          "name": "Hotels in Hyderabad",
+          "category": "Mid-range/Luxury",
+          "approx_price_pkr": "5,000–15,000",
+          "location": "Hyderabad city",
+          "features": ["Comfortable rooms", "Restaurants", "Travel arrangements to Ranikot"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Sindhi biryani", "Grilled meat", "Vegetarian curries"],
+        "vegetarian_options": ["Vegetable curries, rice, lentils, salads"],
+        "recommended_restaurants": ["Local eateries near Ranikot", "Restaurants in Hyderabad"]
+      },
+      "stories_and_cultural_notes": "The desert edge around Ranikot Fort provides a dramatic backdrop to the historic fort. The area is rich in natural and cultural beauty and is often visited by trekkers and photographers.",
+      "what_to_pack": "Comfortable walking shoes, sunscreen, water, camera, light clothing, and desert gear.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "Adjacent to Ranikot Fort, also called the 'Great Wall of Sindh', one of the largest forts in the world.",
+        "modern_changes": "Maintained by local authorities; visitor access improved but terrain remains rugged."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Ranikot_Fort"
+      ]
+    },
+    {
+      "id": 96,
+      "location_name": "Hingol Mud Volcanoes",
+      "province_or_region": "Balochistan",
+      "district_or_nearby": "Lasbela District",
+      "category": "Natural Attraction / Geological Site",
+      "text_summary": "The Hingol Mud Volcanoes are a unique geological phenomenon located within Hingol National Park. These small volcanoes periodically erupt with mud instead of lava, creating a surreal landscape that attracts tourists, geologists, and photographers.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 20–35°C, Summer: 35–45°C, Autumn: 25–35°C, Winter: 15–28°C",
+      "spring": { "min_c": 20, "max_c": 35 },
+      "summer": { "min_c": 35, "max_c": 45 },
+      "autumn": { "min_c": 25, "max_c": 35 },
+      "winter": { "min_c": 15, "max_c": 28 },
+      "how_to_reach": "Located within Hingol National Park along the Makran Coastal Highway; accessible by car.",
+      "by_air": "Nearest airport is Jinnah International Airport, Karachi, approximately 6–7 hours by road.",
+      "by_road": "Reachable via Makran Coastal Highway; private vehicles recommended due to park terrain.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–4,000 per day",
+        "luxury": "PKR 5,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Guesthouses near Hingol National Park",
+          "category": "Budget / Basic",
+          "approx_price_pkr": "2,000–4,000",
+          "location": "Near Hingol National Park",
+          "features": ["Basic rooms", "Local food", "Access to mud volcanoes and park"]
+        },
+        {
+          "name": "Hotels in Hub or Karachi",
+          "category": "Mid-range/Luxury",
+          "approx_price_pkr": "5,000–20,000",
+          "location": "Hub or Karachi city",
+          "features": ["Comfortable rooms", "Restaurants", "Travel arrangements to Hingol"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Seafood", "Grilled meat", "Traditional Balochi cuisine"],
+        "vegetarian_options": ["Vegetable curries, rice, lentils, salads"],
+        "recommended_restaurants": ["Local eateries near Hingol National Park", "Restaurants in Hub"]
+      },
+      "stories_and_cultural_notes": "The mud volcanoes are considered sacred by some local communities. Hingol National Park combines desert, coastal, and mountainous ecosystems, making it a unique ecological and cultural site.",
+      "what_to_pack": "Comfortable walking shoes, sunscreen, water, camera, and light clothing suitable for desert and coastal climate.",
+      "history": {
+        "early_settlement": "Area sparsely inhabited by local Balochi communities.",
+        "forts_and_rulers": "",
+        "modern_changes": "Designated as a national park; protected for ecological and geological significance."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Hingol_National_Park"
+  ]
+    },
+    {
+      "id": 97,
+      "location_name": "Hazarganji-Chiltan National Park",
+      "province_or_region": "Balochistan",
+      "district_or_nearby": "Quetta District",
+      "category": "National Park / Wildlife Sanctuary",
+      "text_summary": "Hazarganji-Chiltan National Park is a protected area near Quetta, renowned for its diverse wildlife including the endangered Chiltan ibex, urial, and various bird species. The park is a mix of hilly terrain and dry forest, offering opportunities for trekking, wildlife photography, and eco-tourism.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 15–25°C, Summer: 28–35°C, Autumn: 15–25°C, Winter: 0–15°C",
+      "spring": { "min_c": 15, "max_c": 25 },
+      "summer": { "min_c": 28, "max_c": 35 },
+      "autumn": { "min_c": 15, "max_c": 25 },
+      "winter": { "min_c": 0, "max_c": 15 },
+      "how_to_reach": "Located near Quetta city; accessible via Quetta-Chiltan road and local park entrances.",
+      "by_air": "Nearest airport is Quetta International Airport, approximately 30 minutes by car.",
+      "by_road": "Reachable via Quetta city roads; private vehicles or local transport recommended.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–4,000 per day",
+        "luxury": "PKR 5,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Serena Hotel Quetta",
+          "category": "Luxury",
+          "approx_price_pkr": "15,000–25,000",
+          "location": "Quetta city",
+          "features": ["Luxury rooms", "Restaurants", "Spa and fitness facilities", "Close to park"]
+        },
+        {
+          "name": "New Shaheen Hotel",
+          "category": "Mid-range",
+          "approx_price_pkr": "5,000–10,000",
+          "location": "Quetta city",
+          "features": ["Comfortable rooms", "Restaurant", "Access to Hazarganji-Chiltan National Park"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Balochi sajji", "Grilled meat", "Local breads and rice dishes"],
+        "vegetarian_options": ["Vegetable curries, rice, lentils, salads"],
+        "recommended_restaurants": ["Restaurants in Quetta city", "Local eateries near park entrances"]
+      },
+      "stories_and_cultural_notes": "The park is vital for the conservation of the Chiltan ibex and local wildlife. It is also culturally important for local communities who consider the area sacred.",
+      "what_to_pack": "Trekking shoes, water, warm clothing (for winter), camera, binoculars, and sunscreen.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "Declared a national park in 1980s to protect endangered species; managed by Balochistan Wildlife Department."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Hazarganji-Chiltan_National_Park"
+    ]
+    },
+    {
+      "id": 98,
+      "location_name": "Soon Valley / Uchhali Lake",
+      "province_or_region": "Punjab",
+      "district_or_nearby": "Khushab District",
+      "category": "Natural Attraction / Lake & Valley",
+      "text_summary": "Soon Valley is a picturesque region in Punjab known for its scenic landscapes, waterfalls, and lakes, with Uchhali Lake being a prominent saltwater lake. The area is ideal for nature lovers, bird watchers, and photographers seeking tranquility and natural beauty.",
+      "best_time_to_visit": "March to October",
+      "typical_temperature": "Spring: 15–30°C, Summer: 28–38°C, Autumn: 15–30°C, Winter: 5–20°C",
+      "spring": { "min_c": 15, "max_c": 30 },
+      "summer": { "min_c": 28, "max_c": 38 },
+      "autumn": { "min_c": 15, "max_c": 30 },
+      "winter": { "min_c": 5, "max_c": 20 },
+      "how_to_reach": "Accessible via road from Islamabad or Sargodha; the main route is through Khushab city to the valley.",
+      "by_air": "Nearest airport is Islamabad International Airport, approximately 4–5 hours by car.",
+      "by_road": "Reachable via Sargodha-Islamabad road to Khushab, then local roads to Soon Valley and Uchhali Lake; private vehicles recommended.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 500–1,500 per day",
+        "mid_range": "PKR 2,000–4,000 per day",
+        "luxury": "PKR 5,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Soon Valley Guest House",
+          "category": "Budget / Basic",
+          "approx_price_pkr": "1,500–3,000",
+          "location": "Soon Valley",
+          "features": ["Basic rooms", "Local food", "Close to lake and waterfalls"]
+        },
+        {
+          "name": "Hotels in Khushab",
+          "category": "Mid-range",
+          "approx_price_pkr": "3,000–7,000",
+          "location": "Khushab city",
+          "features": ["Comfortable rooms", "Restaurants", "Access to Soon Valley"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Traditional Punjabi food", "Grilled meat", "Local sweets"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Local eateries in Soon Valley", "Restaurants in Khushab city"]
+      },
+      "stories_and_cultural_notes": "The Soon Valley is steeped in folklore and local legends, with some lakes considered sacred by nearby communities. Uchhali Lake is home to migratory birds, making it important for birdwatchers.",
+      "what_to_pack": "Comfortable walking shoes, water, camera, binoculars, light clothing, and sun protection.",
+      "history": {
+        "early_settlement": "The valley has been inhabited by local Punjabi communities for centuries.",
+        "forts_and_rulers": "",
+        "modern_changes": "Developed as a tourist destination with guesthouses and improved road access."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Soon_Valley"
+    ]
+    },
+    {
+      "id": 99,
+      "location_name": "Rehman Baba’s Shrine",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Peshawar District",
+      "category": "Religious / Historical Site",
+      "text_summary": "Rehman Baba’s Shrine is the mausoleum of the renowned Pashto Sufi poet, Rehman Baba, located in Peshawar. The shrine is an important cultural and spiritual site, attracting devotees, poetry lovers, and tourists from across the region.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 15–25°C, Summer: 28–38°C, Autumn: 15–25°C, Winter: 5–15°C",
+      "spring": { "min_c": 15, "max_c": 25 },
+      "summer": { "min_c": 28, "max_c": 38 },
+      "autumn": { "min_c": 15, "max_c": 25 },
+      "winter": { "min_c": 5, "max_c": 15 },
+      "how_to_reach": "Located in Peshawar city; accessible by local transport, taxi, or private vehicle.",
+      "by_air": "Nearest airport is Bacha Khan International Airport, Peshawar, approximately 30 minutes by car.",
+      "by_road": "Easily reachable via Peshawar city roads; local buses, taxis, and rickshaws available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 200–800 per day",
+        "mid_range": "PKR 1,000–2,500 per day",
+        "luxury": "PKR 3,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Peshawar",
+          "category": "Luxury",
+          "approx_price_pkr": "15,000–25,000",
+          "location": "Peshawar city",
+          "features": ["Luxury rooms", "Restaurants", "Spa", "Close to Rehman Baba Shrine"]
+        },
+        {
+          "name": "Hotel One Peshawar",
+          "category": "Mid-range",
+          "approx_price_pkr": "5,000–10,000",
+          "location": "Peshawar city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to shrine"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli kebab", "Kabuli pulao", "Pashto-style grilled meat"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Local eateries near the shrine", "Restaurants in Peshawar city"]
+      },
+      "stories_and_cultural_notes": "Rehman Baba, known as the 'Father of Pashto Poetry', is revered for his Sufi poetry. His shrine hosts annual gatherings (urs) commemorating his life and teachings.",
+      "what_to_pack": "Modest clothing, comfortable walking shoes, water, camera, and sun protection.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "Shrine maintained by local authorities and Sufi community; renovated over time to accommodate pilgrims and visitors."
+      },
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rehman_Baba"
+      ]
+    },
+    {
+      "id": 100,
+      "location_name": "Ashab-e-Baba Shrine",
+      "province_or_region": "Khyber Pakhtunkhwa",
+      "district_or_nearby": "Peshawar District",
+      "category": "Religious / Historical Site",
+      "text_summary": "Ashab-e-Baba Shrine is an ancient spiritual site in Peshawar, revered by locals for its Sufi heritage and cultural significance. It attracts pilgrims and visitors interested in history, spirituality, and local traditions.",
+      "best_time_to_visit": "October to March",
+      "typical_temperature": "Spring: 15–25°C, Summer: 28–38°C, Autumn: 15–25°C, Winter: 5–15°C",
+      "spring": { "min_c": 15, "max_c": 25 },
+      "summer": { "min_c": 28, "max_c": 38 },
+      "autumn": { "min_c": 15, "max_c": 25 },
+      "winter": { "min_c": 5, "max_c": 15 },
+      "how_to_reach": "Located in Peshawar city; reachable via local transport, taxis, or private vehicles.",
+      "by_air": "Nearest airport is Bacha Khan International Airport, Peshawar, approximately 30–40 minutes by car.",
+      "by_road": "Accessible via main Peshawar roads; local buses, rickshaws, and taxis are available.",
+      "cost_estimate": {
+        "budget_traveller": "PKR 200–800 per day",
+        "mid_range": "PKR 1,000–2,500 per day",
+        "luxury": "PKR 3,000+ per day"
+      },
+      "hotels": [
+        {
+          "name": "Pearl Continental Peshawar",
+          "category": "Luxury",
+          "approx_price_pkr": "15,000–25,000",
+          "location": "Peshawar city",
+          "features": ["Luxury rooms", "Restaurants", "Spa", "Close to Ashab-e-Baba Shrine"]
+        },
+        {
+          "name": "Hotel One Peshawar",
+          "category": "Mid-range",
+          "approx_price_pkr": "5,000–10,000",
+          "location": "Peshawar city",
+          "features": ["Comfortable rooms", "Restaurant", "Easy access to shrine"]
+        }
+      ],
+      "cuisine_and_food": {
+        "local_dishes": ["Chapli kebab", "Kabuli pulao", "Pashto-style grilled meat"],
+        "vegetarian_options": ["Vegetable curries, lentils, rice, salads"],
+        "recommended_restaurants": ["Local eateries near the shrine", "Restaurants in Peshawar city"]
+      },
+      "stories_and_cultural_notes": "The shrine is associated with Sufi saints and local spiritual traditions, drawing devotees during special occasions and for daily prayers.",
+      "what_to_pack": "Modest clothing, comfortable shoes, water, and camera.",
+      "history": {
+        "early_settlement": "",
+        "forts_and_rulers": "",
+        "modern_changes": "Maintained by local religious authorities; site preserved for cultural and spiritual heritage."
+      },
+      "source_urls": [
+        "https://www.pakistantoursguide.com/ashab-e-baba-shrine-peshawar/",
+        "https://en.wikipedia.org/wiki/Peshawar#Religious_sites"
+      ]
     }
     
     
@@ -3288,4 +4775,9 @@
     
     
     
-  ]
+    
+    
+    
+    
+    
+]
